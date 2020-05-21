@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: 2020 Joint Conference on AI Music Creativity 
 logo: logo_aimusic2020.png
+show_downloads: true
