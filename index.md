@@ -1,5 +1,3 @@
-# The 2020 Joint Conference on AI Music Creativity
-
 ## Oct 19-23 2020 organized and hosted virtually by the [Royal Institute of Technology (KTH), Stockholm, Sweden](https://www.kth.se)
 
 * [Call for papers](callforpapers.md)
