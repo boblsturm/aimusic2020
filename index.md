@@ -2,8 +2,8 @@
 
 Oct 19-23 2020 hosted virtually by the Royal Institute of Technology (KTH), Stockholm, Sweden 
 
-[Call for papers, tutorials and panels](https://boblsturm.github.io/aimusic2020/#CFP)
-[Call for musical works](https://boblsturm.github.io/aimusic2020/#CFM)
+[Call for papers, tutorials and panels](https://boblsturm.github.io/aimusic2020/#cfp)
+[Call for musical works](https://boblsturm.github.io/aimusic2020/#cfm)
 
 The 2020 Joint Conference on AI Music Creativity brings together for the first time two overlapping research forums: The Computer Simulation of Music Creativity conference (est. 2016), and The International Workshop on Musical Metacreation (est. 2012). The principal goal is to bring together scholars and artists interested in the virtual emulation of musical creativity and its use for music creation, and to provide an interdisciplinary platform to promote, present and discuss their work in scientific and artistic contexts.
 
@@ -11,7 +11,7 @@ The computational simulation of musical creativity continues to be an exciting a
 
 The 2020 Joint Conference on AI Music Creativity will consist of synchronous and asynchronous events. The five-day program will feature tutorials, research paper presentations, discussion panels, an online exhibition, invited spotlight presentations and two keynotes delivered by Professor Emeritus Dr. Johan Sundberg (Speech, Music and Hearing, KTH) and Dr. Alice Eldridge (Music, Sussex University, UK).
 
-## [Call for papers, tutorials, panels](#CFP)
+## [Call for papers, tutorials, panels](#cfp)
 
 We encourage submissions of papers, tutorials and panels on topics related to CSMC and MuMe, including, but not limited to, the following:
 
@@ -71,7 +71,7 @@ Please contact the panel chair [Oded Ben-Tal](mailto:obental@gmail.com).
 _Tutorials_
 Please contact the tutorial chair [xyz](mailto:xyz@gmail.com).
 
-## [Call for musical works](#CFM)
+## [Call for musical works](#cfm)
 
 We solicit entries for consideration for an online exhibition during the conference, similar in format to the one organized at the [NeurIPS 2019 Workshop on Machinee Learning for Creativity and Design](http://www.aiartonline.com/category/music-2019).
 
