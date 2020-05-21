@@ -1,4 +1,4 @@
-## The 2020 Joint Conference on AI Music Creativity 
+# The 2020 Joint Conference on AI Music Creativity 
 
 Oct 19-23 2020 hosted virtually by the Royal Institute of Technology (KTH), Stockholm, Sweden 
 
@@ -8,11 +8,11 @@ The computational simulation of musical creativity continues to be an exciting a
 
 The 2020 Joint Conference on AI Music Creativity will consist of synchronous and asynchronous events. The five-day program will feature tutorials, research paper presentations, discussion panels, an online exhibition, invited spotlight presentations and two keynotes delivered by Professor Emeritus Dr. Johan Sundberg (Speech, Music and Hearing, KTH) and Dr. Alice Eldridge (Music, Sussex University, UK).
 
-# Call for papers, tutorials, panels, & musical works
+## Call for papers, tutorials, panels, & musical works
 
-We encourage submissions of tutorials, papers and panels on topics related to CSMC and MuMe, including, but not limited to, the following:
+We encourage submissions of papers, tutorials and panels on topics related to CSMC and MuMe, including, but not limited to, the following:
 
-## Systems
+_Systems_
 * systems capable of analysing music
 * systems capable of generating music 
 * systems capable of performing music 
@@ -28,7 +28,7 @@ We encourage submissions of tutorials, papers and panels on topics related to CS
 * systems implementing computational aesthetics, emotional responses, novelty and originality
 * applications of CSMC and/or MuMe for digital entertainment: sound design, soundtracks, interactive art, etc. 
 
-## Theory
+_Theory_
 * surveys of state-of-the-art techniques in the research area
 * novel representations of musical information
 * methodologies for qualitative or quantitative evaluation of CSMC and/or MuMe systems
@@ -42,41 +42,39 @@ We encourage submissions of tutorials, papers and panels on topics related to CS
 * authorship and legal implications of CSMC and/or MuMe
 * future directions of CSMC and/or MuMe
 
-## Paper submission format
+### Paper submission format
 There are three formats for paper submissions:
 * Full papers (8 pages maximum, not including references); 
 * Work-in-progress papers (5 pages maximum, not including references); 
 * Demonstrations (3 pages maximum, not including references). 
 
-Since we will use single-blind reviewing, submissions do not have to be anonymized. Each submission will receive at least three reviews. All papers should be submitted as complete works. Demo systems should be tested and working by the time of submission, rather than be speculative. We encourage audio and video material to accompany and illustrate the papers (especially for demos). We ask that authors arrange for their web hosting of audio and video files, and give URL links to all such files within the text of the submitted paper.
+Paper submissions do not have to be anonymized. Each submission will receive at least three reviews. All papers should be submitted as complete works. Demo systems should be tested and working by the time of submission, rather than be speculative. We encourage audio and video material to accompany and illustrate submitted papers. We ask that authors arrange for their web hosting of audio and video files, and give URL links to all such files within the text of the submitted paper.
 
 [Mandatory template for the conference](https://github.com/boblsturm/aimusic2020/blob/master/templates_aimusic2020.zip)
 
 EasyChair submission link: http://easychair.org/conferences/?conf=csmcmume2020 
 
-Accepted full papers will be published in a proceedings with ISBN 978-91-519-5560-5 
+Accepted full papers will be published in a proceedings with ISBN 978-91-519-5560-5.
 
 Selected papers will be invited for expansion and consideration for publication in the Journal of Creative Music Systems. 
 
-Important dates
+### Important dates for paper submission
 * Paper submission deadline: August 14 2020 
 * Paper notification: September 18 2020 
 * Camera-ready paper deadline: October 2 2020 
-
-Contact the Conference Chair Bob L. T. Sturm: bobs@kth.se to discuss any special needs/concerns.
 
 # Registration
 At least one author of each accepted submission should register for the conference by Sep. 25, 2020. Papers without registered authors will be withdrawn. Please check the conference website for details on registration.
 
 # About The 2020 Joint Conference on AI Music Creativity 
-The event is organized by the Division of Speech, Music and Hearing, School of Electrical and Computer Engineering (KTH) in collaboration with the Royal Conservatory of Music (KMH)
+The event is organized by the [Division of Speech, Music and Hearing](https://www.kth.se/tmh/division-of-speech-music-and-hearing-1.780110) in the [School of Electrical and Computer Engineering (KTH)](https://www.kth.se/en/eecs) in collaboration with the [Royal Conservatory of Music (KMH)](https://www.kmh.se/).
 
-* Conference chair: Bob L. T. Sturm, Division of Speech, Music and Hearing, KTH
-* Paper chair: Andy Elmsley, CTO Five Vectors
-* Music chair: Mattias Sköld, Instutitionen för komposition, dirigering och musikteori, KMH
-* Panel chair: Oded Ben-Tal, Department of Performing Arts, Kingston University, UK
-* Publicity chair: André Holzapfel, Division of Media Technology and Interaction Design, KTH
-* Sound and music computing chair: Roberto Bresin, Division of Media Technology and Interaction Design, KTH
+* Conference chair: [Bob L. T. Sturm](https://www.kth.se/profile/bobs), Division of Speech, Music and Hearing, KTH
+* Paper chair: [Andy Elmsley, CTO Five Vectors](https://www.fivevectors.io/)
+* Music chair: [Mattias Sköld](http://www.mattiasskold.com/), Instutitionen för komposition, dirigering och musikteori, KMH
+* Panel chair: [Oded Ben-Tal](http://obental.wixsite.com/main), Department of Performing Arts, Kingston University, UK
+* Publicity chair: [André Holzapfel](https://www.kth.se/profile/holzap), [Division of Media Technology and Interaction Design, KTH](https://www.kth.se/mid/)
+* Sound and music computing chair: [Roberto Bresin](https://www.kth.se/profile/roberto), [Division of Media Technology and Interaction Design, KTH](https://www.kth.se/mid/)
 
 Questions and requests
-Please direct any inquiries/suggestions/special requests to the Conference Chair Bob L. T. Sturm: bobs@kth.se 
+Please direct any inquiries/suggestions/special requests to the Conference Chair [Bob L. T. Sturm](mailto:bobs@kth.se)  
