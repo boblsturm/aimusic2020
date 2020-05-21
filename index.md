@@ -1,9 +1,5 @@
 ## Oct 19-23 2020 organized and hosted virtually by the [Royal Institute of Technology (KTH), Stockholm, Sweden](https://www.kth.se)
 
-* [Call for papers](callforpapers.md)
-* [Call for tutorials](callfortutorials.md)
-* [Call for panels](callforpanels.md)
-* [Call for music](callformusic.md)
 
 The 2020 Joint Conference on AI Music Creativity brings together for the first time two overlapping research forums: [The Computer Simulation of Music Creativity conference (est. 2016)](https://csmc2018.wordpress.com/), and [The International Workshop on Musical Metacreation (est. 2012)](http://musicalmetacreation.org/). The principal goal is to bring together scholars and artists interested in the virtual emulation of musical creativity and its use for music creation, and to provide an interdisciplinary platform to promote, present and discuss their work in scientific and artistic contexts.
 
@@ -44,6 +40,12 @@ _Theory_
 * emerging musical styles and approaches to music production and performance involving the use of CSMC and/or MuMe systems 
 * authorship and legal implications of CSMC and/or MuMe
 * future directions of CSMC and/or MuMe
+
+Please see the following pages for more information:
+* [Call for papers](callforpapers.md)
+* [Call for tutorials](callfortutorials.md)
+* [Call for panels](callforpanels.md)
+* [Call for music](callformusic.md)
 
 # Registration
 At least one author of each accepted submission should register for the conference by Sep. 25, 2020. Papers without registered authors will be withdrawn. Please check the conference website for details on registration.
