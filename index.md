@@ -49,7 +49,7 @@ _Theory_
 ### Submission formats
 _Papers_
 
-All papers must use the <a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">mandatory template for the conference</a>, and be submitted through the EasyChair submission link: [http://easychair.org/conferences/?conf=csmcmume2020](http://easychair.org/conferences/?conf=csmcmume2020).
+All papers must use the <a id="raw-url" href="https://github.com/boblsturm/aimusic2020/blob/master/templates_aimusic2020.zip">mandatory template for the conference</a>, and be submitted through the EasyChair submission link: [http://easychair.org/conferences/?conf=csmcmume2020](http://easychair.org/conferences/?conf=csmcmume2020).
 
 There are three formats for paper submissions:
 * Full papers (8 pages maximum, not including references)
