@@ -11,9 +11,7 @@ The computational simulation of musical creativity continues to be an exciting a
 
 The 2020 Joint Conference on AI Music Creativity will consist of synchronous and asynchronous events. The five-day program will feature tutorials, research paper presentations, discussion panels, an online exhibition, invited spotlight presentations and two keynotes delivered by [Professor Emeritus Dr. Johan Sundberg (Speech, Music and Hearing, KTH)](https://scholar.google.co.uk/citations?user=UXXUEcoAAAAJ&hl=en&oi=ao) and [Dr. Alice Eldridge (Music, Sussex University, UK)](https://profiles.sussex.ac.uk/p127749-alice-eldridge).
 
-# Call for papers, tutorials, and panels
-
-We encourage submissions of papers, tutorials and panels on topics related to CSMC and MuMe, including, but not limited to, the following:
+We encourage submissions of papers, tutorials, panels and musical works on topics related to CSMC and MuMe, including, but not limited to, the following:
 
 _Systems_
 
@@ -50,6 +48,7 @@ _Theory_
 ## Call for papers
 
 _Submission Formats_
+
 All papers must use the <a id="raw-url" href="https://github.com/boblsturm/aimusic2020/blob/master/templates_aimusic2020.zip" download>mandatory template for the conference</a>, and be submitted through the EasyChair submission link: [http://easychair.org/conferences/?conf=csmcmume2020](http://easychair.org/conferences/?conf=csmcmume2020).
 
 There are three formats for paper submissions:
