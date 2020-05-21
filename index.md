@@ -1,6 +1,4 @@
-# The 2020 Joint Conference on AI Music Creativity 
-
-Oct 19-23 2020 hosted virtually by the Royal Institute of Technology (KTH), Stockholm, Sweden 
+Oct 19-23 2020 hosted virtually by the [Royal Institute of Technology (KTH), Stockholm, Sweden](https://www.kth.se)
 
 [Call for papers, tutorials and panels](https://boblsturm.github.io/aimusic2020/#cfp)
 [Call for musical works](https://boblsturm.github.io/aimusic2020/#cfm)
