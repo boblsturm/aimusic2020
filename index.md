@@ -2,7 +2,7 @@
 
 ## Oct 19-23 2020 organized and hosted virtually by the [Royal Institute of Technology (KTH), Stockholm, Sweden](https://www.kth.se)
 
-* [Call for papers](#call-for-papers)
+* [Call for papers](callforpapers.md)
 * [Call for tutorials](#call-for-tutorials)
 * [Call for panels](#call-for-panels)
 * [Call for music](#call-for-music)
