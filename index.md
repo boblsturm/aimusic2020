@@ -1,8 +1,9 @@
 # Oct 19-23 2020 hosted virtually by the [Royal Institute of Technology (KTH), Stockholm, Sweden](https://www.kth.se)
 
-[Call for papers, tutorials and panels](#call-for-papers-tutorials-and-panels)
-
-[Call for musical works](https://boblsturm.github.io/aimusic2020/#call-for-music)
+* [Call for papers](#call-for-papers)
+* [Call for tutorials](#call-for-tutorials)
+* [Call for panels](#call-for-panels)
+* [Call for music](#call-for-music)
 
 The 2020 Joint Conference on AI Music Creativity brings together for the first time two overlapping research forums: [The Computer Simulation of Music Creativity conference (est. 2016)](https://csmc2018.wordpress.com/), and [The International Workshop on Musical Metacreation (est. 2012)](http://musicalmetacreation.org/). The principal goal is to bring together scholars and artists interested in the virtual emulation of musical creativity and its use for music creation, and to provide an interdisciplinary platform to promote, present and discuss their work in scientific and artistic contexts.
 
@@ -10,7 +11,7 @@ The computational simulation of musical creativity continues to be an exciting a
 
 The 2020 Joint Conference on AI Music Creativity will consist of synchronous and asynchronous events. The five-day program will feature tutorials, research paper presentations, discussion panels, an online exhibition, invited spotlight presentations and two keynotes delivered by [Professor Emeritus Dr. Johan Sundberg (Speech, Music and Hearing, KTH)](https://scholar.google.co.uk/citations?user=UXXUEcoAAAAJ&hl=en&oi=ao) and [Dr. Alice Eldridge (Music, Sussex University, UK)](https://profiles.sussex.ac.uk/p127749-alice-eldridge).
 
-## Call for papers, tutorials, and panels
+# Call for papers, tutorials, and panels
 
 We encourage submissions of papers, tutorials and panels on topics related to CSMC and MuMe, including, but not limited to, the following:
 
@@ -46,10 +47,10 @@ _Theory_
 * authorship and legal implications of CSMC and/or MuMe
 * future directions of CSMC and/or MuMe
 
-### Submission formats
-_Papers_
+## Call for papers
 
-All papers must use the <a id="raw-url" href="https://github.com/boblsturm/aimusic2020/blob/master/templates_aimusic2020.zip">mandatory template for the conference</a>, and be submitted through the EasyChair submission link: [http://easychair.org/conferences/?conf=csmcmume2020](http://easychair.org/conferences/?conf=csmcmume2020).
+_Submission Formats_
+All papers must use the <a id="raw-url" href="https://github.com/boblsturm/aimusic2020/blob/master/templates_aimusic2020.zip" download>mandatory template for the conference</a>, and be submitted through the EasyChair submission link: [http://easychair.org/conferences/?conf=csmcmume2020](http://easychair.org/conferences/?conf=csmcmume2020).
 
 There are three formats for paper submissions:
 * Full papers (8 pages maximum, not including references)
@@ -67,11 +68,11 @@ Selected papers will be invited for expansion and consideration for publication 
 * Paper notification: September 18 2020 
 * Camera-ready paper deadline: October 2 2020 
 
-_Panels_
+## Call for Panels
 
 Please contact the panel chair [Oded Ben-Tal](mailto:obental@gmail.com).
 
-_Tutorials_
+## Call for Tutorials
 
 Please contact the tutorial chair [xyz](mailto:xyz@gmail.com).
 
@@ -96,7 +97,7 @@ All submissions will be reviewed by independent members of the music selection c
 # Registration
 At least one author of each accepted submission should register for the conference by Sep. 25, 2020. Papers without registered authors will be withdrawn. Please check the conference website for details on registration.
 
-# About The 2020 Joint Conference on AI Music Creativity 
+## About 
 The event is organized by the [Division of Speech, Music and Hearing](https://www.kth.se/tmh/division-of-speech-music-and-hearing-1.780110) in the [School of Electrical and Computer Engineering (KTH)](https://www.kth.se/en/eecs) in collaboration with the [Royal Conservatory of Music (KMH)](https://www.kmh.se/).
 
 * Conference chair: [Bob L. T. Sturm](https://www.kth.se/profile/bobs), Division of Speech, Music and Hearing, KTH
@@ -106,5 +107,5 @@ The event is organized by the [Division of Speech, Music and Hearing](https://ww
 * Publicity chair: [André Holzapfel](https://www.kth.se/profile/holzap), [Division of Media Technology and Interaction Design, KTH](https://www.kth.se/mid/)
 * Sound and music computing chair: [Roberto Bresin](https://www.kth.se/profile/roberto), [Division of Media Technology and Interaction Design, KTH](https://www.kth.se/mid/)
 
-# Questions and requests
+## Questions and requests
 Please direct any inquiries/suggestions/special requests to the Conference Chair [Bob L. T. Sturm](mailto:bobs@kth.se)  
