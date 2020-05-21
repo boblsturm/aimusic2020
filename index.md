@@ -1,4 +1,4 @@
-## 2020 Joint Conference on AI Music Creativity 
+## The 2020 Joint Conference on AI Music Creativity 
 
 Oct 19-23 2020 hosted virtually by the Royal Institute of Technology (KTH), Stockholm, Sweden 
 
@@ -6,4 +6,77 @@ The 2020 Joint Conference on AI Music Creativity brings together for the first t
 
 The computational simulation of musical creativity continues to be an exciting and significant area of academic research, and is now making impacts in commercial realms. Such systems pose several theoretical and technical challenges, and are the result of an interdisciplinary effort that encompasses the domains of music, artificial intelligence, cognitive science and philosophy. This can be seen within the broader realm of Musical Metacreation, which studies the design and use of such generative tools and theories for music making: discovery and exploration of novel musical styles and content, collaboration between human performers and creative software “partners”, and design of systems in gaming and entertainment that dynamically generate or modify music.
 
-The five-day program will feature tutorials, research paper presentations, discussion panels, an online exhibition, invited spotlight presentations and two keynotes delivered by Professor Emeritus Dr. Johan Sundberg (Speech, Music and Hearing, KTH) and Dr. Alice Eldridge (Music, Sussex University, UK).
+The 2020 Joint Conference on AI Music Creativity will consist of synchronous and asynchronous events. The five-day program will feature tutorials, research paper presentations, discussion panels, an online exhibition, invited spotlight presentations and two keynotes delivered by Professor Emeritus Dr. Johan Sundberg (Speech, Music and Hearing, KTH) and Dr. Alice Eldridge (Music, Sussex University, UK).
+
+# Call for papers, tutorials, panels, & musical works
+
+We encourage submissions of tutorials, papers and panels on topics related to CSMC and MuMe, including, but not limited to, the following:
+
+## Systems
+* systems capable of analysing music
+* systems capable of generating music 
+* systems capable of performing music 
+* systems capable of (online) improvisation
+* systems for learning or modeling music style and structure
+* systems for intelligently remixing or recombining musical material
+* systems in sound synthesis, or automatic synthesizer design
+* adaptive music generation systems
+* music-robotic systems
+* systems implementing societies of virtual musicians
+* systems that foster and enhance the musical creativity of human users
+* music recommendation systems
+* systems implementing computational aesthetics, emotional responses, novelty and originality
+* applications of CSMC and/or MuMe for digital entertainment: sound design, soundtracks, interactive art, etc. 
+
+## Theory
+* surveys of state-of-the-art techniques in the research area
+* novel representations of musical information
+* methodologies for qualitative or quantitative evaluation of CSMC and/or MuMe systems
+* philosophical foundations of CSMC and/or MuMe
+* mathematical foundations of CSMC and/or MuMe
+* evolutionary models for CSMC and/or MuMe
+* cognitive models for CSMC and/or MuMe
+* studies on the applicability of music-creative techniques to other research areas
+* new models for improving CSMC and/or MuMe
+* emerging musical styles and approaches to music production and performance involving the use of CSMC and/or MuMe systems 
+* authorship and legal implications of CSMC and/or MuMe
+* future directions of CSMC and/or MuMe
+
+## Paper submission format
+There are three formats for paper submissions:
+* Full papers (8 pages maximum, not including references); 
+* Work-in-progress papers (5 pages maximum, not including references); 
+* Demonstrations (3 pages maximum, not including references). 
+
+Since we will use single-blind reviewing, submissions do not have to be anonymized. Each submission will receive at least three reviews. All papers should be submitted as complete works. Demo systems should be tested and working by the time of submission, rather than be speculative. We encourage audio and video material to accompany and illustrate the papers (especially for demos). We ask that authors arrange for their web hosting of audio and video files, and give URL links to all such files within the text of the submitted paper.
+
+[Mandatory template for the conference](https://github.com/boblsturm/aimusic2020/blob/master/templates_aimusic2020.zip)
+
+EasyChair submission link: http://easychair.org/conferences/?conf=csmcmume2020 
+
+Accepted full papers will be published in a proceedings with ISBN 978-91-519-5560-5 
+
+Selected papers will be invited for expansion and consideration for publication in the Journal of Creative Music Systems. 
+
+Important dates
+* Paper submission deadline: August 14 2020 
+* Paper notification: September 18 2020 
+* Camera-ready paper deadline: October 2 2020 
+
+Contact the Conference Chair Bob L. T. Sturm: bobs@kth.se to discuss any special needs/concerns.
+
+# Registration
+At least one author of each accepted submission should register for the conference by Sep. 25, 2020. Papers without registered authors will be withdrawn. Please check the conference website for details on registration.
+
+# About The 2020 Joint Conference on AI Music Creativity 
+The event is organized by the Division of Speech, Music and Hearing, School of Electrical and Computer Engineering (KTH) in collaboration with the Royal Conservatory of Music (KMH)
+
+* Conference chair: Bob L. T. Sturm, Division of Speech, Music and Hearing, KTH
+* Paper chair: Andy Elmsley, CTO Five Vectors
+* Music chair: Mattias Sköld, Instutitionen för komposition, dirigering och musikteori, KMH
+* Panel chair: Oded Ben-Tal, Department of Performing Arts, Kingston University, UK
+* Publicity chair: André Holzapfel, Division of Media Technology and Interaction Design, KTH
+* Sound and music computing chair: Roberto Bresin, Division of Media Technology and Interaction Design, KTH
+
+Questions and requests
+Please direct any inquiries/suggestions/special requests to the Conference Chair Bob L. T. Sturm: bobs@kth.se 
