@@ -15,6 +15,7 @@ The 2020 Joint Conference on AI Music Creativity will consist of synchronous and
 We encourage submissions of papers, tutorials and panels on topics related to CSMC and MuMe, including, but not limited to, the following:
 
 _Systems_
+
 * systems capable of analysing music
 * systems capable of generating music 
 * systems capable of performing music 
@@ -31,6 +32,7 @@ _Systems_
 * applications of CSMC and/or MuMe for digital entertainment: sound design, soundtracks, interactive art, etc. 
 
 _Theory_
+
 * surveys of state-of-the-art techniques in the research area
 * novel representations of musical information
 * methodologies for qualitative or quantitative evaluation of CSMC and/or MuMe systems
@@ -46,9 +48,8 @@ _Theory_
 
 ### Submission formats
 _Papers_
+
 All papers must use the <a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">mandatory template for the conference</a>, and be submitted through the EasyChair submission link: [http://easychair.org/conferences/?conf=csmcmume2020](http://easychair.org/conferences/?conf=csmcmume2020).
-
-
 
 There are three formats for paper submissions:
 * Full papers (8 pages maximum, not including references)
@@ -67,9 +68,11 @@ Selected papers will be invited for expansion and consideration for publication 
 * Camera-ready paper deadline: October 2 2020 
 
 _Panels_
+
 Please contact the panel chair [Oded Ben-Tal](mailto:obental@gmail.com).
 
 _Tutorials_
+
 Please contact the tutorial chair [xyz](mailto:xyz@gmail.com).
 
 ## Call for music
@@ -81,6 +84,7 @@ Submitted works (video, audio) can be of any style, but must involve the use of 
 Submissions should not be sketches but in their final format and will be judged on their presentability as an online experience. Submissions should not be anonymised. 
 
 _Submission process_
+
 Please submit the following to The Music Chair [Mattias Sköld](mailto:maskold@kth.se)
 * a link to the work you wish to present (in its final form)
 * an A4-portrait PDF, up to 2 pages, describing your work and the system you are using, and explaining how it relates to the focus of the conference
@@ -102,5 +106,5 @@ The event is organized by the [Division of Speech, Music and Hearing](https://ww
 * Publicity chair: [André Holzapfel](https://www.kth.se/profile/holzap), [Division of Media Technology and Interaction Design, KTH](https://www.kth.se/mid/)
 * Sound and music computing chair: [Roberto Bresin](https://www.kth.se/profile/roberto), [Division of Media Technology and Interaction Design, KTH](https://www.kth.se/mid/)
 
-Questions and requests
+# Questions and requests
 Please direct any inquiries/suggestions/special requests to the Conference Chair [Bob L. T. Sturm](mailto:bobs@kth.se)  
