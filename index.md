@@ -1,4 +1,4 @@
-**Oct 19-23 2020 organized and hosted virtually by the [Royal Institute of Technology (KTH), Stockholm, Sweden](https://www.kth.se)**
+# Oct 19-23 2020 organized and hosted virtually by the [Royal Institute of Technology (KTH), Stockholm, Sweden](https://www.kth.se)**
 
 * [Call for papers](callforpapers.md)
 * [Call for tutorials](callfortutorials.md)
@@ -48,7 +48,7 @@ _Theory_
 # Registration
 At least one author of each accepted submission should register for the conference by Sep. 25, 2020. Papers without registered authors will be withdrawn. Please check the conference website for details on registration.
 
-## About 
+# About 
 The event is organized by the [Division of Speech, Music and Hearing](https://www.kth.se/tmh/division-of-speech-music-and-hearing-1.780110) in the [School of Electrical and Computer Engineering (KTH)](https://www.kth.se/en/eecs) in collaboration with the [Royal Conservatory of Music (KMH)](https://www.kmh.se/).
 
 * Conference chair: [Bob L. T. Sturm](https://www.kth.se/profile/bobs), Division of Speech, Music and Hearing, KTH
@@ -58,5 +58,5 @@ The event is organized by the [Division of Speech, Music and Hearing](https://ww
 * Publicity chair: [André Holzapfel](https://www.kth.se/profile/holzap), [Division of Media Technology and Interaction Design, KTH](https://www.kth.se/mid/)
 * Sound and music computing chair: [Roberto Bresin](https://www.kth.se/profile/roberto), [Division of Media Technology and Interaction Design, KTH](https://www.kth.se/mid/)
 
-## Questions and requests
+# Questions and requests
 Please direct any inquiries/suggestions/special requests to the Conference Chair [Bob L. T. Sturm](mailto:bobs@kth.se)  
