@@ -1,6 +1,6 @@
 # Oct 19-23 2020 hosted virtually by the [Royal Institute of Technology (KTH), Stockholm, Sweden](https://www.kth.se)
 
-[Call for papers, tutorials and panels](#call-for-papers,-tutorials,-panels)
+[Call for papers, tutorials and panels](#call-for-papers)
 
 [Call for musical works](https://boblsturm.github.io/aimusic2020/#cfm)
 
@@ -10,7 +10,7 @@ The computational simulation of musical creativity continues to be an exciting a
 
 The 2020 Joint Conference on AI Music Creativity will consist of synchronous and asynchronous events. The five-day program will feature tutorials, research paper presentations, discussion panels, an online exhibition, invited spotlight presentations and two keynotes delivered by Professor Emeritus Dr. Johan Sundberg (Speech, Music and Hearing, KTH) and Dr. Alice Eldridge (Music, Sussex University, UK).
 
-##Call for papers, tutorials, panels
+##Call for papers
 
 We encourage submissions of papers, tutorials and panels on topics related to CSMC and MuMe, including, but not limited to, the following:
 
