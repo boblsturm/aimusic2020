@@ -3,7 +3,7 @@ The 2020 Joint Conference on AI Music Creativity brings together for the first t
 The computational simulation of musical creativity continues to be an exciting and significant area of academic research, and is now making impacts in commercial realms. Such systems pose several theoretical and technical challenges, and are the result of an interdisciplinary effort that encompasses the domains of music, artificial intelligence, cognitive science and philosophy. This can be seen within the broader realm of Musical Metacreation, which studies the design and use of such generative tools and theories for music making: discovery and exploration of novel musical styles and content, collaboration between human performers and creative software “partners”, and design of systems in gaming and entertainment that dynamically generate or modify music.
 
 The 2020 Joint Conference on AI Music Creativity will consist of synchronous and asynchronous events. The five-day program will feature tutorials, research paper presentations, discussion panels, an online exhibition, invited spotlight presentations and two keynotes delivered by [Professor Emeritus Dr. Johan Sundberg (Speech, Music and Hearing, KTH)](https://scholar.google.co.uk/citations?user=UXXUEcoAAAAJ&hl=en&oi=ao) and [Dr. Alice Eldridge (Music, Sussex University, UK)](https://profiles.sussex.ac.uk/p127749-alice-eldridge).
-
+___
 # Call for papers, tutorials, panels and musical works
 We encourage submissions of papers, tutorials, panels and musical works on topics related to CSMC and MuMe, including, but not limited to, the following:
 
@@ -42,10 +42,10 @@ Please see the following pages for more information:
 * [Call for tutorials](callfortutorials.md)
 * [Call for panels](callforpanels.md)
 * [Call for music](callformusic.md)
-
+___
 # Registration
 At least one author of each accepted submission should register for the conference by Sep. 25, 2020. Papers without registered authors will be withdrawn. Please check the conference website for details on registration.
-
+___
 # About 
 The event is organized by the [Division of Speech, Music and Hearing](https://www.kth.se/tmh/division-of-speech-music-and-hearing-1.780110) in the [School of Electrical and Computer Engineering (KTH)](https://www.kth.se/en/eecs) in collaboration with the [Royal Conservatory of Music (KMH)](https://www.kmh.se/).
 
@@ -56,6 +56,6 @@ The event is organized by the [Division of Speech, Music and Hearing](https://ww
 * Tutorial chair: TBD
 * Publicity chair: [André Holzapfel](https://www.kth.se/profile/holzap), [Division of Media Technology and Interaction Design, KTH](https://www.kth.se/mid/)
 * Sound and music computing chair: [Roberto Bresin](https://www.kth.se/profile/roberto), [Division of Media Technology and Interaction Design, KTH](https://www.kth.se/mid/)
-
+___
 # Questions
 Please direct any questions/suggestions/special requests to the Conference Chair [Bob L. T. Sturm](mailto:bobs@kth.se)  
