@@ -7,7 +7,6 @@ The 2020 Joint Conference on AI Music Creativity will consist of synchronous and
 We encourage submissions of papers, tutorials, panels and musical works on topics related to CSMC and MuMe, including, but not limited to, the following:
 
 _Systems_
-
 * systems capable of analysing music
 * systems capable of generating music 
 * systems capable of performing music 
@@ -24,7 +23,6 @@ _Systems_
 * applications of CSMC and/or MuMe for digital entertainment: sound design, soundtracks, interactive art, etc. 
 
 _Theory_
-
 * surveys of state-of-the-art techniques in the research area
 * novel representations of musical information
 * methodologies for qualitative or quantitative evaluation of CSMC and/or MuMe systems
@@ -54,6 +52,7 @@ The event is organized by the [Division of Speech, Music and Hearing](https://ww
 * Paper chair: [Andy Elmsley, CTO Five Vectors](https://www.fivevectors.io/)
 * Music chair: [Mattias Sköld](http://www.mattiasskold.com/), Instutitionen för komposition, dirigering och musikteori, KMH
 * Panel chair: [Oded Ben-Tal](http://obental.wixsite.com/main), Department of Performing Arts, Kingston University, UK
+* Tutorial chair: TBD
 * Publicity chair: [André Holzapfel](https://www.kth.se/profile/holzap), [Division of Media Technology and Interaction Design, KTH](https://www.kth.se/mid/)
 * Sound and music computing chair: [Roberto Bresin](https://www.kth.se/profile/roberto), [Division of Media Technology and Interaction Design, KTH](https://www.kth.se/mid/)
 
