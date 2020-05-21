@@ -1,6 +1,7 @@
 # Oct 19-23 2020 hosted virtually by the [Royal Institute of Technology (KTH), Stockholm, Sweden](https://www.kth.se)
 
 [Call for papers, tutorials and panels](https://boblsturm.github.io/aimusic2020/#cfp)
+
 [Call for musical works](https://boblsturm.github.io/aimusic2020/#cfm)
 
 The 2020 Joint Conference on AI Music Creativity brings together for the first time two overlapping research forums: The Computer Simulation of Music Creativity conference (est. 2016), and The International Workshop on Musical Metacreation (est. 2012). The principal goal is to bring together scholars and artists interested in the virtual emulation of musical creativity and its use for music creation, and to provide an interdisciplinary platform to promote, present and discuss their work in scientific and artistic contexts.
