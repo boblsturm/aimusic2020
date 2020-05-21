@@ -1,16 +1,16 @@
 # Oct 19-23 2020 hosted virtually by the [Royal Institute of Technology (KTH), Stockholm, Sweden](https://www.kth.se)
 
-[Call for papers, tutorials and panels](#call-for-papers)
+[Call for papers, tutorials and panels](#call-for-papers-tutorials-and-panels)
 
-[Call for musical works](https://boblsturm.github.io/aimusic2020/#cfm)
+[Call for musical works](https://boblsturm.github.io/aimusic2020/#call-for-music)
 
-The 2020 Joint Conference on AI Music Creativity brings together for the first time two overlapping research forums: The Computer Simulation of Music Creativity conference (est. 2016), and The International Workshop on Musical Metacreation (est. 2012). The principal goal is to bring together scholars and artists interested in the virtual emulation of musical creativity and its use for music creation, and to provide an interdisciplinary platform to promote, present and discuss their work in scientific and artistic contexts.
+The 2020 Joint Conference on AI Music Creativity brings together for the first time two overlapping research forums: [The Computer Simulation of Music Creativity conference (est. 2016)](https://csmc2018.wordpress.com/), and [The International Workshop on Musical Metacreation (est. 2012)](http://musicalmetacreation.org/). The principal goal is to bring together scholars and artists interested in the virtual emulation of musical creativity and its use for music creation, and to provide an interdisciplinary platform to promote, present and discuss their work in scientific and artistic contexts.
 
 The computational simulation of musical creativity continues to be an exciting and significant area of academic research, and is now making impacts in commercial realms. Such systems pose several theoretical and technical challenges, and are the result of an interdisciplinary effort that encompasses the domains of music, artificial intelligence, cognitive science and philosophy. This can be seen within the broader realm of Musical Metacreation, which studies the design and use of such generative tools and theories for music making: discovery and exploration of novel musical styles and content, collaboration between human performers and creative software “partners”, and design of systems in gaming and entertainment that dynamically generate or modify music.
 
-The 2020 Joint Conference on AI Music Creativity will consist of synchronous and asynchronous events. The five-day program will feature tutorials, research paper presentations, discussion panels, an online exhibition, invited spotlight presentations and two keynotes delivered by Professor Emeritus Dr. Johan Sundberg (Speech, Music and Hearing, KTH) and Dr. Alice Eldridge (Music, Sussex University, UK).
+The 2020 Joint Conference on AI Music Creativity will consist of synchronous and asynchronous events. The five-day program will feature tutorials, research paper presentations, discussion panels, an online exhibition, invited spotlight presentations and two keynotes delivered by [Professor Emeritus Dr. Johan Sundberg (Speech, Music and Hearing, KTH)](https://scholar.google.co.uk/citations?user=UXXUEcoAAAAJ&hl=en&oi=ao) and [Dr. Alice Eldridge (Music, Sussex University, UK)](https://profiles.sussex.ac.uk/p127749-alice-eldridge).
 
-## Call for papers
+## Call for papers, tutorials, and panels
 
 We encourage submissions of papers, tutorials and panels on topics related to CSMC and MuMe, including, but not limited to, the following:
 
@@ -46,7 +46,9 @@ _Theory_
 
 ### Submission formats
 _Papers_
-All papers must use the [mandatory template for the conference](https://github.com/boblsturm/aimusic2020/blob/master/templates_aimusic2020.zip), and be submitted through the EasyChair submission link: [http://easychair.org/conferences/?conf=csmcmume2020](http://easychair.org/conferences/?conf=csmcmume2020).
+All papers must use the <a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">mandatory template for the conference</a>, and be submitted through the EasyChair submission link: [http://easychair.org/conferences/?conf=csmcmume2020](http://easychair.org/conferences/?conf=csmcmume2020).
+
+
 
 There are three formats for paper submissions:
 * Full papers (8 pages maximum, not including references)
@@ -70,7 +72,7 @@ Please contact the panel chair [Oded Ben-Tal](mailto:obental@gmail.com).
 _Tutorials_
 Please contact the tutorial chair [xyz](mailto:xyz@gmail.com).
 
-## [Call for musical works](#cfm)
+## Call for music
 
 We solicit entries for consideration for an online exhibition during the conference, similar in format to the one organized at the [NeurIPS 2019 Workshop on Machinee Learning for Creativity and Design](http://www.aiartonline.com/category/music-2019).
 
