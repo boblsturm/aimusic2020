@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## 2020 Joint Conference on AI Music Creativity 
 
-You can use the [editor on GitHub](https://github.com/boblsturm/aimusic2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Oct 19-23 2020 hosted virtually by the Royal Institute of Technology (KTH), Stockholm, Sweden 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The 2020 Joint Conference on AI Music Creativity brings together for the first time two overlapping research forums: The Computer Simulation of Music Creativity conference (est. 2016), and The International Workshop on Musical Metacreation (est. 2012). The principal goal is to bring together scholars and artists interested in the virtual emulation of musical creativity and its use for music creation, and to provide an interdisciplinary platform to promote, present and discuss their work in scientific and artistic contexts.
 
-### Markdown
+The computational simulation of musical creativity continues to be an exciting and significant area of academic research, and is now making impacts in commercial realms. Such systems pose several theoretical and technical challenges, and are the result of an interdisciplinary effort that encompasses the domains of music, artificial intelligence, cognitive science and philosophy. This can be seen within the broader realm of Musical Metacreation, which studies the design and use of such generative tools and theories for music making: discovery and exploration of novel musical styles and content, collaboration between human performers and creative software “partners”, and design of systems in gaming and entertainment that dynamically generate or modify music.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/boblsturm/aimusic2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The five-day program will feature tutorials, research paper presentations, discussion panels, an online exhibition, invited spotlight presentations and two keynotes delivered by Professor Emeritus Dr. Johan Sundberg (Speech, Music and Hearing, KTH) and Dr. Alice Eldridge (Music, Sussex University, UK).
