@@ -56,7 +56,7 @@ At least one author of each accepted submission should register for the conferen
 
 ---
 
-# About 
+# Organization 
 The event is organized by the [Division of Speech, Music and Hearing](https://www.kth.se/tmh/division-of-speech-music-and-hearing-1.780110) in the [School of Electrical and Computer Engineering (KTH)](https://www.kth.se/en/eecs) in collaboration with the [Royal Conservatory of Music (KMH)](https://www.kmh.se/).
 
 _Organization committee_
