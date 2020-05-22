@@ -64,7 +64,7 @@ _Organization committee_
 * Paper chair: [Andy Elmsley, CTO Five Vectors](https://www.fivevectors.io/)
 * Music chair: [Mattias Sköld](http://www.mattiasskold.com/), Instutitionen för komposition, dirigering och musikteori, KMH
 * Panel chair: [Oded Ben-Tal](http://obental.wixsite.com/main), Department of Performing Arts, Kingston University, UK
-* Tutorial chair: TBD
+* Tutorial chair: [Iris Ren](y.ren@uu.nl)
 * Publicity chair: [André Holzapfel](https://www.kth.se/profile/holzap), [Division of Media Technology and Interaction Design, KTH](https://www.kth.se/mid/)
 * Sound and music computing chair: [Roberto Bresin](https://www.kth.se/profile/roberto), [Division of Media Technology and Interaction Design, KTH](https://www.kth.se/mid/)
 
