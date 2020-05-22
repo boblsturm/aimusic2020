@@ -46,9 +46,13 @@ Please see the following pages for more information:
 * [Call for music](callformusic.md)
 
 ---
+# AI Music Generation Challenge 2020
 
+The AI Music Generation Challenge 2020 is in the style of the double jigs in Sergeant Francis O’Neill’s “1001”. Find further details [here](https://www.kth.se/polopoly_fs/1.946479.1576507895!/MusicAI_Challenge_2020.pdf).
+
+---
 # Registration
-At least one author of each accepted submission should register for the conference by Sep. 25, 2020. Papers without registered authors will be withdrawn. Please check the conference website for details on registration.
+At least one author of each accepted submission should register for the conference by Sep. 25, 2020. Papers without registered authors will be withdrawn. Please check back later for details on registration.
 
 ---
 
