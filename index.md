@@ -68,6 +68,9 @@ _Organization committee_
 * Publicity chair: [André Holzapfel](https://www.kth.se/profile/holzap), [Division of Media Technology and Interaction Design, KTH](https://www.kth.se/mid/)
 * Sound and music computing chair: [Roberto Bresin](https://www.kth.se/profile/roberto), [Division of Media Technology and Interaction Design, KTH](https://www.kth.se/mid/)
 
+_Programme Committee_
+* TBD
+
 _Steering committee_
 * [Robert Keller, Harvey Mudd College, USA](https://www.cs.hmc.edu/~keller/)
 * [Philippe Pasquier, Simon Fraser University, Canada](http://philippepasquier.com/)
