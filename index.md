@@ -2,9 +2,11 @@ The 2020 Joint Conference on AI Music Creativity brings together for the first t
 
 The computational simulation of musical creativity continues to be an exciting and significant area of academic research, and is now making impacts in commercial realms. Such systems pose several theoretical and technical challenges, and are the result of an interdisciplinary effort that encompasses the domains of music, artificial intelligence, cognitive science and philosophy. This can be seen within the broader realm of Musical Metacreation, which studies the design and use of such generative tools and theories for music making: discovery and exploration of novel musical styles and content, collaboration between human performers and creative software “partners”, and design of systems in gaming and entertainment that dynamically generate or modify music.
 
-The 2020 Joint Conference on AI Music Creativity will consist of synchronous and asynchronous events. The five-day program will feature tutorials, research paper presentations, discussion panels, an online exhibition, invited spotlight presentations and two keynotes delivered by [Professor Emeritus Dr. Johan Sundberg (Speech, Music and Hearing, KTH)](https://scholar.google.co.uk/citations?user=UXXUEcoAAAAJ&hl=en&oi=ao) and [Dr. Alice Eldridge (Music, Sussex University, UK)](https://profiles.sussex.ac.uk/p127749-alice-eldridge).
+The 2020 Joint Conference on AI Music Creativity will consist of synchronous and asynchronous events. The five-day program will feature tutorials, research paper presentations, discussion panels, an online exhibition, invited spotlight presentations and two keynotes.
 
-Dr. Johan Sundberg         |  Dr. Alice Eldridge
+## Keynotes
+
+[Professor Emeritus Dr. Johan Sundberg (Speech, Music and Hearing, KTH)](https://scholar.google.co.uk/citations?user=UXXUEcoAAAAJ&hl=en&oi=ao)         |  [Dr. Alice Eldridge (Music, Sussex University, UK)](https://profiles.sussex.ac.uk/p127749-alice-eldridge)
 :-------------------------:|:-------------------------:
 ![](Sundberg.jpg)  |  ![](Eldridge_credit_Agata Urbaniak.jpg)
        |  Photo credit: Agata Urbaniak
