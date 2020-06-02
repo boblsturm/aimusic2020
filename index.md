@@ -83,7 +83,18 @@ _Organization committee_
 * Sound and music computing chair: [Roberto Bresin](https://www.kth.se/profile/roberto), [Division of Media Technology and Interaction Design, KTH](https://www.kth.se/mid/)
 
 _Programme Committee_
-* TBD
+* Oliver Bown
+* Darrell	Conklin
+* Amy K. Hoover
+* Steven Jan
+* Anna Jordanous
+* Robin	Laney
+* Roisin Loughran
+* David	Meredith
+* James	McDermott	
+* Kerstin	Neubarth
+* Anna Weisling
+* more TBD
 
 _Steering committee_
 * [Robert Keller, Harvey Mudd College, USA](https://www.cs.hmc.edu/~keller/)
