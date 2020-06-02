@@ -15,7 +15,7 @@ Spotlight Presentations by
 * [Christine Payne, OpenAI](http://christinemcleavey.com)
 * [Gérard Assayag, IRCAM](https://www.ircam.fr/person/gerard-assayag)
 * [Sven Ahlbäck, KMH + DoReMIR](https://scorecloud.com)
-* [Henry Svec, University of Waterloo](http://www.henryadamsvec.ca)
+* [Henry Adam Svec, University of Waterloo](http://www.henryadamsvec.ca)
 * More TBA
 
 ---
