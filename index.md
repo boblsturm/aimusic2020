@@ -9,13 +9,14 @@ The 2020 Joint Conference on AI Music Creativity will consist of synchronous and
 ![](./Speakers/Sundberg.jpg) | ![](./Speakers/Eldridge.jpg)<br /> (Photo credit: Agata Urbaniak)
 [Professor Emeritus Dr. Johan Sundberg <br />Speech, Music and Hearing, KTH](https://scholar.google.co.uk/citations?user=UXXUEcoAAAAJ&hl=en&oi=ao) | [Dr. Alice Eldridge <br /> Music, Sussex University, UK](https://profiles.sussex.ac.uk/p127749-alice-eldridge) 
 
-Confirmed Spotlight Presentations by
+Spotlight Presentations by
 * [Holly Herndon](https://www.hollyherndon.com)
 * [Anna Huang, Google](https://research.google/people/105787)
 * [Christine Payne, OpenAI](http://christinemcleavey.com)
 * [Henry Svec, University of Waterloo](http://www.henryadamsvec.ca)
 * [Gérard Assayag, IRCAM](https://www.ircam.fr/person/gerard-assayag)
 * [Sven Ahlbäck, KMH + DoReMIR](https://scorecloud.com)
+* More TBA
 ---
 
 # Call for papers, tutorials, panels and musical works
