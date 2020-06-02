@@ -13,9 +13,9 @@ Spotlight Presentations by
 * [Holly Herndon](https://www.hollyherndon.com)
 * [Anna Huang, Google](https://research.google/people/105787)
 * [Christine Payne, OpenAI](http://christinemcleavey.com)
-* [Henry Svec, University of Waterloo](http://www.henryadamsvec.ca)
 * [Gérard Assayag, IRCAM](https://www.ircam.fr/person/gerard-assayag)
 * [Sven Ahlbäck, KMH + DoReMIR](https://scorecloud.com)
+* [Henry Svec, University of Waterloo](http://www.henryadamsvec.ca)
 * More TBA
 
 ---
