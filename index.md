@@ -8,7 +8,7 @@ The 2020 Joint Conference on AI Music Creativity will consist of synchronous and
 
 [Professor Emeritus Dr. Johan Sundberg (Speech, Music and Hearing, KTH)](https://scholar.google.co.uk/citations?user=UXXUEcoAAAAJ&hl=en&oi=ao)         |  [Dr. Alice Eldridge (Music, Sussex University, UK)](https://profiles.sussex.ac.uk/p127749-alice-eldridge)
 :-------------------------:|:-------------------------:
-![](Sundberg.jpg)  |  ![](Eldridge_credit_Agata Urbaniak.jpg)
+![](Sundberg.jpg)  |  ![](Eldridge.jpg)
        |  Photo credit: Agata Urbaniak
 
 ---
