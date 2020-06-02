@@ -17,6 +17,7 @@ Spotlight Presentations by
 * [Gérard Assayag, IRCAM](https://www.ircam.fr/person/gerard-assayag)
 * [Sven Ahlbäck, KMH + DoReMIR](https://scorecloud.com)
 * More TBA
+
 ---
 
 # Call for papers, tutorials, panels and musical works
