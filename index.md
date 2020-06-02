@@ -14,6 +14,7 @@ Spotlight Presentations by
 * [Anna Huang, Google](https://research.google/people/105787)
 * [Christine Payne, OpenAI](http://christinemcleavey.com)
 * [Gérard Assayag, IRCAM](https://www.ircam.fr/person/gerard-assayag)
+* [CJ (dadabots)](https://dadabots.com)
 * [Sven Ahlbäck, KMH + DoReMIR](https://scorecloud.com)
 * [Henry Adam Svec, University of Waterloo](http://www.henryadamsvec.ca)
 * More TBA
