@@ -89,12 +89,16 @@ _Programme Committee_
 * Amy K. Hoover
 * Steven Jan
 * Anna Jordanous
+* Shelly Knotts
+* Hendrik Vincent Koops
 * Robin	Laney
 * Roisin Loughran
-* David	Meredith
 * James	McDermott	
+* David	Meredith
+* Úna Monaghan
 * Kerstin	Neubarth
 * Anna Weisling
+* Matthew Yee-King
 * more TBD
 
 _Steering committee_
