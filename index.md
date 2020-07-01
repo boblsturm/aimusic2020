@@ -86,6 +86,7 @@ _Organization committee_
 _Programme Committee_
 * Oliver Bown
 * Darrell	Conklin
+* Dorien Herremans
 * Amy K. Hoover
 * Steven Jan
 * Anna Jordanous
