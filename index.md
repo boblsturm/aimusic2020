@@ -63,7 +63,7 @@ Please see the following pages for more information:
 ---
 # AI Music Generation Challenge 2020
 
-The AI Music Generation Challenge 2020 is in the style of the double jigs in Sergeant Francis O’Neill’s “1001”. Find further details [here](https://www.kth.se/polopoly_fs/1.946479.1576507895!/MusicAI_Challenge_2020.pdf).
+The AI Music Generation Challenge 2020 is in the style of the double jigs in Sergeant Francis O’Neill’s “1001”. Find further details [here](https://github.com/boblsturm/aimusic2020/blob/master/MusicAI_Challenge_2020.pdf).
 
 ---
 # Registration
