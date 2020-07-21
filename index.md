@@ -20,6 +20,7 @@ Spotlight Presentations:
 * [Professor Sven Ahlbäck, KMH + DoReMIR](https://scorecloud.com)
 * [Professor Mary Simoni, Rensselaer Polytechnic Institute](https://faculty.rpi.edu/node/35920)
 * [Henry Adam Svec, University of Waterloo](http://www.henryadamsvec.ca)
+* [Ed Newton-Rex, TikTok (ByteDance)](https://www.linkedin.com/in/ed-newton-rex)
 
 ---
 
