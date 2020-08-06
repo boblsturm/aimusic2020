@@ -93,6 +93,7 @@ _Programme Committee_
 * Amy K. Hoover
 * Steven Jan
 * Anna Jordanous
+* Robert Keller
 * Shelly Knotts
 * Hendrik Vincent Koops
 * Robin	Laney
@@ -101,6 +102,8 @@ _Programme Committee_
 * David	Meredith
 * Úna Monaghan
 * Kerstin	Neubarth
+* Philippe Pasquier
+* Valerio Velardo
 * Anna Weisling
 * Matthew Yee-King
 * more TBD
@@ -112,6 +115,7 @@ _Steering committee_
 * [Anna Jordanous, University of Kent, UK](https://www.cs.kent.ac.uk/people/staff/akj22)
 * [Roisin Loughran, Dundalk Institute of Technology, Ireland](https://loughranroisin.wordpress.com/)
 * [Steven Jan, University of Huddersfield, UK](https://pure.hud.ac.uk/en/persons/steven-jan)
+* [Valerio Velardo, MusiMAP](https://valeriovelardo.com)
 
 ---
 
