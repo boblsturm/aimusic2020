@@ -14,6 +14,6 @@ Accepted full papers will be published in a proceedings with ISBN 978-91-519-556
 Selected papers will be invited for expansion and consideration for publication in the Journal of Creative Music Systems. 
 
 ## Important dates for paper submission
-* Paper submission deadline: August 14 2020 
+* Paper submission deadline: ~~August 14 2020~~ August 21 2020
 * Paper notification: September 18 2020 
 * Camera-ready paper deadline: October 2 2020
