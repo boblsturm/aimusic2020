@@ -106,7 +106,6 @@ _Programme Committee_
 * Valerio Velardo
 * Anna Weisling
 * Matthew Yee-King
-* more TBD
 
 _Steering committee_
 * [Robert Keller, Harvey Mudd College, USA](https://www.cs.hmc.edu/~keller/)
