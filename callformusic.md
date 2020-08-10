@@ -13,5 +13,5 @@ All submissions will be reviewed by independent members of the music selection c
 
 # Important dates
 
-* Music submission deadline: 14 August 2020
+* Music submission deadline: ~~14 August 2020~~ August 21 2020
 * Music notification date: 18 September 2020
