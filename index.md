@@ -6,6 +6,8 @@ The computational simulation of musical creativity continues to be an exciting a
 
 The 2020 Joint Conference on AI Music Creativity will be **virtual**. It will consist of synchronous and asynchronous events. The five-day program will feature tutorials, research paper presentations, discussion panels, an online exhibition, nine invited spotlight presentations and two keynotes.
 
+Registration is 25 Euros. Register [here](https://axacoair.se/go?iMCJIIkk).
+
 *Keynote 1* | *Keynote 2*
 :-------------------------:|:-------------------------:
 ![](./Speakers/Sundberg.jpg) | ![](./Speakers/Eldridge.jpg)<br /> (Photo credit: Agata Urbaniak)
@@ -70,7 +72,7 @@ The AI Music Generation Challenge 2020 is in the style of the double jigs in Ser
 
 ---
 # Registration
-At least one author of each accepted submission should register for the conference by Sep. 25, 2020. Papers without registered authors will be withdrawn. Please check back later for details on registration.
+At least one author of each accepted submission should register for the conference by Sep. 25, 2020. Papers without registered authors will be withdrawn. Registration is 25 Euros. Register [here](https://axacoair.se/go?iMCJIIkk).
 
 ---
 
