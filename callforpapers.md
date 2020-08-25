@@ -1,3 +1,7 @@
+Submission is now closed. Below is the text of the call.
+
+--- 
+
 ## Call for papers
 
 There are three formats for paper submissions:
