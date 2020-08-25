@@ -1,3 +1,6 @@
+Submission is now closed. Below is the text of the call.
+
+--- 
 We solicit entries for consideration for an online exhibition during the conference, similar in format to the one organized at the [NeurIPS 2019 Workshop on Machinee Learning for Creativity and Design](http://www.aiartonline.com/category/music-2019).
 
 Submitted works (video, audio) can be of any style, but must involve the use of computational creativity techniques. Examples include, but are not limited to: reproduction of musical style using machine learning; the evolution of musical structures using interactive genetic algorithms; rule-based systems; systems based on emergence or self-organization; systems that perform music data mining to create remixes, and so on.
