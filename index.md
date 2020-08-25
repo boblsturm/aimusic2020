@@ -89,6 +89,7 @@ _Organization committee_
 * Sound and music computing chair: [Roberto Bresin](https://www.kth.se/profile/roberto), [Division of Media Technology and Interaction Design, KTH](https://www.kth.se/mid/)
 
 _Technical Programme Committee_
+
 Paul Bodily, Oliver Bown, Jean-Pierre Briot, Clifton Callender, Nick Collins, Darrell Conklin, Laura Cros Vila, Roger Dean, Shlomo Dubnov, Noah Fram, Andrea Franceschini, Dorien Herremans, Simon Holland, Amy K. Hoover, Steven Jan, Anna Jordanous, Shelly Knotts, Hendrik Vincent Koops, Michael Krzyzaniak, Qichao Lan, Robin Laney, Nyssim Lefford, Roisin Loughran, Thor Magnusson, Panayotis Mavromatis, Jon McCormack, James McDermott, David Meredith, Rene Mogensen, Úna Monaghan, Peter	Nelson, Kerstin	Neubarth, Philippe Pasquier, Kumar Ashis	Pati, Robert Rowe, Richard Savery, Diemo	Schwarz, Mauro	Vallati, Valerio Velardo, Anna Weisling, Luwei	Yang, Yi-Hsuan Yang, Matthew Yee-King
 
 _Steering committee_
