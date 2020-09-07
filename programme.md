@@ -1,3 +1,3 @@
 # Provisional Schedule
 
-[](./Sched_prov.png)
+<img src="Sched_prov.png">
