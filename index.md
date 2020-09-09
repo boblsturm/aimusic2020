@@ -25,47 +25,6 @@ Spotlight Presentations:
 * [Ed Newton-Rex, TikTok (ByteDance)](https://www.linkedin.com/in/ed-newton-rex)
 
 ---
-
-# Call for papers, tutorials, panels and musical works
-We encourage submissions of papers, tutorials, panels and musical works on topics related to CSMC and MuMe, including, but not limited to, the following:
-
-_Systems_
-* systems capable of analysing music
-* systems capable of generating music 
-* systems capable of performing music 
-* systems capable of (online) improvisation
-* systems for learning or modeling music style and structure
-* systems for intelligently remixing or recombining musical material
-* systems in sound synthesis, or automatic synthesizer design
-* adaptive music generation systems
-* music-robotic systems
-* systems implementing societies of virtual musicians
-* systems that foster and enhance the musical creativity of human users
-* music recommendation systems
-* systems implementing computational aesthetics, emotional responses, novelty and originality
-* applications of CSMC and/or MuMe for digital entertainment: sound design, soundtracks, interactive art, etc. 
-
-_Theory_
-* surveys of state-of-the-art techniques in the research area
-* novel representations of musical information
-* methodologies for qualitative or quantitative evaluation of CSMC and/or MuMe systems
-* philosophical foundations of CSMC and/or MuMe
-* mathematical foundations of CSMC and/or MuMe
-* evolutionary models for CSMC and/or MuMe
-* cognitive models for CSMC and/or MuMe
-* studies on the applicability of music-creative techniques to other research areas
-* new models for improving CSMC and/or MuMe
-* emerging musical styles and approaches to music production and performance involving the use of CSMC and/or MuMe systems 
-* authorship and legal implications of CSMC and/or MuMe
-* future directions of CSMC and/or MuMe
-
-*All calls are now closed.* Please see the following pages for more information:
-* [Call for papers](callforpapers.md)
-* [Call for tutorials](callfortutorials.md)
-* [Call for panels](callforpanels.md)
-* [Call for music](callformusic.md)
-
----
 # AI Music Generation Challenge 2020
 
 The AI Music Generation Challenge 2020 is in the style of the double jigs in Captain Francis O’Neill’s “1001”. Find further details <a href="MusicAI_Challenge_2020.pdf" download>here</a>.
@@ -90,7 +49,7 @@ _Organization committee_
 
 _Technical Programme Committee_
 
-Paul Bodily, Oliver Bown, Jean-Pierre Briot, Clifton Callender, Nick Collins, Darrell Conklin, Laura Cros Vila, Roger Dean, Shlomo Dubnov, Noah Fram, Andrea Franceschini, Dorien Herremans, Simon Holland, Amy K. Hoover, Steven Jan, Anna Jordanous, Shelly Knotts, Hendrik Vincent Koops, Michael Krzyzaniak, Qichao Lan, Robin Laney, Nyssim Lefford, Roisin Loughran, Thor Magnusson, Panayotis Mavromatis, Jon McCormack, James McDermott, David Meredith, Rene Mogensen, Úna Monaghan, Peter	Nelson, Kerstin	Neubarth, Philippe Pasquier, Kumar Ashis	Pati, Robert Rowe, Richard Savery, Diemo	Schwarz, Mauro	Vallati, Valerio Velardo, Anna Weisling, Luwei	Yang, Yi-Hsuan Yang, Matthew Yee-King
+Paul Bodily, Oliver Bown, Jean-Pierre Briot, Clifton Callender, Nick Collins, Darrell Conklin, Laura Cros Vila, Roger Dean, Shlomo Dubnov, Philippe Esling, Noah Fram, Andrea Franceschini, Dorien Herremans, Simon Holland, Amy K. Hoover, Steven Jan, Anna Jordanous, Shelly Knotts, Hendrik Vincent Koops, Michael Krzyzaniak, Qichao Lan, Robin Laney, Nyssim Lefford, Roisin Loughran, Thor Magnusson, Panayotis Mavromatis, Jon McCormack, James McDermott, David Meredith, Rene Mogensen, Úna Monaghan, Peter	Nelson, Kerstin	Neubarth, Philippe Pasquier, Kumar Ashis Pati, Robert Rowe, Richard Savery, Diemo	Schwarz, Jordan B. L. Smith, Mauro Vallati, Valerio Velardo, Anna Weisling, Luwei	Yang, Yi-Hsuan Yang, Matthew Yee-King
 
 _Steering committee_
 * [Robert Keller, Harvey Mudd College, USA](https://www.cs.hmc.edu/~keller/)
