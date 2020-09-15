@@ -4,6 +4,19 @@
 
 ---
 
+# Spotlight Presentations
+
+* [Holly Herndon](https://www.hollyherndon.com)
+* [Anna Huang, Google](https://research.google/people/105787)
+* [Christine Payne, OpenAI](http://christinemcleavey.com)
+* [Gérard Assayag, IRCAM](https://www.ircam.fr/person/gerard-assayag)
+* [CJ Carr (dadabots)](https://dadabots.com)
+* [Professor Sven Ahlbäck, KMH + DoReMIR](https://scorecloud.com)
+* [Professor Mary Simoni, Rensselaer Polytechnic Institute](https://faculty.rpi.edu/node/35920)
+* [Henry Adam Svec, University of Waterloo](http://www.henryadamsvec.ca)
+* [Ed Newton-Rex, TikTok](https://www.linkedin.com/in/ed-newton-rex): *From Lab to Market: Building AI Composition Products*
+
+---
 # Tutorials
 
 1. Samuel Hunt (UWE Bristol, UK): This tutorial introduces participants to the [Interactive Generative Music Environment (IGME)](http://samhunt.panel.uwe.ac.uk/) and demonstrates the ease at which generative music compositions can be created, without domain specific knowledge of either generative music or programming constructs. IGME attempts to bridge the gap between generative music theory and accessible music sequencing software, through an easy to use score editing (or piano roll) interface. IGME is available free of charge and works on Windows and Mac OS. It is hoped that participants will learn about generative music so that they understand how to utilize them in their own composition practice. 
