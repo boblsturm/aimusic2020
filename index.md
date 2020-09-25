@@ -31,7 +31,7 @@ The AI Music Generation Challenge 2020 is in the style of the double jigs in Cap
 
 ---
 # Registration
-At least one author of each accepted submission should register for the conference by Sep. 25, 2020. Papers without registered authors will be withdrawn. Registration is 25 Euros. Register [here](https://axacoair.se/go?iMCJIIkk).
+At least one author of each accepted submission should register for the conference by Oct. 7, 2020. Papers without registered authors will be withdrawn. Registration is 25 Euros. Register [here](https://axacoair.se/go?iMCJIIkk).
 
 ---
 
