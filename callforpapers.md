@@ -1,3 +1,5 @@
+Final templates coming soon.
+
 Submission is now closed. Below is the text of the call.
 
 --- 
