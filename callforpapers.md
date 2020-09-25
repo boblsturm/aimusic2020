@@ -1,4 +1,4 @@
-Final templates coming soon.
+Templates for the camera-ready papers are <a href="templates_aimusic2020.zip" download>here</a>.
 
 Submission is now closed. Below is the text of the call.
 
