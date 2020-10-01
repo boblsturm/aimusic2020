@@ -1,6 +1,6 @@
 # Provisional Schedule
 
-<img src="Sched.png">
+<img src="Schedule.png">
 
 ---
 
