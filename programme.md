@@ -33,4 +33,102 @@
 ---
 # Papers
 
-1. TBA
+MON OCT 19 16-18 CEST
+
+Matthew Caren. TRoco: A generative algorithm using jazz music theory
+
+Jean-Francois Charles, Gil Dori and Joseph Norman. Sonic Print: Timbre Classification with Live Training for Musical Applications
+
+Jeffrey Ens and Philippe Pasquier. Improved Listening Experiment Design for Generative Systems
+
+DEMO Joaquin Jimenez. Creating a Machine Learning Assistant for the Real-Time Performance of Dub Music
+
+TUE OCT 20 10-12 CEST
+
+Rui Guo, Ivor Simpson, Thor Magnusson and Dorien Herremans. Symbolic music generation with tension control
+
+Zeng Ren. Style Composition With An Evolutionary Algorithm
+
+Raymond Whorley and Robin Laney. Generating Subjects for Pieces in the Style of Bach’s Two-Part Inventions
+
+Jacopo de Berardinis, Samuel Barrett, Angelo Cangelosi and Eduardo Coutinho. Attention and Recurrence: A New Paradigm for Symbolic Music Modelling
+
+WIP Aiko Uemura and Tetsuro Kitahara. Morphing-Based Reharmonization using LSTM-VAE
+
+DEMO Richard Savery, Lisa Zahray and Gil Weinberg. ProsodyCVAE: A Conditional Convolutional Variational Autoencoder for Real-time Emotional Music Prosody Generation
+
+TUE OCT 20 16-18 CEST
+
+Carmine-Emanuele Cella, Luke Dzwonczyk, Alejandro Saldarriaga-Fuertes, Hongfu Liu and Helene-Camille Crayencour. A Study on Neural Models for Target-Based Computer-Assisted Musical Orchestration
+
+Sofy Yuditskaya, Sophia Sun and Derek Kwan. Karaoke of Dreams: A multi-modal neural-network generated music experience
+
+Guillaume Alain, Maxime Chevalier-Boisvert, Frederic Osterrath and Remi Piche-Taillefer. DeepDrummer : Generating Drum Loops using Deep Learning and a Human in the Loop
+
+Yijun Zhou, Yuki Koyama, Masataka Goto and Takeo Igarashi. Generative Melody Composition with Human-in-the-Loop Bayesian Optimization
+
+WIP Joann Ching, Antonio Ramires and Yi-Hsuan Yang. Instrument Role Classification: Auto-tagging for Loop Based Music
+
+WED OCT 21 10-12 CEST
+
+DEMO Roger Dean. The multi-tuned piano: keyboard music without a tuning system generated manually or by Deep Improviser
+
+Stefano Kalonaris and Anna Aljanaki. Meet HER: A Language-based Approach to Generative Music Systems Evaluation
+
+Mio Kusachi, Aiko Uemura and Tetsuro Kitahara. A Piano Ballad Arrangement System
+
+Mathias Rose Bjare and David Meredith. Sequence Generative Adversarial Networks for Music Generation with Maximum Entropy Reinforcement Learning
+
+Liam Dallas and Fabio Morreale. Effects of Added Vocals and Human Production to AI-composed Music on Listener’s Appreciation
+
+WIP Sutirtha Chakraborty, Shyam Kishor, Shubham Nikesh Patil and Joseph Timoney. LeaderSTeM-A LSTM model for dynamic leader identification within musical streams
+
+WED OCT 21 16-18 CEST
+
+Nick Collins, Vit Ruzicka and Mick Grierson. Remixing AIs: mind swaps, hybrainity, and splicing musical models
+
+Lonce Wyse and Muhammad Huzaifah. Deep learning models for generating audio textures
+
+Nicolas Jonason, Bob L. T. Sturm and Carl Thomé. The control-synthesis approach for making expressive and controllable neural music synthesizers
+
+Mathieu Prang and Philippe Esling. Signal-domain representation of symbolic music for learning embedding spaces
+
+WIP Foteini Simistira Liwicki, Marcus Liwicki, Pedro Malo Perise, Federico Ghelli Visi and Stefan Ostersjo. Analysing Musical Performance in Videos Using Deep Neural Networks
+
+THU OCT 22 10-12 CEST
+
+Amir Salimi and Abram Hindle. Make Your Own Audience: Virtual Listeners Can Filter Generated Drum Programs
+
+Grigore Burloiu. Interactive Learning of Microtiming in an Expressive Drum Machine
+
+Germán Ruiz-Marcos, Alistair Willis and Robin Laney. Automatically calculating tonal tension
+
+Hadrien Foroughmand and Geoffroy Peeters. Extending Deep Rhythm for Tempo and Genre Estimation Using Complex Convolutions, Multitask Learning and Multi-input Network
+
+WIP Samuel Hunt. An Analysis of Repetition in Video Game Music
+
+DEMO James Bradbury. Developing a bespoke corpus exploration tool using UMAP and agglomerative clustering
+
+THU OCT 22 16-18 CEST
+
+Shlomo Dubnov. Deep Music Information Dynamics
+
+Shuqi Dai, Huan Zhang and Roger Dannenberg. Automatic Detection of Hierarchical Structure and Influence of Structure on Melody, Harmony and Rhythm in Popular Music
+
+Brendan O'Connor, Simon Dixon and George Fazekas. An Exploratory Study on Perceptual Spaces of the Singing Voice
+
+Théis Bazin, Gaëtan Hadjeres and Philippe Esling. Spectrogram Inpainting for Interactive Generation of Instrument Sounds
+
+WIP Manos Plitsis, Kosmas Kritsis, Maximos Kaliakatsos-Papakostas, Aggelos Pikrakis and Vassilis Katsouros. Towards a Classification and Evaluation of Symbolic Music Encodings for RNN Music Generation
+
+FRI OCT 23 16-18 CEST
+
+Sandeep Dasari and Jason Freeman. Directed Evolution in Live Coding Music Performance
+
+Fred Bruford, Skot McDonald and Mark Sandler. jaki: User-Controllable Generation of Drum Patterns using LSTM Encoder-Decoder and Deep-Q Reinforcement Learning
+
+Hayato Sumino, Adrien Bitton, Lisa Kawai, Philippe Esling and Tatsuya Harada. Automatic Music Transcription and Instrument Transposition with Differentiable Rendering
+
+WIP Darrell Conklin and Geert Maessen. Aspects of pattern discovery for Mozarabic chant realization
+
+WIP Gabriel Vigliensoni, Louis McCallum, Esteban Maestre and Rebecca Fiebrink. Generation and visualization of rhythmic latent spaces
