@@ -1,4 +1,4 @@
-# Provisional Schedule
+# Schedule
 
 <img src="Schedule.png">
 
