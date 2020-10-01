@@ -6,15 +6,24 @@
 
 # Spotlight Presentations
 
-* [Holly Herndon](https://www.hollyherndon.com)
-* [Anna Huang, Google](https://research.google/people/105787)
-* [Christine Payne, OpenAI](http://christinemcleavey.com)
-* [Gérard Assayag, IRCAM](https://www.ircam.fr/person/gerard-assayag)
-* [CJ Carr (dadabots)](https://dadabots.com)
-* [Professor Sven Ahlbäck, KMH + DoReMIR](https://scorecloud.com)
-* [Professor Mary Simoni, Rensselaer Polytechnic Institute](https://faculty.rpi.edu/node/35920)
-* [Henry Adam Svec, University of Waterloo](http://www.henryadamsvec.ca)
-* [Ed Newton-Rex, TikTok](https://www.linkedin.com/in/ed-newton-rex): *From Lab to Market: Building AI Composition Products*
+[Holly Herndon](https://www.hollyherndon.com)
+
+[Anna Huang, Google](https://research.google/people/105787)
+
+[Christine Payne, OpenAI](http://christinemcleavey.com) *Jukebox and MuseNet: Training Neural Nets to Generate New Music*
+
+[Gérard Assayag, IRCAM](https://www.ircam.fr/person/gerard-assayag)
+
+[CJ Carr (dadabots)](https://dadabots.com)
+
+[Professor Sven Ahlbäck, KMH + DoReMIR](https://scorecloud.com)
+
+[Professor Mary Simoni, Rensselaer Polytechnic Institute](https://faculty.rpi.edu/node/35920)
+
+[Henry Adam Svec, University of Waterloo](http://www.henryadamsvec.ca) *“Gonna Burn All My Bridges”: LIVINGSTON’s Artificially Intelligent Folk Songs of Canada and an Alternative Way Forward in A.I. Research*
+Decades of discovery in the field of artificial intelligence have prioritized intelligence as the lodestar of research and development. What if folkloristic authenticity was substituted as the guiding goal of our collective labours? In this playful performance, involving both storytelling and song, Henry Adam Svec will explore this and other questions through the recounting of a most unlikely scenario—the time when, in Dawson City, Yukon, he co-invented the world’s first artificially intelligent database of Canadian folksong.
+
+[Ed Newton-Rex, TikTok](https://www.linkedin.com/in/ed-newton-rex): *From Lab to Market: Building AI Composition Products*
 
 ---
 # Tutorials
