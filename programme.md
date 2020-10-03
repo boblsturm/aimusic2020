@@ -106,8 +106,6 @@ Germán Ruiz-Marcos, Alistair Willis and Robin Laney. Automatically calculating 
 
 Hadrien Foroughmand and Geoffroy Peeters. Extending Deep Rhythm for Tempo and Genre Estimation Using Complex Convolutions, Multitask Learning and Multi-input Network
 
-WIP Samuel Hunt. An Analysis of Repetition in Video Game Music
-
 DEMO James Bradbury. Developing a bespoke corpus exploration tool using UMAP and agglomerative clustering
 
 THU OCT 22 16-18 CEST
@@ -131,5 +129,7 @@ Fred Bruford, Skot McDonald and Mark Sandler. jaki: User-Controllable Generation
 Hayato Sumino, Adrien Bitton, Lisa Kawai, Philippe Esling and Tatsuya Harada. Automatic Music Transcription and Instrument Transposition with Differentiable Rendering
 
 WIP Darrell Conklin and Geert Maessen. Aspects of pattern discovery for Mozarabic chant realization
+
+WIP Samuel Hunt. An Analysis of Repetition in Video Game Music
 
 WIP Gabriel Vigliensoni, Louis McCallum, Esteban Maestre and Rebecca Fiebrink. Generation and visualization of rhythmic latent spaces
