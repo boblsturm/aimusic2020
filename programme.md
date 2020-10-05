@@ -34,7 +34,7 @@ Decades of discovery in the field of artificial intelligence have prioritized in
 ---
 # Papers
 
-MON OCT 19 16-18 CEST
+MON OCT 19 16-18 CEST (Chair: Róisín Loughran)
 
 Matthew Caren. TRoco: A generative algorithm using jazz music theory
 
@@ -44,7 +44,7 @@ Jeffrey Ens and Philippe Pasquier. Improved Listening Experiment Design for Gene
 
 DEMO Joaquin Jimenez. Creating a Machine Learning Assistant for the Real-Time Performance of Dub Music
 
-TUE OCT 20 10-12 CEST
+TUE OCT 20 10-12 CEST (Chair: David Meredith)
 
 Rui Guo, Ivor Simpson, Thor Magnusson and Dorien Herremans. Symbolic music generation with tension control
 
@@ -58,7 +58,7 @@ WIP Aiko Uemura and Tetsuro Kitahara. Morphing-Based Reharmonization using LSTM-
 
 DEMO Richard Savery, Lisa Zahray and Gil Weinberg. ProsodyCVAE: A Conditional Convolutional Variational Autoencoder for Real-time Emotional Music Prosody Generation
 
-TUE OCT 20 16-18 CEST
+TUE OCT 20 16-18 CEST (Chair: Shlomo Dubnov)
 
 Carmine-Emanuele Cella, Luke Dzwonczyk, Alejandro Saldarriaga-Fuertes, Hongfu Liu and Helene-Camille Crayencour. A Study on Neural Models for Target-Based Computer-Assisted Musical Orchestration
 
@@ -70,7 +70,7 @@ Yijun Zhou, Yuki Koyama, Masataka Goto and Takeo Igarashi. Generative Melody Com
 
 WIP Joann Ching, Antonio Ramires and Yi-Hsuan Yang. Instrument Role Classification: Auto-tagging for Loop Based Music
 
-WED OCT 21 10-12 CEST
+WED OCT 21 10-12 CEST (Chair: Steven Jan)
 
 DEMO Roger Dean. The multi-tuned piano: keyboard music without a tuning system generated manually or by Deep Improviser
 
@@ -84,7 +84,7 @@ Liam Dallas and Fabio Morreale. Effects of Added Vocals and Human Production to 
 
 WIP Sutirtha Chakraborty, Shyam Kishor, Shubham Nikesh Patil and Joseph Timoney. LeaderSTeM-A LSTM model for dynamic leader identification within musical streams
 
-WED OCT 21 16-18 CEST
+WED OCT 21 16-18 CEST (Chair: Jean-Pierre Briot)
 
 Nick Collins, Vit Ruzicka and Mick Grierson. Remixing AIs: mind swaps, hybrainity, and splicing musical models
 
@@ -96,7 +96,7 @@ Mathieu Prang and Philippe Esling. Signal-domain representation of symbolic musi
 
 WIP Foteini Simistira Liwicki, Marcus Liwicki, Pedro Malo Perise, Federico Ghelli Visi and Stefan Ostersjo. Analysing Musical Performance in Videos Using Deep Neural Networks
 
-THU OCT 22 10-12 CEST
+THU OCT 22 10-12 CEST (Chair: Ollie Bown)
 
 Amir Salimi and Abram Hindle. Make Your Own Audience: Virtual Listeners Can Filter Generated Drum Programs
 
@@ -108,7 +108,7 @@ Hadrien Foroughmand and Geoffroy Peeters. Extending Deep Rhythm for Tempo and Ge
 
 DEMO James Bradbury. Developing a bespoke corpus exploration tool using UMAP and agglomerative clustering
 
-THU OCT 22 16-18 CEST
+THU OCT 22 16-18 CEST (Chair: Robin Laney)
 
 Shlomo Dubnov. Deep Music Information Dynamics
 
@@ -120,7 +120,7 @@ Théis Bazin, Gaëtan Hadjeres, Philippe Esling and Mikhail Malt. Spectrogram In
 
 WIP Manos Plitsis, Kosmas Kritsis, Maximos Kaliakatsos-Papakostas, Aggelos Pikrakis and Vassilis Katsouros. Towards a Classification and Evaluation of Symbolic Music Encodings for RNN Music Generation
 
-FRI OCT 23 16-18 CEST
+FRI OCT 23 16-18 CEST (Chair: Philippe Pasquier)
 
 Sandeep Dasari and Jason Freeman. Directed Evolution in Live Coding Music Performance
 
