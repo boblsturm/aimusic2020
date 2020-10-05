@@ -116,7 +116,7 @@ Shuqi Dai, Huan Zhang and Roger Dannenberg. Automatic Detection of Hierarchical 
 
 Brendan O'Connor, Simon Dixon and George Fazekas. An Exploratory Study on Perceptual Spaces of the Singing Voice
 
-Théis Bazin, Gaëtan Hadjeres and Philippe Esling. Spectrogram Inpainting for Interactive Generation of Instrument Sounds
+Théis Bazin, Gaëtan Hadjeres, Philippe Esling and Mikhail Malt. Spectrogram Inpainting for Interactive Generation of Instrument Sounds
 
 WIP Manos Plitsis, Kosmas Kritsis, Maximos Kaliakatsos-Papakostas, Aggelos Pikrakis and Vassilis Katsouros. Towards a Classification and Evaluation of Symbolic Music Encodings for RNN Music Generation
 
