@@ -1,5 +1,3 @@
-The following pieces have been accepted to this online exhibition:
-
 D. G. Champernown "Music from EDSAC" (circa 1960)
 https://highnoongmt.wordpress.com/2020/10/01/music-from-edsac-circa-1960/
 
