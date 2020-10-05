@@ -1,4 +1,10 @@
 D. G. Champernown "Music from EDSAC" (circa 1960)
+
+<a href="https://www.youtube.com/watch?v=gogIM2kKB1U&list=PLT_o2wa6T9d6ZMPnYW13XS6UoqymtxzN4
+" target="_blank"><img src="http://img.youtube.com/vi/gogIM2kKB1U/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
 https://highnoongmt.wordpress.com/2020/10/01/music-from-edsac-circa-1960/
 
 ---
