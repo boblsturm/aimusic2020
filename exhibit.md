@@ -1,12 +1,12 @@
-[Champernown "Music from EDSAC" (circa 1960)](#d-g-champernown-music-from-edsac-circa-1960)
-Ben-Tal: "Notes for a future self"
-Robert Laidlow: "Alter" for mezzo-sporano and ensemble
-Collaborative Electroacoustic Composition with Intelligent Agents
-Kokoras: "AI Phantasy"
-Coelho: "Music Transformer and DDSP Étude of Composition and Digital Performances"
-Lauren Hayes: "Moon via spirit" for live electronics
-Lopez: "The Journey"
-Frisk: "pvm"
+1. [Champernown "Music from EDSAC" (circa 1960)](#d-g-champernown-music-from-edsac-circa-1960)
+1. Ben-Tal: "Notes for a future self"
+1. Robert Laidlow: "Alter" for mezzo-sporano and ensemble
+1. Collaborative Electroacoustic Composition with Intelligent Agents
+1. Kokoras: "AI Phantasy"
+1. Coelho: "Music Transformer and DDSP Étude of Composition and Digital Performances"
+1. Lauren Hayes: "Moon via spirit" for live electronics
+1. Lopez: "The Journey"
+1. Frisk: "pvm"
 
 ---
 
