@@ -20,9 +20,6 @@ This string quartet arose from two computer programmes written by David G. Champ
 " target="_blank"><img src="http://img.youtube.com/vi/gogIM2kKB1U/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-
-https://highnoongmt.wordpress.com/2020/10/01/music-from-edsac-circa-1960/
-
 ---
 
 #### Oded Ben-Tal: "Notes for a future self"
