@@ -1,12 +1,12 @@
 1. [Champernown "Music from EDSAC" (circa 1960)](#d-g-champernown-music-from-edsac-circa-1960)
 1. [Ben-Tal: "Notes for a future self"](#oded-ben-tal-notes-for-a-future-self)
-1. [Robert Laidlow: "Alter" for mezzo-sporano and ensemble](#)
-1. [Collaborative Electroacoustic Composition with Intelligent Agents](#)
-1. [Kokoras: "AI Phantasy"](#)
-1. [Coelho: "Music Transformer and DDSP Étude of Composition and Digital Performances"](#)
-1. [Lauren Hayes: "Moon via spirit" for live electronics](#)
-1. [Lopez: "The Journey"](#)
-1. [Frisk: "pvm"](#)
+1. [Robert Laidlow: "Alter" for mezzo-sporano and ensemble](#robert-laidlow-alter-for-mezzo-sporano-and-ensemble)
+1. [Collaborative Electroacoustic Composition with Intelligent Agents](#collaborative-electroacoustic-composition-with-intelligent-agents-cecia)
+1. [Kokoras: "AI Phantasy"](#panayiotis-kokoras-ai-phantasy)
+1. [Coelho: "Music Transformer and DDSP Étude of Composition and Digital Performances"](#guilherme-coelho-music-transformer-and-ddsp-etude-of-composition-and-digital-performances)
+1. [Lauren Hayes: "Moon via spirit" for live electronics](#lauren-hayes-moon-via-spirit-for-live-electronics)
+1. [Lopez: "The Journey"](#alvaro-lopez-the-journey)
+1. [Frisk: "pvm"](#henrik-frisk-pvm)
 
 ---
 
@@ -37,7 +37,7 @@ This is the third piece I composed using machine learning tools - following Bast
 
 ---
 
-#### Kosmas Giannoutakis (Project coordinator): CECIA (Collaborative Electroacoustic Composition with Intelligent Agents)
+#### Collaborative Electroacoustic Composition with Intelligent Agents (CECIA)
 
 ---
 
