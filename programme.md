@@ -32,7 +32,9 @@ Decades of discovery in the field of artificial intelligence have prioritized in
 4. **AI Music Generation Challenge 2020**: Bob L. T. Sturm (chair), Judge A, Judge B, Judge C, Judge D, Participant TBA
 
 ---
-# Papers
+# Papers 
+
+**Published with ISBN 978-91-519-5560-5**
 
 MON OCT 19 16-18 CEST (Chair: Róisín Loughran)
 
