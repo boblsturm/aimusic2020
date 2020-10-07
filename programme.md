@@ -108,7 +108,7 @@ Germán Ruiz-Marcos, Alistair Willis and Robin Laney. Automatically calculating 
 
 Hadrien Foroughmand and Geoffroy Peeters. Extending Deep Rhythm for Tempo and Genre Estimation Using Complex Convolutions, Multitask Learning and Multi-input Network
 
-DEMO James Bradbury. Developing a bespoke corpus exploration tool using UMAP and agglomerative clustering
+DEMO James Bradbury. Computer-assisted corpus exploration with UMAP and agglomerative clustering
 
 THU OCT 22 16-18 CEST (Chair: Robin Laney)
 
