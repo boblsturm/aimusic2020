@@ -1,8 +1,8 @@
 # Selected works
 
-1. [Champernown "Music from EDSAC" (circa 1960)](#d-g-champernown-music-from-edsac-circa-1960)
+1. [Champernown: "Music from EDSAC" (circa 1960)](#d-g-champernown-music-from-edsac-circa-1960)
 1. [Ben-Tal: "Notes for a future self"](#oded-ben-tal-notes-for-a-future-self)
-1. [Robert Laidlow: "Alter" for mezzo-sporano and ensemble](#robert-laidlow-alter-for-mezzo-sporano-and-ensemble)
+1. [Laidlow: "Alter" for mezzo-sporano and ensemble](#robert-laidlow-alter-for-mezzo-sporano-and-ensemble)
 1. [Collaborative Electroacoustic Composition with Intelligent Agents](#collaborative-electroacoustic-composition-with-intelligent-agents-cecia)
 1. [Kokoras: "AI Phantasy"](#panayiotis-kokoras-ai-phantasy)
 1. [Coelho: "Music Transformer and DDSP Étude of Composition and Digital Performances"](#guilherme-coelho-music-transformer-and-ddsp-etude-of-composition-and-digital-performances)
