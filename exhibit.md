@@ -20,7 +20,8 @@ This string quartet arose from two computer programmes written by David G. Champ
 " target="_blank"><img src="http://img.youtube.com/vi/gogIM2kKB1U/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-[Go to menu](#selected-works)
+[Go to top](#selected-works)
+
 ---
 
 #### Oded Ben-Tal: "Notes for a future self"
@@ -35,22 +36,31 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Oded Ben-Tal is 
 
-[Go to menu](#selected-works)
+[Go to top](#selected-works)
+
 ---
 
 #### Robert Laidlow: Alter for mezzo-sporano and ensemble
+
+[Go to top](#selected-works)
 
 ---
 
 #### Collaborative Electroacoustic Composition with Intelligent Agents (CECIA)
 
+[Go to top](#selected-works)
+
 ---
 
 #### Panayiotis Kokoras: AI Phantasy
 
+[Go to top](#selected-works)
+
 ---
 
 #### Guilherme Coelho: Music Transformer and DDSP Étude of Composition and Digital Performances
+
+[Go to top](#selected-works)
 
 ---
 
@@ -60,13 +70,18 @@ This piece was commissioned as part of the Fluid Corpus Manipulation (FluCoMa) p
 
 [Lauren Hayes](https://www.pariesa.com/) is a Scottish musician and sound artist who builds hybrid analogue/digital instruments and unpredictable performance systems. As an improviser, her music has been described as 'voracious' and ‘exhilarating’. Her research explores embodied music cognition, enactive approaches to digital instrument design, and haptic technologies. She is currently Assistant Professor of Sound Studies within the School of Arts, Media and Engineering at Arizona State University where she leads PARIESA (Practice and Research in Enactive Sonic Art). She is Director-At-Large of the International Computer Music Association and is a member of the New BBC Radiophonic Workshop.
 
+[Go to top](#selected-works)
+
 ---
 
 #### Alvaro Lopez: The Journey
 
 The Journey is a piece resulting from Alvaro E. Lopez’s real-time performance on AMG (Algorithmic Music Generator), a Max patch that generates music adaptively. It illustrates several techniques described in the article [Lopez, "Algorithmic Interactive Music Generation in Videogames", SoundEffecs 9(1), 2020](https://www.soundeffects.dk/article/view/118245).
 
+[Go to top](#selected-works)
+
 ---
 
 #### Henrik Frisk: pvm
 
+[Go to top](#selected-works)
