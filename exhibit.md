@@ -14,7 +14,7 @@
 
 #### D. G. Champernown "Music from EDSAC" (circa 1960)
 
-This string quartet arose from two computer programmes written by David G. Champernown, Professor of Economics at Cambridge University, around 1960. One programme harmonized melodies in the style of Victorian hymns. Another program generated serial-style music. A performance and recording of the string quartet was supposedly made by Lejaren A. Hiller in the 1960s, but this has been lost. <a href="https://highnoongmt.wordpress.com/2020/10/01/music-from-edsac-circa-1960/" target="_blank">See here for more information</a>.
+This string quartet arose from two computer programmes written by [David G. Champernown](https://en.wikipedia.org/wiki/D._G._Champernowne), Professor of Economics at Cambridge University, around 1960. One programme harmonized melodies in the style of Victorian hymns. Another program generated serial-style music. A performance and recording of the string quartet was supposedly made by Lejaren A. Hiller in the 1960s, but this has been lost. <a href="https://highnoongmt.wordpress.com/2020/10/01/music-from-edsac-circa-1960/" target="_blank">See here for more information</a>.
 
 <a href="https://www.youtube.com/watch?v=gogIM2kKB1U&list=PLT_o2wa6T9d6ZMPnYW13XS6UoqymtxzN4
 " target="_blank"><img src="http://img.youtube.com/vi/gogIM2kKB1U/0.jpg" 
@@ -34,7 +34,7 @@ This is the third piece I composed using machine learning tools - following [Bas
 " target="_blank"><img src="http://img.youtube.com/vi/QmYt46Wl8JY/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-Oded Ben-Tal is 
+[Oded Ben-Tal](https://obental.wixsite.com/main) is a composer and researcher working at the intersection of music, computing, and cognition. His composition include both acoustic pieces, works combining instruments with electronics and multimedia work. Since 2016 he is working on a multidisiplinary research project applying state of the art machine learning to music composition. He is a senior lecturer at the Performing Arts Department, Kingston University.
 
 [Go to top](#selected-works)
 
