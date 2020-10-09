@@ -6,7 +6,7 @@
 1. [Collaborative Electroacoustic Composition with Intelligent Agents](#collaborative-electroacoustic-composition-with-intelligent-agents-cecia)
 1. [Kokoras: "AI Phantasy"](#panayiotis-kokoras-ai-phantasy)
 1. [Coelho: "Music Transformer and DDSP Étude of Composition and Digital Performances"](#guilherme-coelho-music-transformer-and-ddsp-etude-of-composition-and-digital-performances)
-1. [Lauren Hayes: "Moon via spirit" for live electronics](#lauren-hayes-moon-via-spirit-for-live-electronics)
+1. [Hayes: "Moon via spirit" for live electronics](#lauren-hayes-moon-via-spirit-for-live-electronics)
 1. [Lopez: "The Journey"](#alvaro-lopez-the-journey)
 1. [Frisk: "pvm"](#henrik-frisk-pvm)
 
@@ -55,6 +55,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ---
 
 #### Alvaro Lopez: The Journey
+
+The Journey is a piece resulting from Alvaro E. Lopez’s real-time performance on AMG (Algorithmic Music Generator), a Max patch that generates music adaptively. It illustrates several techniques described in the article [Lopez, "Algorithmic Interactive Music Generation in Videogames", SoundEffecs 9(1), 2020](https://www.soundeffects.dk/article/view/118245).
 
 ---
 
