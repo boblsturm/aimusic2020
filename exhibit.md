@@ -66,6 +66,13 @@ alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
 
 #### Panayiotis Kokoras: "AI Phantasy"
 
+AI Phantasy was composed at the GRIS multichannel studio, the University of Montreal in Quebec, Canada; the sound dome MEIT theater at the Center for Experimental Music and Intermedia, University of North Texas, and my home studio. One of the main sound-producing mechanisms in the piece is a vacuum cleaner.
+
+<a href="https://youtu.be/pLVEJqYpUFc" target="_blank"><img src="http://img.youtube.com/vi/pLVEJqYpUFc/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+<a href="exhibit/Kokoras.pdf" target="_blank">More information</a>
+
 [Go to top](#selected-works)
 
 ---
@@ -79,7 +86,6 @@ alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
 #### Lauren Hayes: "Moon via spirit" for live electronics
 
 This piece was commissioned as part of the Fluid Corpus Manipulation (FluCoMa) project, from the University of Huddersfield. The project studies how creative coders and technologists work with and incorporate new digital tools for signal decomposition and machine learning in novel ways. In this piece, I explore these tools through an embodied approach to segmentation, slicing, and layering of sound in real time. Using the FluCoMa toolkit, I was able to incorporate novel machine learning techniques in MaxMSP which deal with exploring large corpora of sound files. Specifically, this work involves, among other relevant AI techniques, machine learning in order to train based on preference; sort and select based on descriptors; and concatenate percussion sounds from a large collection of samples.
-
 
 <a href="https://youtu.be/JpDmoslsyZE" target="_blank"><img src="http://img.youtube.com/vi/JpDmoslsyZE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
