@@ -41,7 +41,7 @@ alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
 
 ---
 
-#### Robert Laidlow: Alter for mezzo-sporano and ensemble
+#### Robert Laidlow: "Alter" for mezzo-sporano and ensemble
 
 Alter for mezzo-soprano and ensemble utilises several generative machine learning algorithms as collaborative and interactive tools in the compositional process. It combines models in the symbolic- generative (MuseNet), audio-generative (WaveNet), and text-generative (WordRNN and GPT-2) domains to create a musical structure defined by the machine learning process, where the results of neural networks at different stages of training exist on a spectrum between being showcased without alteration to being radically transformed by the composer.
 
@@ -64,19 +64,19 @@ alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
 
 ---
 
-#### Panayiotis Kokoras: AI Phantasy
+#### Panayiotis Kokoras: "AI Phantasy"
 
 [Go to top](#selected-works)
 
 ---
 
-#### Guilherme Coelho: Music Transformer and DDSP Étude of Composition and Digital Performances
+#### Guilherme Coelho: "Music Transformer and DDSP Étude of Composition and Digital Performances"
 
 [Go to top](#selected-works)
 
 ---
 
-#### Lauren Hayes: Moon via spirit for live electronics
+#### Lauren Hayes: "Moon via spirit" for live electronics
 
 This piece was commissioned as part of the Fluid Corpus Manipulation (FluCoMa) project, from the University of Huddersfield. The project studies how creative coders and technologists work with and incorporate new digital tools for signal decomposition and machine learning in novel ways. In this piece, I explore these tools through an embodied approach to segmentation, slicing, and layering of sound in real time. Using the FluCoMa toolkit, I was able to incorporate novel machine learning techniques in MaxMSP which deal with exploring large corpora of sound files. Specifically, this work involves, among other relevant AI techniques, machine learning in order to train based on preference; sort and select based on descriptors; and concatenate percussion sounds from a large collection of samples.
 
@@ -90,14 +90,19 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ---
 
-#### Alvaro Lopez: The Journey
+#### Alvaro Lopez: "The Journey"
 
 The Journey is a piece resulting from Alvaro E. Lopez’s real-time performance on AMG (Algorithmic Music Generator), a Max patch that generates music adaptively. It illustrates several techniques described in the article [Lopez, "Algorithmic Interactive Music Generation in Videogames", SoundEffecs 9(1), 2020](https://www.soundeffects.dk/article/view/118245).
+
+<a href="https://youtu.be/S4Jf-79t2CE" target="_blank"><img src="http://img.youtube.com/vi/S4Jf-79t2CE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+<a href="exhibit/Lopez.pdf" target="_blank">More information</a>
 
 [Go to top](#selected-works)
 
 ---
 
-#### Henrik Frisk: pvm
+#### Henrik Frisk: "pvm"
 
 [Go to top](#selected-works)
