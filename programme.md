@@ -47,7 +47,9 @@ Decades of discovery in the field of artificial intelligence have prioritized in
 
 **Published with ISBN 978-91-519-5560-5**
 
-MON OCT 19 16-18 CEST (Chair: Róisín Loughran)
+_MON OCT 19 16-18 CEST (Chair: Róisín Loughran)_
+
+Tribute to [Professor Robert Keller](https://www.cs.hmc.edu/~keller/)
 
 Matthew Caren. TRoco: A generative algorithm using jazz music theory [pdf](papers/CSMC__MuMe_2020_paper_7.pdf)
 
@@ -57,7 +59,7 @@ Jeffrey Ens and Philippe Pasquier. Improved Listening Experiment Design for Gene
 
 DEMO Joaquin Jimenez. Creating a Machine Learning Assistant for the Real-Time Performance of Dub Music [pdf](papers/CSMC__MuMe_2020_paper_34.pdf)
 
-TUE OCT 20 10-12 CEST (Chair: David Meredith)
+_TUE OCT 20 10-12 CEST (Chair: David Meredith)_
 
 Rui Guo, Ivor Simpson, Thor Magnusson and Dorien Herremans. Symbolic music generation with tension control [pdf](papers/CSMC__MuMe_2020_paper_47.pdf)
 
@@ -71,7 +73,7 @@ WIP Aiko Uemura and Tetsuro Kitahara. Morphing-Based Reharmonization using LSTM-
 
 DEMO Richard Savery, Lisa Zahray and Gil Weinberg. ProsodyCVAE: A Conditional Convolutional Variational Autoencoder for Real-time Emotional Music Prosody Generation [pdf](papers/CSMC__MuMe_2020_paper_16.pdf)
 
-TUE OCT 20 16-18 CEST (Chair: Shlomo Dubnov)
+_TUE OCT 20 16-18 CEST (Chair: Shlomo Dubnov)_
 
 Carmine-Emanuele Cella, Luke Dzwonczyk, Alejandro Saldarriaga-Fuertes, Hongfu Liu and Helene-Camille Crayencour. A Study on Neural Models for Target-Based Computer-Assisted Musical Orchestration [pdf](papers/CSMC__MuMe_2020_paper_43.pdf)
 
@@ -83,7 +85,7 @@ Yijun Zhou, Yuki Koyama, Masataka Goto and Takeo Igarashi. Generative Melody Com
 
 WIP Joann Ching, Antonio Ramires and Yi-Hsuan Yang. Instrument Role Classification: Auto-tagging for Loop Based Music [pdf](papers/CSMC__MuMe_2020_paper_35.pdf)
 
-WED OCT 21 10-12 CEST (Chair: Steven Jan)
+_WED OCT 21 10-12 CEST (Chair: Steven Jan)_
 
 DEMO Roger Dean. The multi-tuned piano: keyboard music without a tuning system generated manually or by Deep Improviser [pdf](papers/CSMC__MuMe_2020_paper_22.pdf)
 
@@ -97,7 +99,7 @@ Liam Dallas and Fabio Morreale. Effects of Added Vocals and Human Production to 
 
 WIP Sutirtha Chakraborty, Shyam Kishor, Shubham Nikesh Patil and Joseph Timoney. LeaderSTeM-A LSTM model for dynamic leader identification within musical streams [pdf](papers/CSMC__MuMe_2020_paper_52.pdf)
 
-WED OCT 21 16-18 CEST (Chair: Jean-Pierre Briot)
+_WED OCT 21 16-18 CEST (Chair: Jean-Pierre Briot)_
 
 Nick Collins, Vit Ruzicka and Mick Grierson. Remixing AIs: mind swaps, hybrainity, and splicing musical models [pdf](papers/CSMC__MuMe_2020_paper_2.pdf)
 
@@ -109,7 +111,7 @@ Mathieu Prang and Philippe Esling. Signal-domain representation of symbolic musi
 
 WIP Foteini Simistira Liwicki, Marcus Liwicki, Pedro Malo Perise, Federico Ghelli Visi and Stefan Ostersjo. Analysing Musical Performance in Videos Using Deep Neural Networks [pdf](papers/CSMC__MuMe_2020_paper_24.pdf)
 
-THU OCT 22 10-12 CEST (Chair: Ollie Bown)
+_THU OCT 22 10-12 CEST (Chair: Ollie Bown)_
 
 Amir Salimi and Abram Hindle. Make Your Own Audience: Virtual Listeners Can Filter Generated Drum Programs [pdf](papers/CSMC__MuMe_2020_paper_50.pdf)
 
@@ -121,7 +123,7 @@ Hadrien Foroughmand and Geoffroy Peeters. Extending Deep Rhythm for Tempo and Ge
 
 DEMO James Bradbury. Computer-assisted corpus exploration with UMAP and agglomerative clustering [pdf](papers/CSMC__MuMe_2020_paper_6.pdf)
 
-THU OCT 22 16-18 CEST (Chair: Robin Laney)
+_THU OCT 22 16-18 CEST (Chair: Robin Laney)_
 
 Shlomo Dubnov. Deep Music Information Dynamics [pdf](papers/CSMC__MuMe_2020_paper_15.pdf)
 
@@ -133,7 +135,7 @@ Théis Bazin, Gaëtan Hadjeres, Philippe Esling and Mikhail Malt. Spectrogram In
 
 WIP Manos Plitsis, Kosmas Kritsis, Maximos Kaliakatsos-Papakostas, Aggelos Pikrakis and Vassilis Katsouros. Towards a Classification and Evaluation of Symbolic Music Encodings for RNN Music Generation [pdf](papers/CSMC__MuMe_2020_paper_53.pdf)
 
-FRI OCT 23 16-18 CEST (Chair: Philippe Pasquier)
+_FRI OCT 23 16-18 CEST (Chair: Philippe Pasquier)_
 
 Sandeep Dasari and Jason Freeman. Directed Evolution in Live Coding Music Performance [pdf](papers/CSMC__MuMe_2020_paper_14.pdf)
 
