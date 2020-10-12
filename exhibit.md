@@ -105,4 +105,11 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 #### Henrik Frisk: "pvm"
 
+pvm is an improvisation based on interactions with the Vietnamese master musician Pham Van Mon. These interactions were carried out in Vietnam on numerous trips to the southern parts of the country, on line in virtual presence interaction, and in a manner that involved sending material back and forth. The material has been further developed in online performances in concerts in Sweden and in Hanoi. This piece is part of the Transformations project, an artistic research project that investigates the impact of musical traditions in transformation, and which involves the Vietnamese-Swedish group The Six Tones and several other collaborators, including Pham Van Mon.
+
+<a href="https://youtu.be/lnulLWdUlnw" target="_blank"><img src="http://img.youtube.com/vi/lnulLWdUlnw/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+<a href="exhibit/Frisk.pdf" target="_blank">More information</a>
+
 [Go to top](#selected-works)
