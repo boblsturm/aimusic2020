@@ -20,9 +20,10 @@ Analysis by synthesis is a classical tool in many areas of research. I will talk
 2. [Christine Payne, OpenAI](http://christinemcleavey.com) *Jukebox and MuseNet: Training Neural Nets to Generate New Music*
 2. [Gérard Assayag, IRCAM](https://www.ircam.fr/person/gerard-assayag)
 2. [Ed Newton-Rex, TikTok](https://www.linkedin.com/in/ed-newton-rex): *From Lab to Market: Building AI Composition Products*
+> AI composition has come a long way, and the technology is starting to write convincing music. But to what end? Technology serves little purpose if it isn't used. In this talk, we look at the range of products that AI composition technology has been applied to, what some of the pitfalls are when moving from research to product development in this nascent field, and what to think about when designing AI composition products.
 2. [Anna Huang, Google](https://research.google/people/105787)
 2. [Henry Adam Svec, University of Waterloo](http://www.henryadamsvec.ca) *“Gonna Burn All My Bridges”: LIVINGSTON’s Artificially Intelligent Folk Songs of Canada and an Alternative Way Forward in A.I. Research*
-Decades of discovery in the field of artificial intelligence have prioritized intelligence as the lodestar of research and development. What if folkloristic authenticity was substituted as the guiding goal of our collective labours? In this playful performance, involving both storytelling and song, Henry Adam Svec will explore this and other questions through the recounting of a most unlikely scenario—the time when, in Dawson City, Yukon, he co-invented the world’s first artificially intelligent database of Canadian folksong.
+> Decades of discovery in the field of artificial intelligence have prioritized intelligence as the lodestar of research and development. What if folkloristic authenticity was substituted as the guiding goal of our collective labours? In this playful performance, involving both storytelling and song, Henry Adam Svec will explore this and other questions through the recounting of a most unlikely scenario—the time when, in Dawson City, Yukon, he co-invented the world’s first artificially intelligent database of Canadian folksong.
 2. [Professor Sven Ahlbäck, KMH + DoReMIR](https://scorecloud.com)
 2. [CJ Carr (dadabots)](https://dadabots.com)
 1. [Holly Herndon](https://www.hollyherndon.com)
