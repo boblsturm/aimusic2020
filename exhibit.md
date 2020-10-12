@@ -68,6 +68,10 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 This piece was commissioned as part of the Fluid Corpus Manipulation (FluCoMa) project, from the University of Huddersfield. The project studies how creative coders and technologists work with and incorporate new digital tools for signal decomposition and machine learning in novel ways. In this piece, I explore these tools through an embodied approach to segmentation, slicing, and layering of sound in real time. Using the FluCoMa toolkit, I was able to incorporate novel machine learning techniques in MaxMSP which deal with exploring large corpora of sound files. Specifically, this work involves, among other relevant AI techniques, machine learning in order to train based on preference; sort and select based on descriptors; and concatenate percussion sounds from a large collection of samples.
 
+
+<a href="https://youtu.be/JpDmoslsyZE" target="_blank"><img src="http://img.youtube.com/vi/JpDmoslsyZE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 [Lauren Hayes](https://www.pariesa.com/) is a Scottish musician and sound artist who builds hybrid analogue/digital instruments and unpredictable performance systems. As an improviser, her music has been described as 'voracious' and ‘exhilarating’. Her research explores embodied music cognition, enactive approaches to digital instrument design, and haptic technologies. She is currently Assistant Professor of Sound Studies within the School of Arts, Media and Engineering at Arizona State University where she leads PARIESA (Practice and Research in Enactive Sonic Art). She is Director-At-Large of the International Computer Music Association and is a member of the New BBC Radiophonic Workshop.
 
 [Go to top](#selected-works)
