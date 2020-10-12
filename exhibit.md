@@ -59,6 +59,22 @@ alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
 
 #### Collaborative Electroacoustic Composition with Intelligent Agents (CECIA)
 
+CECIA is an innovative music project that integrates the creative agency of 5 composers and Machine Learning algorithms, leading to the creation of a unique composition of electroacoustic music. The project explores collaborative music creation, harnessing the creativity of electroacoustic music composers and Intelligent Agents through an online platform. The collaborative process was conducted remotely in an iterative fashion, in which the composers anonymously submitted and evaluated sound material/ideas/suggestions. These data were used for the training of the machine learning algorithms, which generated new sonic structures, which in turn were fed back to the composers as suggestive material. The project implements a synergistic framework between human and algorithms, introducing a novel experimental sound practice for the creation of electroacoustic music.
+
+[Soundcloud link](https://soundcloud.com/kosmas-giannoutakis/cecia-composition)
+
+The CECIA team is composed of internationally active composers, sound artists and researchers who remotely worked on the project in 2019. The project was organized by ZKM within the framework of the »Interfaces« project with the support of the Creative Europe program of the European Union.
+**Composers**
+- [Panayiotis Kokoras](www.panayiotiskokoras.com)
+- [Mariam Gviniashvili](www.mariamgviniashvili.com)
+- [Juan Carlos Vasquez](www.jcvasquez.com)
+- [Martyna Kosecka](www.martynakosecka.com)
+- [Erik Nyström](www.eriknystrom.com)
+**Machine learning algorithms**
+- [Artemi – Maria Gioti](www.artemigioti.com)
+**Project coordinator**
+- [Kosmas Giannoutakis](www.kosmasgiannoutakis.eu)
+
 [Go to top](#selected-works)
 
 ---
@@ -80,7 +96,7 @@ alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
 
 This work1 explores the use of the Music Transformer and DDSP models to introduce compositions, sound objects and performances in the practice of human–computer music. This follows work on machine musicianship from researchers like David Cope and George E. Lewis and explores AI as an instigator of compositional and performance explorations. This practice- based research takes compositional repertoires from the Music Transformer model as a formalised and structural instigator to which the author gives it form. These pieces are transformed, recombined and curated by their author’s fundamentally aesthetic and contextualising manners. These pieces are then used as input structures and translated into tenor saxophone, trumpet, violin and flute performances performed by the DDSP model and explored further to form new pieces. My role in this practice exists in the role of curator and producer, providing behaviours, arrangements and context to these pieces, turning these scores and audio outputs into sonic explorations and performances through computational means.
 
-https://soundcloud.com/guilhermeguilhermecoelho/sets/music-transformer-and-ddsp-etudes-of-composition-and-digital-performances/s-7PBVdWKuR1q
+[Soundcloud link](https://soundcloud.com/guilhermeguilhermecoelho/sets/music-transformer-and-ddsp-etudes-of-composition-and-digital-performances/s-7PBVdWKuR1q)
 
 <a href="exhibit/Coelho.pdf" target="_blank">More information</a>
 
