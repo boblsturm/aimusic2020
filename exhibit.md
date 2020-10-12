@@ -18,7 +18,7 @@ This string quartet arose from two computer programmes written by [David G. Cham
 
 <a href="https://www.youtube.com/watch?v=gogIM2kKB1U&list=PLT_o2wa6T9d6ZMPnYW13XS6UoqymtxzN4
 " target="_blank"><img src="http://img.youtube.com/vi/gogIM2kKB1U/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
+alt="Champernown Music from EDSAC" width="480" border="10" /></a>
 
 <a href="https://highnoongmt.wordpress.com/2020/10/01/music-from-edsac-circa-1960/" target="_blank">More information</a>
 
@@ -33,7 +33,7 @@ This work was composed using deep learning tools, specifically [folk-rnn](https:
 This is the third piece I composed using machine learning tools - following [Bastard Tunes (2017)](https://www.youtube.com/playlist?list=PLdTpPwVfxuXpQ03F398HH463SAE0vR2X8) and [Between the Lines (2018)](https://youtu.be/GdvylH-0Q1k). In each piece the interaction between my own creative ideas and the machine learning system is different, but some general themes are emerging. The default output of the system is mostly useless. The initial phase involves significant amount of learning, on my part, of their supposed learning. Interesting results starts to appear when I learn how to subvert the model away from the training set. Starting the co-creative process with strong ideas about what I want to get out of the model is not going to work. If I know what I need I should either create it or program it.
 
 <a href="http://www.youtube.com/watch?v=QmYt46Wl8JY" target="_blank"><img src="http://img.youtube.com/vi/QmYt46Wl8JY/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
+alt="Oded Ben-Tal Notes for a future self" width="480" border="10" /></a>
 
 [Oded Ben-Tal](https://obental.wixsite.com/main) is a composer and researcher working at the intersection of music, computing, and cognition. His composition include both acoustic pieces, works combining instruments with electronics and multimedia work. Since 2016 he is working on a multidisiplinary research project applying state of the art machine learning to music composition. He is a senior lecturer at the Performing Arts Department, Kingston University.
 
@@ -48,7 +48,7 @@ Alter for mezzo-soprano and ensemble utilises several generative machine learnin
 Important to note is that Alter was written as one of several commissions focussing on the life and writings of Ada Lovelace. The piece was premiered in 2019 at the Barbican Centre as part of an event titled ‘Imagining the Analytical Engine’, and as such also has a connection with Babbage’s theorised Analytical Engine, which Lovelace postulated might one day be capable of writing music of its own. These connections will be utilised as the catalyst for much of the work’s narrative and machine learning processes.
 
 <a href="https://www.youtube.com/watch?v=L1mQGaNmfUM" target="_blank"><img src="http://img.youtube.com/vi/L1mQGaNmfUM/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
+alt="Robert Laidlow Alter" width="480" border="10" /></a>
 
 <a href="exhibit/Laidlow_score.pdf" target="_blank">Score</a><br />
 <a href="exhibit/Laidlow.pdf" target="_blank">More information</a>
@@ -86,8 +86,8 @@ The CECIA team is composed of internationally active composers, sound artists an
 
 AI Phantasy was composed at the GRIS multichannel studio, the University of Montreal in Quebec, Canada; the sound dome MEIT theater at the Center for Experimental Music and Intermedia, University of North Texas, and my home studio. One of the main sound-producing mechanisms in the piece is a vacuum cleaner.
 
-<a href="https://youtu.be/pLVEJqYpUFc" target="_blank"><img src="http://img.youtube.com/vi/pLVEJqYpUFc/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
+<a href="https://youtu.be/CAWrrV3swyY" target="_blank"><img src="http://img.youtube.com/vi/CAWrrV3swyY/0.jpg" 
+alt="Panayiotis Kokoras AI Phantasy" width="480" border="10" /></a>
 
 <a href="exhibit/Kokoras.pdf" target="_blank">More information</a>
 
@@ -107,12 +107,12 @@ This work1 explores the use of the Music Transformer and DDSP models to introduc
 
 ---
 
-#### Lauren Hayes: "Moon via spirit" for live electronics
+#### Lauren Hayes: "Moon via Spirit" for live electronics
 
 This piece was commissioned as part of the Fluid Corpus Manipulation (FluCoMa) project, from the University of Huddersfield. The project studies how creative coders and technologists work with and incorporate new digital tools for signal decomposition and machine learning in novel ways. In this piece, I explore these tools through an embodied approach to segmentation, slicing, and layering of sound in real time. Using the FluCoMa toolkit, I was able to incorporate novel machine learning techniques in MaxMSP which deal with exploring large corpora of sound files. Specifically, this work involves, among other relevant AI techniques, machine learning in order to train based on preference; sort and select based on descriptors; and concatenate percussion sounds from a large collection of samples.
 
 <a href="https://youtu.be/JpDmoslsyZE" target="_blank"><img src="http://img.youtube.com/vi/JpDmoslsyZE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
+alt="Lauren Hayes Moon via Spirit" width="480" border="10" /></a>
 
 [Lauren Hayes](https://www.pariesa.com/) is a Scottish musician and sound artist who builds hybrid analogue/digital instruments and unpredictable performance systems. As an improviser, her music has been described as 'voracious' and ‘exhilarating’. Her research explores embodied music cognition, enactive approaches to digital instrument design, and haptic technologies. She is currently Assistant Professor of Sound Studies within the School of Arts, Media and Engineering at Arizona State University where she leads PARIESA (Practice and Research in Enactive Sonic Art). She is Director-At-Large of the International Computer Music Association and is a member of the New BBC Radiophonic Workshop.
 
@@ -125,7 +125,7 @@ alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
 The Journey is a piece resulting from Alvaro E. Lopez’s real-time performance on AMG (Algorithmic Music Generator), a Max patch that generates music adaptively. It illustrates several techniques described in the article [Lopez, "Algorithmic Interactive Music Generation in Videogames", SoundEffecs 9(1), 2020](https://www.soundeffects.dk/article/view/118245).
 
 <a href="https://youtu.be/S4Jf-79t2CE" target="_blank"><img src="http://img.youtube.com/vi/S4Jf-79t2CE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
+alt="Alvaro Lopez The Journey" width="480" border="10" /></a>
 
 <a href="exhibit/Lopez.pdf" target="_blank">More information</a>
 
@@ -138,7 +138,7 @@ alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
 pvm is an improvisation based on interactions with the Vietnamese master musician Pham Van Mon. These interactions were carried out in Vietnam on numerous trips to the southern parts of the country, on line in virtual presence interaction, and in a manner that involved sending material back and forth. The material has been further developed in online performances in concerts in Sweden and in Hanoi. This piece is part of the Transformations project, an artistic research project that investigates the impact of musical traditions in transformation, and which involves the Vietnamese-Swedish group The Six Tones and several other collaborators, including Pham Van Mon.
 
 <a href="https://youtu.be/lnulLWdUlnw" target="_blank"><img src="http://img.youtube.com/vi/lnulLWdUlnw/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
+alt="Henrik Frisk pvm" width="480" border="10" /></a>
 
 <a href="exhibit/Frisk.pdf" target="_blank">More information</a>
 
