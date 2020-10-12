@@ -4,18 +4,29 @@
 
 ---
 
+# Keynote Presentations
+
+[Dr. Alice Eldridge](https://profiles.sussex.ac.uk/p127749-alice-eldridge)
+
+[Professor Emeritus Dr. Johan Sundberg](https://scholar.google.co.uk/citations?user=UXXUEcoAAAAJ&hl=en&oi=ao), 
+**Analysis by synthesis: A wonderful tool in difficult areas**
+
+Analysis by synthesis is a classical tool in many areas of research. I will talk about how I enjoyed using it in three research areas. In one, Björn Lindblom and I applied it in a study of the compositional style in nursery tunes composed by the Swedish composer Alice Tegner in the beginning of the 20th century.  A second application was music performance, where musician Larf Frydén, Anders Friberg and I developed a digital performance grammar that controlled a synthesizer; thus, the synthesizer performed music examples in accordance with a set of performance rules. A third area has been the singing voice, the purpose being to explore how various acoustic properties affect the sound of a singer’s voice.
+
+---
+
 # Spotlight Presentations
 
-1. [Holly Herndon](https://www.hollyherndon.com)
-2. [Anna Huang, Google](https://research.google/people/105787)
 2. [Christine Payne, OpenAI](http://christinemcleavey.com) *Jukebox and MuseNet: Training Neural Nets to Generate New Music*
 2. [Gérard Assayag, IRCAM](https://www.ircam.fr/person/gerard-assayag)
-2. [CJ Carr (dadabots)](https://dadabots.com)
-2. [Professor Sven Ahlbäck, KMH + DoReMIR](https://scorecloud.com)
-2. [Professor Mary Simoni, Rensselaer Polytechnic Institute](https://faculty.rpi.edu/node/35920)
+2. [Ed Newton-Rex, TikTok](https://www.linkedin.com/in/ed-newton-rex): *From Lab to Market: Building AI Composition Products*
+2. [Anna Huang, Google](https://research.google/people/105787)
 2. [Henry Adam Svec, University of Waterloo](http://www.henryadamsvec.ca) *“Gonna Burn All My Bridges”: LIVINGSTON’s Artificially Intelligent Folk Songs of Canada and an Alternative Way Forward in A.I. Research*
 Decades of discovery in the field of artificial intelligence have prioritized intelligence as the lodestar of research and development. What if folkloristic authenticity was substituted as the guiding goal of our collective labours? In this playful performance, involving both storytelling and song, Henry Adam Svec will explore this and other questions through the recounting of a most unlikely scenario—the time when, in Dawson City, Yukon, he co-invented the world’s first artificially intelligent database of Canadian folksong.
-2. [Ed Newton-Rex, TikTok](https://www.linkedin.com/in/ed-newton-rex): *From Lab to Market: Building AI Composition Products*
+2. [Professor Sven Ahlbäck, KMH + DoReMIR](https://scorecloud.com)
+2. [CJ Carr (dadabots)](https://dadabots.com)
+1. [Holly Herndon](https://www.hollyherndon.com)
+2. [Professor Mary Simoni, Rensselaer Polytechnic Institute](https://faculty.rpi.edu/node/35920)
 
 ---
 # Tutorials
