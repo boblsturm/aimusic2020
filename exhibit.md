@@ -18,7 +18,7 @@ This string quartet arose from two computer programmes written by [David G. Cham
 
 <a href="https://www.youtube.com/watch?v=gogIM2kKB1U&list=PLT_o2wa6T9d6ZMPnYW13XS6UoqymtxzN4
 " target="_blank"><img src="http://img.youtube.com/vi/gogIM2kKB1U/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="480" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
 
 [Go to top](#selected-works)
 
@@ -31,7 +31,7 @@ This work was composed using deep learning tools, specifically [folk-rnn](https:
 This is the third piece I composed using machine learning tools - following [Bastard Tunes (2017)](https://www.youtube.com/playlist?list=PLdTpPwVfxuXpQ03F398HH463SAE0vR2X8) and [Between the Lines (2018)](https://youtu.be/GdvylH-0Q1k). In each piece the interaction between my own creative ideas and the machine learning system is different, but some general themes are emerging. The default output of the system is mostly useless. The initial phase involves significant amount of learning, on my part, of their supposed learning. Interesting results starts to appear when I learn how to subvert the model away from the training set. Starting the co-creative process with strong ideas about what I want to get out of the model is not going to work. If I know what I need I should either create it or program it.
 
 <a href="http://www.youtube.com/watch?v=QmYt46Wl8JY" target="_blank"><img src="http://img.youtube.com/vi/QmYt46Wl8JY/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="480" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
 
 [Oded Ben-Tal](https://obental.wixsite.com/main) is a composer and researcher working at the intersection of music, computing, and cognition. His composition include both acoustic pieces, works combining instruments with electronics and multimedia work. Since 2016 he is working on a multidisiplinary research project applying state of the art machine learning to music composition. He is a senior lecturer at the Performing Arts Department, Kingston University.
 
@@ -46,9 +46,11 @@ Alter for mezzo-soprano and ensemble utilises several generative machine learnin
 Important to note is that Alter was written as one of several commissions focussing on the life and writings of Ada Lovelace. The piece was premiered in 2019 at the Barbican Centre as part of an event titled ‘Imagining the Analytical Engine’, and as such also has a connection with Babbage’s theorised Analytical Engine, which Lovelace postulated might one day be capable of writing music of its own. These connections will be utilised as the catalyst for much of the work’s narrative and machine learning processes.
 
 <a href="https://www.youtube.com/watch?v=L1mQGaNmfUM" target="_blank"><img src="http://img.youtube.com/vi/L1mQGaNmfUM/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="480" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
 
-[More information]()
+[Score](exhibit/Laidlow_score.pdf)
+
+[More information](exhibit/Laidlow.pdf)
 
 [Go to top](#selected-works)
 
