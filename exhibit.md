@@ -14,11 +14,13 @@
 
 #### D. G. Champernown "Music from EDSAC" (circa 1960)
 
-This string quartet arose from two computer programmes written by [David G. Champernown](https://en.wikipedia.org/wiki/D._G._Champernowne), Professor of Economics at Cambridge University, around 1960. One programme harmonized melodies in the style of Victorian hymns. Another program generated serial-style music. A performance and recording of the string quartet was supposedly made by Lejaren A. Hiller in the 1960s, but this has been lost. <a href="https://highnoongmt.wordpress.com/2020/10/01/music-from-edsac-circa-1960/" target="_blank">See here for more information</a>.
+This string quartet arose from two computer programmes written by [David G. Champernown](https://en.wikipedia.org/wiki/D._G._Champernowne), Professor of Economics at Cambridge University, around 1960. One programme harmonized melodies in the style of Victorian hymns. Another program generated serial-style music. A performance and recording of the string quartet was supposedly made by Lejaren A. Hiller in the 1960s, but this has been lost. 
 
 <a href="https://www.youtube.com/watch?v=gogIM2kKB1U&list=PLT_o2wa6T9d6ZMPnYW13XS6UoqymtxzN4
 " target="_blank"><img src="http://img.youtube.com/vi/gogIM2kKB1U/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
+
+<a href="https://highnoongmt.wordpress.com/2020/10/01/music-from-edsac-circa-1960/" target="_blank">More information</a>
 
 [Go to top](#selected-works)
 
@@ -48,9 +50,9 @@ Important to note is that Alter was written as one of several commissions focuss
 <a href="https://www.youtube.com/watch?v=L1mQGaNmfUM" target="_blank"><img src="http://img.youtube.com/vi/L1mQGaNmfUM/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
 
-[Score](exhibit/Laidlow_score.pdf)
+<a href="exhibit/Laidlow_score.pdf" target="_blank">Score</a>
 
-[More information](exhibit/Laidlow.pdf)
+<a href="exhibit/Laidlow.pdf" target="_blank">More information</a>
 
 [Go to top](#selected-works)
 
