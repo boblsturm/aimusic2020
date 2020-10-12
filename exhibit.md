@@ -14,11 +14,13 @@
 
 #### D. G. Champernown "Music from EDSAC" (circa 1960)
 
-This string quartet arose from two computer programmes written by [David G. Champernown](https://en.wikipedia.org/wiki/D._G._Champernowne), Professor of Economics at Cambridge University, around 1960. One programme harmonized melodies in the style of Victorian hymns. Another program generated serial-style music. A performance and recording of the string quartet was supposedly made by Lejaren A. Hiller in the 1960s, but this has been lost. <a href="https://highnoongmt.wordpress.com/2020/10/01/music-from-edsac-circa-1960/" target="_blank">See here for more information</a>.
+This string quartet arose from two computer programmes written by [David G. Champernown](https://en.wikipedia.org/wiki/D._G._Champernowne), Professor of Economics at Cambridge University, around 1960. One programme harmonized melodies in the style of Victorian hymns. Another program generated serial-style music. A performance and recording of the string quartet was supposedly made by Lejaren A. Hiller in the 1960s, but this has been lost. 
 
 <a href="https://www.youtube.com/watch?v=gogIM2kKB1U&list=PLT_o2wa6T9d6ZMPnYW13XS6UoqymtxzN4
 " target="_blank"><img src="http://img.youtube.com/vi/gogIM2kKB1U/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="Champernown Music from EDSAC" width="480" border="10" /></a>
+
+<a href="https://highnoongmt.wordpress.com/2020/10/01/music-from-edsac-circa-1960/" target="_blank">More information</a>
 
 [Go to top](#selected-works)
 
@@ -30,9 +32,8 @@ This work was composed using deep learning tools, specifically [folk-rnn](https:
 
 This is the third piece I composed using machine learning tools - following [Bastard Tunes (2017)](https://www.youtube.com/playlist?list=PLdTpPwVfxuXpQ03F398HH463SAE0vR2X8) and [Between the Lines (2018)](https://youtu.be/GdvylH-0Q1k). In each piece the interaction between my own creative ideas and the machine learning system is different, but some general themes are emerging. The default output of the system is mostly useless. The initial phase involves significant amount of learning, on my part, of their supposed learning. Interesting results starts to appear when I learn how to subvert the model away from the training set. Starting the co-creative process with strong ideas about what I want to get out of the model is not going to work. If I know what I need I should either create it or program it.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=QmYt46Wl8JY
-" target="_blank"><img src="http://img.youtube.com/vi/QmYt46Wl8JY/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?v=QmYt46Wl8JY" target="_blank"><img src="http://img.youtube.com/vi/QmYt46Wl8JY/0.jpg" 
+alt="Oded Ben-Tal Notes for a future self" width="480" border="10" /></a>
 
 [Oded Ben-Tal](https://obental.wixsite.com/main) is a composer and researcher working at the intersection of music, computing, and cognition. His composition include both acoustic pieces, works combining instruments with electronics and multimedia work. Since 2016 he is working on a multidisiplinary research project applying state of the art machine learning to music composition. He is a senior lecturer at the Performing Arts Department, Kingston University.
 
@@ -40,7 +41,17 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ---
 
-#### Robert Laidlow: Alter for mezzo-sporano and ensemble
+#### Robert Laidlow: "Alter" for mezzo-sporano and ensemble
+
+Alter for mezzo-soprano and ensemble utilises several generative machine learning algorithms as collaborative and interactive tools in the compositional process. It combines models in the symbolic- generative (MuseNet), audio-generative (WaveNet), and text-generative (WordRNN and GPT-2) domains to create a musical structure defined by the machine learning process, where the results of neural networks at different stages of training exist on a spectrum between being showcased without alteration to being radically transformed by the composer.
+
+Important to note is that Alter was written as one of several commissions focussing on the life and writings of Ada Lovelace. The piece was premiered in 2019 at the Barbican Centre as part of an event titled ‘Imagining the Analytical Engine’, and as such also has a connection with Babbage’s theorised Analytical Engine, which Lovelace postulated might one day be capable of writing music of its own. These connections will be utilised as the catalyst for much of the work’s narrative and machine learning processes.
+
+<a href="https://www.youtube.com/watch?v=L1mQGaNmfUM" target="_blank"><img src="http://img.youtube.com/vi/L1mQGaNmfUM/0.jpg" 
+alt="Robert Laidlow Alter" width="480" border="10" /></a>
+
+<a href="exhibit/Laidlow_score.pdf" target="_blank">Score</a><br />
+<a href="exhibit/Laidlow.pdf" target="_blank">More information</a>
 
 [Go to top](#selected-works)
 
@@ -48,25 +59,60 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 #### Collaborative Electroacoustic Composition with Intelligent Agents (CECIA)
 
+CECIA is an innovative music project that integrates the creative agency of 5 composers and Machine Learning algorithms, leading to the creation of a unique composition of electroacoustic music. The project explores collaborative music creation, harnessing the creativity of electroacoustic music composers and Intelligent Agents through an online platform. The collaborative process was conducted remotely in an iterative fashion, in which the composers anonymously submitted and evaluated sound material/ideas/suggestions. These data were used for the training of the machine learning algorithms, which generated new sonic structures, which in turn were fed back to the composers as suggestive material. The project implements a synergistic framework between human and algorithms, introducing a novel experimental sound practice for the creation of electroacoustic music.
+
+[Soundcloud link](https://soundcloud.com/kosmas-giannoutakis/cecia-composition)
+
+The CECIA team is composed of internationally active composers, sound artists and researchers who remotely worked on the project in 2019. The project was organized by ZKM within the framework of the »Interfaces« project with the support of the Creative Europe program of the European Union.
+
+**Composers**
+- [Panayiotis Kokoras](www.panayiotiskokoras.com)
+- [Mariam Gviniashvili](www.mariamgviniashvili.com)
+- [Juan Carlos Vasquez](www.jcvasquez.com)
+- [Martyna Kosecka](www.martynakosecka.com)
+- [Erik Nyström](www.eriknystrom.com)
+
+**Machine learning algorithms**
+- [Artemi – Maria Gioti](www.artemigioti.com)
+
+**Project coordinator**
+- [Kosmas Giannoutakis](www.kosmasgiannoutakis.eu)
+
 [Go to top](#selected-works)
 
 ---
 
-#### Panayiotis Kokoras: AI Phantasy
+#### Panayiotis Kokoras: "AI Phantasy"
+
+AI Phantasy was composed at the GRIS multichannel studio, the University of Montreal in Quebec, Canada; the sound dome MEIT theater at the Center for Experimental Music and Intermedia, University of North Texas, and my home studio. One of the main sound-producing mechanisms in the piece is a vacuum cleaner.
+
+<a href="https://youtu.be/CAWrrV3swyY" target="_blank"><img src="http://img.youtube.com/vi/CAWrrV3swyY/0.jpg" 
+alt="Panayiotis Kokoras AI Phantasy" width="480" border="10" /></a>
+
+<a href="exhibit/Kokoras.pdf" target="_blank">More information</a>
 
 [Go to top](#selected-works)
 
 ---
 
-#### Guilherme Coelho: Music Transformer and DDSP Étude of Composition and Digital Performances
+#### Guilherme Coelho: "Music Transformer and DDSP Étude of Composition and Digital Performances"
+
+This work1 explores the use of the Music Transformer and DDSP models to introduce compositions, sound objects and performances in the practice of human–computer music. This follows work on machine musicianship from researchers like David Cope and George E. Lewis and explores AI as an instigator of compositional and performance explorations. This practice- based research takes compositional repertoires from the Music Transformer model as a formalised and structural instigator to which the author gives it form. These pieces are transformed, recombined and curated by their author’s fundamentally aesthetic and contextualising manners. These pieces are then used as input structures and translated into tenor saxophone, trumpet, violin and flute performances performed by the DDSP model and explored further to form new pieces. My role in this practice exists in the role of curator and producer, providing behaviours, arrangements and context to these pieces, turning these scores and audio outputs into sonic explorations and performances through computational means.
+
+[Soundcloud link](https://soundcloud.com/guilhermeguilhermecoelho/sets/music-transformer-and-ddsp-etudes-of-composition-and-digital-performances/s-7PBVdWKuR1q)
+
+<a href="exhibit/Coelho.pdf" target="_blank">More information</a>
 
 [Go to top](#selected-works)
 
 ---
 
-#### Lauren Hayes: Moon via spirit for live electronics
+#### Lauren Hayes: "Moon via Spirit" for live electronics
 
 This piece was commissioned as part of the Fluid Corpus Manipulation (FluCoMa) project, from the University of Huddersfield. The project studies how creative coders and technologists work with and incorporate new digital tools for signal decomposition and machine learning in novel ways. In this piece, I explore these tools through an embodied approach to segmentation, slicing, and layering of sound in real time. Using the FluCoMa toolkit, I was able to incorporate novel machine learning techniques in MaxMSP which deal with exploring large corpora of sound files. Specifically, this work involves, among other relevant AI techniques, machine learning in order to train based on preference; sort and select based on descriptors; and concatenate percussion sounds from a large collection of samples.
+
+<a href="https://youtu.be/JpDmoslsyZE" target="_blank"><img src="http://img.youtube.com/vi/JpDmoslsyZE/0.jpg" 
+alt="Lauren Hayes Moon via Spirit" width="480" border="10" /></a>
 
 [Lauren Hayes](https://www.pariesa.com/) is a Scottish musician and sound artist who builds hybrid analogue/digital instruments and unpredictable performance systems. As an improviser, her music has been described as 'voracious' and ‘exhilarating’. Her research explores embodied music cognition, enactive approaches to digital instrument design, and haptic technologies. She is currently Assistant Professor of Sound Studies within the School of Arts, Media and Engineering at Arizona State University where she leads PARIESA (Practice and Research in Enactive Sonic Art). She is Director-At-Large of the International Computer Music Association and is a member of the New BBC Radiophonic Workshop.
 
@@ -74,14 +120,26 @@ This piece was commissioned as part of the Fluid Corpus Manipulation (FluCoMa) p
 
 ---
 
-#### Alvaro Lopez: The Journey
+#### Alvaro Lopez: "The Journey"
 
 The Journey is a piece resulting from Alvaro E. Lopez’s real-time performance on AMG (Algorithmic Music Generator), a Max patch that generates music adaptively. It illustrates several techniques described in the article [Lopez, "Algorithmic Interactive Music Generation in Videogames", SoundEffecs 9(1), 2020](https://www.soundeffects.dk/article/view/118245).
+
+<a href="https://youtu.be/S4Jf-79t2CE" target="_blank"><img src="http://img.youtube.com/vi/S4Jf-79t2CE/0.jpg" 
+alt="Alvaro Lopez The Journey" width="480" border="10" /></a>
+
+<a href="exhibit/Lopez.pdf" target="_blank">More information</a>
 
 [Go to top](#selected-works)
 
 ---
 
-#### Henrik Frisk: pvm
+#### Henrik Frisk: "pvm"
+
+pvm is an improvisation based on interactions with the Vietnamese master musician Pham Van Mon. These interactions were carried out in Vietnam on numerous trips to the southern parts of the country, on line in virtual presence interaction, and in a manner that involved sending material back and forth. The material has been further developed in online performances in concerts in Sweden and in Hanoi. This piece is part of the Transformations project, an artistic research project that investigates the impact of musical traditions in transformation, and which involves the Vietnamese-Swedish group The Six Tones and several other collaborators, including Pham Van Mon.
+
+<a href="https://youtu.be/lnulLWdUlnw" target="_blank"><img src="http://img.youtube.com/vi/lnulLWdUlnw/0.jpg" 
+alt="Henrik Frisk pvm" width="480" border="10" /></a>
+
+<a href="exhibit/Frisk.pdf" target="_blank">More information</a>
 
 [Go to top](#selected-works)
