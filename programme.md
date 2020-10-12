@@ -65,7 +65,7 @@ Zeng Ren. Style Composition With An Evolutionary Algorithm [pdf](papers/CSMC__Mu
 
 Raymond Whorley and Robin Laney. Generating Subjects for Pieces in the Style of Bach’s Two-Part Inventions [pdf](papers/CSMC__MuMe_2020_paper_1.pdf)
 
-Jacopo de Berardinis, Samuel Barrett, Angelo Cangelosi and Eduardo Coutinho. Attention and Recurrence: A New Paradigm for Symbolic Music Modelling [pdf](papers/CSMC__MuMe_2020_paper_46.pdf)
+Jacopo de Berardinis, Samuel Barrett, Angelo Cangelosi and Eduardo Coutinho. Modelling long- and short-term structure in symbolic music with attention and recurrence [pdf](papers/CSMC__MuMe_2020_paper_46.pdf)
 
 WIP Aiko Uemura and Tetsuro Kitahara. Morphing-Based Reharmonization using LSTM-VAE [pdf](papers/CSMC__MuMe_2020_paper_25.pdf)
 
