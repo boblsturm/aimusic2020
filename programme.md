@@ -4,7 +4,7 @@
 
 ---
 
-# Keynote Presentations
+# Keynotes
 
 [Dr. Alice Eldridge](https://profiles.sussex.ac.uk/p127749-alice-eldridge)
 
@@ -15,7 +15,7 @@ Analysis by synthesis is a classical tool in many areas of research. I will talk
 
 ---
 
-# Spotlight Presentations
+# Spotlights
 
 2. [Christine Payne, OpenAI](http://christinemcleavey.com) *Jukebox and MuseNet: Training Neural Nets to Generate New Music*
 2. [Gérard Assayag, IRCAM](https://www.ircam.fr/person/gerard-assayag)
@@ -37,9 +37,9 @@ Decades of discovery in the field of artificial intelligence have prioritized in
 ---
 # Panels
 
-1. **The Future AI Musician**: Oded Ben-Tal (chair), Mark d'Inverno, Mary Simoni, Elaine Chew, and Prateek Verma
 2. **How Do we Rage with the Machine? Exploring the AI Song Space**: Alexandra L. Uitdenbogerd (chair), Hendrik Vincent Koops, Anna Huang, Portrait XO, Ashley Burgoyne, and Tom Collins
 3. **The Future of MuMe + CSMC**: Bob L. T. Sturm (chair), Philippe Pasquier, Oliver Bown, Robin Laney, Róisín Loughran, Steven Jan
+1. **The Future AI Musician**: Oded Ben-Tal (chair), Mark d'Inverno, Mary Simoni, Elaine Chew, and Prateek Verma
 4. **AI Music Generation Challenge 2020**: Bob L. T. Sturm (chair), Judge A, Judge B, Judge C, Judge D, Participant TBA
 
 ---
@@ -61,90 +61,90 @@ _MON OCT 19 16-18 CEST (Chair: Róisín Loughran)_
 
 _TUE OCT 20 10-12 CEST (Chair: David Meredith)_
 
-Rui Guo, Ivor Simpson, Thor Magnusson and Dorien Herremans. Symbolic music generation with tension control [pdf](papers/CSMC__MuMe_2020_paper_47.pdf)
+> Rui Guo, Ivor Simpson, Thor Magnusson and Dorien Herremans. Symbolic music generation with tension control [pdf](papers/CSMC__MuMe_2020_paper_47.pdf)
 
-Zeng Ren. Style Composition With An Evolutionary Algorithm [pdf](papers/CSMC__MuMe_2020_paper_11.pdf)
+> Zeng Ren. Style Composition With An Evolutionary Algorithm [pdf](papers/CSMC__MuMe_2020_paper_11.pdf)
 
-Raymond Whorley and Robin Laney. Generating Subjects for Pieces in the Style of Bach’s Two-Part Inventions [pdf](papers/CSMC__MuMe_2020_paper_1.pdf)
+> Raymond Whorley and Robin Laney. Generating Subjects for Pieces in the Style of Bach’s Two-Part Inventions [pdf](papers/CSMC__MuMe_2020_paper_1.pdf)
 
-Jacopo de Berardinis, Samuel Barrett, Angelo Cangelosi and Eduardo Coutinho. Modelling long- and short-term structure in symbolic music with attention and recurrence [pdf](papers/CSMC__MuMe_2020_paper_46.pdf)
+> Jacopo de Berardinis, Samuel Barrett, Angelo Cangelosi and Eduardo Coutinho. Modelling long- and short-term structure in symbolic music with attention and recurrence [pdf](papers/CSMC__MuMe_2020_paper_46.pdf)
 
-WIP Aiko Uemura and Tetsuro Kitahara. Morphing-Based Reharmonization using LSTM-VAE [pdf](papers/CSMC__MuMe_2020_paper_25.pdf)
+> WIP Aiko Uemura and Tetsuro Kitahara. Morphing-Based Reharmonization using LSTM-VAE [pdf](papers/CSMC__MuMe_2020_paper_25.pdf)
 
-DEMO Richard Savery, Lisa Zahray and Gil Weinberg. ProsodyCVAE: A Conditional Convolutional Variational Autoencoder for Real-time Emotional Music Prosody Generation [pdf](papers/CSMC__MuMe_2020_paper_16.pdf)
+> DEMO Richard Savery, Lisa Zahray and Gil Weinberg. ProsodyCVAE: A Conditional Convolutional Variational Autoencoder for Real-time Emotional Music Prosody Generation [pdf](papers/CSMC__MuMe_2020_paper_16.pdf)
 
 _TUE OCT 20 16-18 CEST (Chair: Shlomo Dubnov)_
 
-Carmine-Emanuele Cella, Luke Dzwonczyk, Alejandro Saldarriaga-Fuertes, Hongfu Liu and Helene-Camille Crayencour. A Study on Neural Models for Target-Based Computer-Assisted Musical Orchestration [pdf](papers/CSMC__MuMe_2020_paper_43.pdf)
+> Carmine-Emanuele Cella, Luke Dzwonczyk, Alejandro Saldarriaga-Fuertes, Hongfu Liu and Helene-Camille Crayencour. A Study on Neural Models for Target-Based Computer-Assisted Musical Orchestration [pdf](papers/CSMC__MuMe_2020_paper_43.pdf)
 
-Sofy Yuditskaya, Sophia Sun and Derek Kwan. Karaoke of Dreams: A multi-modal neural-network generated music experience [pdf](papers/CSMC__MuMe_2020_paper_5.pdf)
+> Sofy Yuditskaya, Sophia Sun and Derek Kwan. Karaoke of Dreams: A multi-modal neural-network generated music experience [pdf](papers/CSMC__MuMe_2020_paper_5.pdf)
 
-Guillaume Alain, Maxime Chevalier-Boisvert, Frederic Osterrath and Remi Piche-Taillefer. DeepDrummer : Generating Drum Loops using Deep Learning and a Human in the Loop [pdf](papers/CSMC__MuMe_2020_paper_18.pdf)
+> Guillaume Alain, Maxime Chevalier-Boisvert, Frederic Osterrath and Remi Piche-Taillefer. DeepDrummer : Generating Drum Loops using Deep Learning and a Human in the Loop [pdf](papers/CSMC__MuMe_2020_paper_18.pdf)
 
-Yijun Zhou, Yuki Koyama, Masataka Goto and Takeo Igarashi. Generative Melody Composition with Human-in-the-Loop Bayesian Optimization [pdf](papers/CSMC__MuMe_2020_paper_21.pdf)
+> Yijun Zhou, Yuki Koyama, Masataka Goto and Takeo Igarashi. Generative Melody Composition with Human-in-the-Loop Bayesian Optimization [pdf](papers/CSMC__MuMe_2020_paper_21.pdf)
 
-WIP Joann Ching, Antonio Ramires and Yi-Hsuan Yang. Instrument Role Classification: Auto-tagging for Loop Based Music [pdf](papers/CSMC__MuMe_2020_paper_35.pdf)
+> WIP Joann Ching, Antonio Ramires and Yi-Hsuan Yang. Instrument Role Classification: Auto-tagging for Loop Based Music [pdf](papers/CSMC__MuMe_2020_paper_35.pdf)
 
 _WED OCT 21 10-12 CEST (Chair: Steven Jan)_
 
-DEMO Roger Dean. The multi-tuned piano: keyboard music without a tuning system generated manually or by Deep Improviser [pdf](papers/CSMC__MuMe_2020_paper_22.pdf)
+> DEMO Roger Dean. The multi-tuned piano: keyboard music without a tuning system generated manually or by Deep Improviser [pdf](papers/CSMC__MuMe_2020_paper_22.pdf)
 
-Stefano Kalonaris and Anna Aljanaki. Meet HER: A Language-based Approach to Generative Music Systems Evaluation [pdf](papers/CSMC__MuMe_2020_paper_4.pdf)
+> Stefano Kalonaris and Anna Aljanaki. Meet HER: A Language-based Approach to Generative Music Systems Evaluation [pdf](papers/CSMC__MuMe_2020_paper_4.pdf)
 
-Mio Kusachi, Aiko Uemura and Tetsuro Kitahara. A Piano Ballad Arrangement System [pdf](papers/CSMC__MuMe_2020_paper_41.pdf)
+> Mio Kusachi, Aiko Uemura and Tetsuro Kitahara. A Piano Ballad Arrangement System [pdf](papers/CSMC__MuMe_2020_paper_41.pdf)
 
-Mathias Rose Bjare and David Meredith. Sequence Generative Adversarial Networks for Music Generation with Maximum Entropy Reinforcement Learning [pdf](papers/CSMC__MuMe_2020_paper_20.pdf)
+> Mathias Rose Bjare and David Meredith. Sequence Generative Adversarial Networks for Music Generation with Maximum Entropy Reinforcement Learning [pdf](papers/CSMC__MuMe_2020_paper_20.pdf)
 
-Liam Dallas and Fabio Morreale. Effects of Added Vocals and Human Production to AI-composed Music on Listener’s Appreciation [pdf](papers/CSMC__MuMe_2020_paper_23.pdf)
+> Liam Dallas and Fabio Morreale. Effects of Added Vocals and Human Production to AI-composed Music on Listener’s Appreciation [pdf](papers/CSMC__MuMe_2020_paper_23.pdf)
 
-WIP Sutirtha Chakraborty, Shyam Kishor, Shubham Nikesh Patil and Joseph Timoney. LeaderSTeM-A LSTM model for dynamic leader identification within musical streams [pdf](papers/CSMC__MuMe_2020_paper_52.pdf)
+> WIP Sutirtha Chakraborty, Shyam Kishor, Shubham Nikesh Patil and Joseph Timoney. LeaderSTeM-A LSTM model for dynamic leader identification within musical streams [pdf](papers/CSMC__MuMe_2020_paper_52.pdf)
 
 _WED OCT 21 16-18 CEST (Chair: Jean-Pierre Briot)_
 
-Nick Collins, Vit Ruzicka and Mick Grierson. Remixing AIs: mind swaps, hybrainity, and splicing musical models [pdf](papers/CSMC__MuMe_2020_paper_2.pdf)
+> Nick Collins, Vit Ruzicka and Mick Grierson. Remixing AIs: mind swaps, hybrainity, and splicing musical models [pdf](papers/CSMC__MuMe_2020_paper_2.pdf)
 
-Lonce Wyse and Muhammad Huzaifah. Deep learning models for generating audio textures [pdf](papers/CSMC__MuMe_2020_paper_36.pdf)
+> Lonce Wyse and Muhammad Huzaifah. Deep learning models for generating audio textures [pdf](papers/CSMC__MuMe_2020_paper_36.pdf)
 
-Nicolas Jonason, Bob L. T. Sturm and Carl Thomé. The control-synthesis approach for making expressive and controllable neural music synthesizers [pdf](papers/CSMC__MuMe_2020_paper_29.pdf)
+> Nicolas Jonason, Bob L. T. Sturm and Carl Thomé. The control-synthesis approach for making expressive and controllable neural music synthesizers [pdf](papers/CSMC__MuMe_2020_paper_29.pdf)
 
-Mathieu Prang and Philippe Esling. Signal-domain representation of symbolic music for learning embedding spaces [pdf](papers/CSMC__MuMe_2020_paper_44.pdf)
+> Mathieu Prang and Philippe Esling. Signal-domain representation of symbolic music for learning embedding spaces [pdf](papers/CSMC__MuMe_2020_paper_44.pdf)
 
-WIP Foteini Simistira Liwicki, Marcus Liwicki, Pedro Malo Perise, Federico Ghelli Visi and Stefan Ostersjo. Analysing Musical Performance in Videos Using Deep Neural Networks [pdf](papers/CSMC__MuMe_2020_paper_24.pdf)
+> WIP Foteini Simistira Liwicki, Marcus Liwicki, Pedro Malo Perise, Federico Ghelli Visi and Stefan Ostersjo. Analysing Musical Performance in Videos Using Deep Neural Networks [pdf](papers/CSMC__MuMe_2020_paper_24.pdf)
 
 _THU OCT 22 10-12 CEST (Chair: Ollie Bown)_
 
-Amir Salimi and Abram Hindle. Make Your Own Audience: Virtual Listeners Can Filter Generated Drum Programs [pdf](papers/CSMC__MuMe_2020_paper_50.pdf)
+> Amir Salimi and Abram Hindle. Make Your Own Audience: Virtual Listeners Can Filter Generated Drum Programs [pdf](papers/CSMC__MuMe_2020_paper_50.pdf)
 
-Grigore Burloiu. Interactive Learning of Microtiming in an Expressive Drum Machine [pdf](papers/CSMC__MuMe_2020_paper_30.pdf)
+> Grigore Burloiu. Interactive Learning of Microtiming in an Expressive Drum Machine [pdf](papers/CSMC__MuMe_2020_paper_30.pdf)
 
-Germán Ruiz-Marcos, Alistair Willis and Robin Laney. Automatically calculating tonal tension [pdf](papers/CSMC__MuMe_2020_paper_27.pdf)
+> Germán Ruiz-Marcos, Alistair Willis and Robin Laney. Automatically calculating tonal tension [pdf](papers/CSMC__MuMe_2020_paper_27.pdf)
 
-Hadrien Foroughmand and Geoffroy Peeters. Extending Deep Rhythm for Tempo and Genre Estimation Using Complex Convolutions, Multitask Learning and Multi-input Network [pdf](papers/CSMC__MuMe_2020_paper_39.pdf)
+> Hadrien Foroughmand and Geoffroy Peeters. Extending Deep Rhythm for Tempo and Genre Estimation Using Complex Convolutions, Multitask Learning and Multi-input Network [pdf](papers/CSMC__MuMe_2020_paper_39.pdf)
 
-DEMO James Bradbury. Computer-assisted corpus exploration with UMAP and agglomerative clustering [pdf](papers/CSMC__MuMe_2020_paper_6.pdf)
+> DEMO James Bradbury. Computer-assisted corpus exploration with UMAP and agglomerative clustering [pdf](papers/CSMC__MuMe_2020_paper_6.pdf)
 
 _THU OCT 22 16-18 CEST (Chair: Robin Laney)_
 
-Shlomo Dubnov. Deep Music Information Dynamics [pdf](papers/CSMC__MuMe_2020_paper_15.pdf)
+> Shlomo Dubnov. Deep Music Information Dynamics [pdf](papers/CSMC__MuMe_2020_paper_15.pdf)
 
-Shuqi Dai, Huan Zhang and Roger Dannenberg. Automatic Detection of Hierarchical Structure and Influence of Structure on Melody, Harmony and Rhythm in Popular Music [pdf](papers/CSMC__MuMe_2020_paper_32.pdf)
+> Shuqi Dai, Huan Zhang and Roger Dannenberg. Automatic Detection of Hierarchical Structure and Influence of Structure on Melody, Harmony and Rhythm in Popular Music [pdf](papers/CSMC__MuMe_2020_paper_32.pdf)
 
-Brendan O'Connor, Simon Dixon and George Fazekas. An Exploratory Study on Perceptual Spaces of the Singing Voice [pdf](papers/CSMC__MuMe_2020_paper_38.pdf)
+> Brendan O'Connor, Simon Dixon and George Fazekas. An Exploratory Study on Perceptual Spaces of the Singing Voice [pdf](papers/CSMC__MuMe_2020_paper_38.pdf)
 
-Théis Bazin, Gaëtan Hadjeres, Philippe Esling and Mikhail Malt. Spectrogram Inpainting for Interactive Generation of Instrument Sounds [pdf](papers/CSMC__MuMe_2020_paper_49.pdf)
+> Théis Bazin, Gaëtan Hadjeres, Philippe Esling and Mikhail Malt. Spectrogram Inpainting for Interactive Generation of Instrument Sounds [pdf](papers/CSMC__MuMe_2020_paper_49.pdf)
 
-WIP Manos Plitsis, Kosmas Kritsis, Maximos Kaliakatsos-Papakostas, Aggelos Pikrakis and Vassilis Katsouros. Towards a Classification and Evaluation of Symbolic Music Encodings for RNN Music Generation [pdf](papers/CSMC__MuMe_2020_paper_53.pdf)
+> WIP Manos Plitsis, Kosmas Kritsis, Maximos Kaliakatsos-Papakostas, Aggelos Pikrakis and Vassilis Katsouros. Towards a Classification and Evaluation of Symbolic Music Encodings for RNN Music Generation [pdf](papers/CSMC__MuMe_2020_paper_53.pdf)
 
 _FRI OCT 23 16-18 CEST (Chair: Philippe Pasquier)_
 
-Sandeep Dasari and Jason Freeman. Directed Evolution in Live Coding Music Performance [pdf](papers/CSMC__MuMe_2020_paper_14.pdf)
+> Sandeep Dasari and Jason Freeman. Directed Evolution in Live Coding Music Performance [pdf](papers/CSMC__MuMe_2020_paper_14.pdf)
 
-Fred Bruford, Skot McDonald and Mark Sandler. jaki: User-Controllable Generation of Drum Patterns using LSTM Encoder-Decoder and Deep-Q Reinforcement Learning [pdf](papers/CSMC__MuMe_2020_paper_37.pdf)
+> Fred Bruford, Skot McDonald and Mark Sandler. jaki: User-Controllable Generation of Drum Patterns using LSTM Encoder-Decoder and Deep-Q Reinforcement Learning [pdf](papers/CSMC__MuMe_2020_paper_37.pdf)
 
-Hayato Sumino, Adrien Bitton, Lisa Kawai, Philippe Esling and Tatsuya Harada. Automatic Music Transcription and Instrument Transposition with Differentiable Rendering [pdf](papers/CSMC__MuMe_2020_paper_31.pdf)
+> Hayato Sumino, Adrien Bitton, Lisa Kawai, Philippe Esling and Tatsuya Harada. Automatic Music Transcription and Instrument Transposition with Differentiable Rendering [pdf](papers/CSMC__MuMe_2020_paper_31.pdf)
 
-WIP Darrell Conklin and Geert Maessen. Aspects of pattern discovery for Mozarabic chant realization [pdf](papers/CSMC__MuMe_2020_paper_42.pdf)
+> WIP Darrell Conklin and Geert Maessen. Aspects of pattern discovery for Mozarabic chant realization [pdf](papers/CSMC__MuMe_2020_paper_42.pdf)
 
-WIP Samuel Hunt. An Analysis of Repetition in Video Game Music [pdf](papers/CSMC__MuMe_2020_paper_10.pdf)
+> WIP Samuel Hunt. An Analysis of Repetition in Video Game Music [pdf](papers/CSMC__MuMe_2020_paper_10.pdf)
 
-WIP Gabriel Vigliensoni, Louis McCallum, Esteban Maestre and Rebecca Fiebrink. Generation and visualization of rhythmic latent spaces [pdf](papers/CSMC__MuMe_2020_paper_13.pdf)
+> WIP Gabriel Vigliensoni, Louis McCallum, Esteban Maestre and Rebecca Fiebrink. Generation and visualization of rhythmic latent spaces [pdf](papers/CSMC__MuMe_2020_paper_13.pdf)
