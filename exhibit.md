@@ -50,8 +50,7 @@ Important to note is that Alter was written as one of several commissions focuss
 <a href="https://www.youtube.com/watch?v=L1mQGaNmfUM" target="_blank"><img src="http://img.youtube.com/vi/L1mQGaNmfUM/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
 
-<a href="exhibit/Laidlow_score.pdf" target="_blank">Score</a>
-
+<a href="exhibit/Laidlow_score.pdf" target="_blank">Score</a><br />
 <a href="exhibit/Laidlow.pdf" target="_blank">More information</a>
 
 [Go to top](#selected-works)
@@ -69,7 +68,7 @@ alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
 AI Phantasy was composed at the GRIS multichannel studio, the University of Montreal in Quebec, Canada; the sound dome MEIT theater at the Center for Experimental Music and Intermedia, University of North Texas, and my home studio. One of the main sound-producing mechanisms in the piece is a vacuum cleaner.
 
 <a href="https://youtu.be/pLVEJqYpUFc" target="_blank"><img src="http://img.youtube.com/vi/pLVEJqYpUFc/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
 
 <a href="exhibit/Kokoras.pdf" target="_blank">More information</a>
 
@@ -78,6 +77,12 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ---
 
 #### Guilherme Coelho: "Music Transformer and DDSP Étude of Composition and Digital Performances"
+
+This work1 explores the use of the Music Transformer and DDSP models to introduce compositions, sound objects and performances in the practice of human–computer music. This follows work on machine musicianship from researchers like David Cope and George E. Lewis and explores AI as an instigator of compositional and performance explorations. This practice- based research takes compositional repertoires from the Music Transformer model as a formalised and structural instigator to which the author gives it form. These pieces are transformed, recombined and curated by their author’s fundamentally aesthetic and contextualising manners. These pieces are then used as input structures and translated into tenor saxophone, trumpet, violin and flute performances performed by the DDSP model and explored further to form new pieces. My role in this practice exists in the role of curator and producer, providing behaviours, arrangements and context to these pieces, turning these scores and audio outputs into sonic explorations and performances through computational means.
+
+https://soundcloud.com/guilhermeguilhermecoelho/sets/music-transformer-and-ddsp-etudes-of-composition-and-digital-performances/s-7PBVdWKuR1q
+
+<a href="exhibit/Coelho.pdf" target="_blank">More information</a>
 
 [Go to top](#selected-works)
 
@@ -88,7 +93,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 This piece was commissioned as part of the Fluid Corpus Manipulation (FluCoMa) project, from the University of Huddersfield. The project studies how creative coders and technologists work with and incorporate new digital tools for signal decomposition and machine learning in novel ways. In this piece, I explore these tools through an embodied approach to segmentation, slicing, and layering of sound in real time. Using the FluCoMa toolkit, I was able to incorporate novel machine learning techniques in MaxMSP which deal with exploring large corpora of sound files. Specifically, this work involves, among other relevant AI techniques, machine learning in order to train based on preference; sort and select based on descriptors; and concatenate percussion sounds from a large collection of samples.
 
 <a href="https://youtu.be/JpDmoslsyZE" target="_blank"><img src="http://img.youtube.com/vi/JpDmoslsyZE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
 
 [Lauren Hayes](https://www.pariesa.com/) is a Scottish musician and sound artist who builds hybrid analogue/digital instruments and unpredictable performance systems. As an improviser, her music has been described as 'voracious' and ‘exhilarating’. Her research explores embodied music cognition, enactive approaches to digital instrument design, and haptic technologies. She is currently Assistant Professor of Sound Studies within the School of Arts, Media and Engineering at Arizona State University where she leads PARIESA (Practice and Research in Enactive Sonic Art). She is Director-At-Large of the International Computer Music Association and is a member of the New BBC Radiophonic Workshop.
 
@@ -101,7 +106,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 The Journey is a piece resulting from Alvaro E. Lopez’s real-time performance on AMG (Algorithmic Music Generator), a Max patch that generates music adaptively. It illustrates several techniques described in the article [Lopez, "Algorithmic Interactive Music Generation in Videogames", SoundEffecs 9(1), 2020](https://www.soundeffects.dk/article/view/118245).
 
 <a href="https://youtu.be/S4Jf-79t2CE" target="_blank"><img src="http://img.youtube.com/vi/S4Jf-79t2CE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
 
 <a href="exhibit/Lopez.pdf" target="_blank">More information</a>
 
@@ -114,7 +119,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 pvm is an improvisation based on interactions with the Vietnamese master musician Pham Van Mon. These interactions were carried out in Vietnam on numerous trips to the southern parts of the country, on line in virtual presence interaction, and in a manner that involved sending material back and forth. The material has been further developed in online performances in concerts in Sweden and in Hanoi. This piece is part of the Transformations project, an artistic research project that investigates the impact of musical traditions in transformation, and which involves the Vietnamese-Swedish group The Six Tones and several other collaborators, including Pham Van Mon.
 
 <a href="https://youtu.be/lnulLWdUlnw" target="_blank"><img src="http://img.youtube.com/vi/lnulLWdUlnw/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
 
 <a href="exhibit/Frisk.pdf" target="_blank">More information</a>
 
