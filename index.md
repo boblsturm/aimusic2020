@@ -10,7 +10,7 @@ Registration is 25 Euros. Register [here](https://axacoair.se/go?iMCJIIkk).
 
 The call for papers is [here](Calls.html).
 
-*Keynote 1* | *Keynote 2*
+*Keynote* | *Keynote*
 :-------------------------:|:-------------------------:
 ![](./Speakers/Sundberg.jpg) | ![](./Speakers/Eldridge.jpg)<br /> (Photo credit: Agata Urbaniak)
 [Professor Emeritus Dr. Johan Sundberg <br />Speech, Music and Hearing, KTH](https://scholar.google.co.uk/citations?user=UXXUEcoAAAAJ&hl=en&oi=ao) | [Dr. Alice Eldridge <br /> Music, Sussex University, UK](https://profiles.sussex.ac.uk/p127749-alice-eldridge) 
