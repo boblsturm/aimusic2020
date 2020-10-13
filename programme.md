@@ -6,12 +6,19 @@
 
 # Keynotes
 
-[Dr. Alice Eldridge](https://profiles.sussex.ac.uk/p127749-alice-eldridge)
+[Dr. Alice Eldridge](https://profiles.sussex.ac.uk/p127749-alice-eldridge),
+**Computer music stimulation of human creativity: techno-musicking as lab for inner and outer worlding**
+
+Various convicing evoluationary theories across science and humanities posit a central role for musicking in the evolution of social, biological and technical patterns of modern humanity. In our contemporary milieu  - one of existential, ecological etc. crises - musical experimentation plays a similarly critical role in providing and free and fertile space for making sense of the world, ourselves and our emerging technologies. In this talk I'll share a range of projects from singing cybernetic homeostats and ecosystemic evolutionary art, through feedback cellos to acoustic biodiversity assessment to illustrate some of the ways that techno-musicking plays a creative role in ways of knowing and making our selves and our worlds.
+
+[Dr. Alice Eldridge](https://profiles.sussex.ac.uk/p127749-alice-eldridge) is interested in how sound organises systems. Her research cross-fertilises ideas and methods from music, cognitive science, technology & ecology to develop biologically-inspired approaches to new musical instruments, and acoustic methods for conservation, within the emerging science of ecoacoustics. She holds a BSc in Psychology, an MSc in Evolutionary and Adaptive Systems and a PhD in Computer Science and AI and is currently Lecturer in Music Technology at the University of Sussex, where she is Co-Director of the Sussex Humanities Lab. Alice has appeared on BBC TV and BBC 4 as a soundscape ecologist; on BBC 3 as a free jazz cellist; on BBC 6 show as a contemporary chamber composer; and on BBC 1 John Peel show as a pop bassist. [www.ecila.org](http://www.ecila.org)
 
 [Professor Emeritus Dr. Johan Sundberg](https://scholar.google.co.uk/citations?user=UXXUEcoAAAAJ&hl=en&oi=ao), 
 **Analysis by synthesis: A wonderful tool in difficult areas**
 
 Analysis by synthesis is a classical tool in many areas of research. I will talk about how I enjoyed using it in three research areas. In one, Björn Lindblom and I applied it in a study of the compositional style in nursery tunes composed by the Swedish composer Alice Tegner in the beginning of the 20th century.  A second application was music performance, where musician Larf Frydén, Anders Friberg and I developed a digital performance grammar that controlled a synthesizer; thus, the synthesizer performed music examples in accordance with a set of performance rules. A third area has been the singing voice, the purpose being to explore how various acoustic properties affect the sound of a singer’s voice.
+
+Johan Sundberg (born in 1936, Ph.D. in musicology Uppsala University 1966, doctor honoris causae 1996 University of York, UK) has a personal Chair (Emeritus) in Music Acoustics at the department of Speech Music and Hearing (KTH), Royal Institute of Technology, Stockholm. He early became interested in the acoustical aspects of music, starting with a doctoral dissertation work on organ pipes. After the dissertation, singing voice and music performance have been his main research topics. He led the music acoustics research group from 1970 to 2004. In Musikens Ljudlära (The science of Musical Sounds) Sundberg presents music acoustics in popularized form to the interested layman. In Röstlära (The Science of the Singing Voice) Sundberg explains functional anatomy as well as vocal acoustics. Both texts have been seminal works in the field of voice science.
 
 ---
 
