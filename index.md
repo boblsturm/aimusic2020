@@ -8,6 +8,8 @@ The 2020 Joint Conference on AI Music Creativity will be **virtual**. It will co
 
 Registration is 25 Euros. Register [here](https://axacoair.se/go?iMCJIIkk).
 
+The call for papers is [here](Calls.html).
+
 *Keynote 1* | *Keynote 2*
 :-------------------------:|:-------------------------:
 ![](./Speakers/Sundberg.jpg) | ![](./Speakers/Eldridge.jpg)<br /> (Photo credit: Agata Urbaniak)
