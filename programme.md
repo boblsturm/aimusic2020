@@ -6,6 +6,8 @@
 
 # Keynotes
 
+![](./Speakers/Eldridge.jpg)<br /> (Photo credit: Agata Urbaniak)
+
 [Dr. Alice Eldridge](https://profiles.sussex.ac.uk/p127749-alice-eldridge),
 **Computer music stimulation of human creativity: techno-musicking as lab for inner and outer worlding**
 
@@ -15,6 +17,8 @@ Various convicing evoluationary theories across science and humanities posit a c
 
 [Professor Emeritus Dr. Johan Sundberg](https://scholar.google.co.uk/citations?user=UXXUEcoAAAAJ&hl=en&oi=ao), 
 **Analysis by synthesis: A wonderful tool in difficult areas**
+
+![](./Speakers/Sundberg.jpg)
 
 Analysis by synthesis is a classical tool in many areas of research. I will talk about how I enjoyed using it in three research areas. In one, Björn Lindblom and I applied it in a study of the compositional style in nursery tunes composed by the Swedish composer Alice Tegner in the beginning of the 20th century.  A second application was music performance, where musician Larf Frydén, Anders Friberg and I developed a digital performance grammar that controlled a synthesizer; thus, the synthesizer performed music examples in accordance with a set of performance rules. A third area has been the singing voice, the purpose being to explore how various acoustic properties affect the sound of a singer’s voice.
 
