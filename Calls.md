@@ -1,4 +1,5 @@
-# Call for papers, tutorials, panels and musical works
+*All calls are now closed.* 
+
 We encourage submissions of papers, tutorials, panels and musical works on topics related to CSMC and MuMe, including, but not limited to, the following:
 
 _Systems_
@@ -31,7 +32,7 @@ _Theory_
 * authorship and legal implications of CSMC and/or MuMe
 * future directions of CSMC and/or MuMe
 
-*All calls are now closed.* Please see the following pages for more information:
+Please see the following pages for more information:
 * [Call for papers](callforpapers.md)
 * [Call for tutorials](callfortutorials.md)
 * [Call for panels](callforpanels.md)
