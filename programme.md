@@ -15,10 +15,10 @@ Various convicing evoluationary theories across science and humanities posit a c
 
 [Dr. Alice Eldridge](https://profiles.sussex.ac.uk/p127749-alice-eldridge) is interested in how sound organises systems. Her research cross-fertilises ideas and methods from music, cognitive science, technology & ecology to develop biologically-inspired approaches to new musical instruments, and acoustic methods for conservation, within the emerging science of ecoacoustics. She holds a BSc in Psychology, an MSc in Evolutionary and Adaptive Systems and a PhD in Computer Science and AI and is currently Lecturer in Music Technology at the University of Sussex, where she is Co-Director of the Sussex Humanities Lab. Alice has appeared on BBC TV and BBC 4 as a soundscape ecologist; on BBC 3 as a free jazz cellist; on BBC 6 show as a contemporary chamber composer; and on BBC 1 John Peel show as a pop bassist. [www.ecila.org](http://www.ecila.org)
 
+![](./Speakers/Sundberg.jpg)
+
 [Professor Emeritus Dr. Johan Sundberg](https://scholar.google.co.uk/citations?user=UXXUEcoAAAAJ&hl=en&oi=ao), 
 **Analysis by synthesis: A wonderful tool in difficult areas**
-
-![](./Speakers/Sundberg.jpg)
 
 Analysis by synthesis is a classical tool in many areas of research. I will talk about how I enjoyed using it in three research areas. In one, Björn Lindblom and I applied it in a study of the compositional style in nursery tunes composed by the Swedish composer Alice Tegner in the beginning of the 20th century.  A second application was music performance, where musician Larf Frydén, Anders Friberg and I developed a digital performance grammar that controlled a synthesizer; thus, the synthesizer performed music examples in accordance with a set of performance rules. A third area has been the singing voice, the purpose being to explore how various acoustic properties affect the sound of a singer’s voice.
 
