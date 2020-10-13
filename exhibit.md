@@ -3,7 +3,7 @@
 1. [Champernown: "Music from EDSAC" (circa 1960)](#d-g-champernown-music-from-edsac-circa-1960)
 1. [Ben-Tal: "Notes for a future self"](#oded-ben-tal-notes-for-a-future-self)
 1. [Laidlow: "Alter" for mezzo-sporano and ensemble](#robert-laidlow-alter-for-mezzo-sporano-and-ensemble)
-1. [Collaborative Electroacoustic Composition with Intelligent Agents](#collaborative-electroacoustic-composition-with-intelligent-agents-cecia)
+1. [Collaborative Electroacoustic Composition with Intelligent Agents (CECIA)](#collaborative-electroacoustic-composition-with-intelligent-agents-cecia)
 1. [Kokoras: "AI Phantasy"](#panayiotis-kokoras-ai-phantasy)
 1. [Coelho: "Music Transformer and DDSP Étude of Composition and Digital Performances"](#guilherme-coelho-music-transformer-and-ddsp-etude-of-composition-and-digital-performances)
 1. [Hayes: "Moon via spirit" for live electronics](#lauren-hayes-moon-via-spirit-for-live-electronics)
@@ -77,6 +77,8 @@ The CECIA team is composed of internationally active composers, sound artists an
 
 **Project coordinator**
 - [Kosmas Giannoutakis](www.kosmasgiannoutakis.eu)
+
+<a href="exhibit/CECIA.pdf" target="_blank">More information</a>
 
 [Go to top](#selected-works)
 
