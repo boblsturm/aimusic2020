@@ -52,7 +52,7 @@ Johan Sundberg (born in 1936, Ph.D. in musicology Uppsala University 1966, docto
 2. **How Do we Rage with the Machine? Exploring the AI Song Space**: Alexandra L. Uitdenbogerd (chair), Hendrik Vincent Koops, Anna Huang, Portrait XO, Ashley Burgoyne, and Tom Collins
 4. **AI Music Generation Challenge 2020**: Bob L. T. Sturm (chair), Judge A, Judge B, Judge C, Judge D, James Owers (participant)
 1. **The Future AI Musician**: Oded Ben-Tal (chair), Mark d'Inverno, Mary Simoni, Elaine Chew, and Prateek Verma
-3. **The Future of MuMe + CSMC**: Bob L. T. Sturm (chair), Philippe Pasquier, Oliver Bown, Robin Laney, Róisín Loughran, Steven Jan
+3. **The Future of MuMe + CSMC**: Bob L. T. Sturm (chair), Philippe Pasquier, Oliver Bown, Robin Laney, Róisín Loughran, Steven Jan, Artemi-Maria Gioti
 
 ---
 # Papers 
