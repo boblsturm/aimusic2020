@@ -99,7 +99,7 @@ alt="Panayiotis Kokoras AI Phantasy" width="480" border="10" /></a>
 
 This work1 explores the use of the Music Transformer and DDSP models to introduce compositions, sound objects and performances in the practice of human–computer music. This follows work on machine musicianship from researchers like David Cope and George E. Lewis and explores AI as an instigator of compositional and performance explorations. This practice- based research takes compositional repertoires from the Music Transformer model as a formalised and structural instigator to which the author gives it form. These pieces are transformed, recombined and curated by their author’s fundamentally aesthetic and contextualising manners. These pieces are then used as input structures and translated into tenor saxophone, trumpet, violin and flute performances performed by the DDSP model and explored further to form new pieces. My role in this practice exists in the role of curator and producer, providing behaviours, arrangements and context to these pieces, turning these scores and audio outputs into sonic explorations and performances through computational means.
 
-[Soundcloud link](https://soundcloud.com/guilhermeguilhermecoelho/sets/music-transformer-and-ddsp-etudes-of-composition-and-digital-performances/s-7PBVdWKuR1q)
+[Soundcloud link](https://soundcloud.com/guilhermeguilhermecoelho/sets/music-transformer-and-ddsp-etudes)
 
 <a href="exhibit/Coelho.pdf" target="_blank">More information</a>
 
