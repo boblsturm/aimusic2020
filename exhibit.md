@@ -5,7 +5,7 @@
 1. [Laidlow: "Alter" for mezzo-sporano and ensemble](#robert-laidlow-alter-for-mezzo-sporano-and-ensemble)
 1. [Collaborative Electroacoustic Composition with Intelligent Agents (CECIA)](#collaborative-electroacoustic-composition-with-intelligent-agents-cecia)
 1. [Kokoras: "AI Phantasy"](#panayiotis-kokoras-ai-phantasy)
-1. [Coelho: "Music Transformer and DDSP Étude of Composition and Digital Performances"](#guilherme-coelho-music-transformer-and-ddsp-etude-of-composition-and-digital-performances)
+1. [Coelho: "Music Transformer and DDSP Etude"](#guilherme-coelho-music-transformer-and-ddsp-etude-of-composition-and-digital-performances)
 1. [Hayes: "Moon via spirit" for live electronics](#lauren-hayes-moon-via-spirit-for-live-electronics)
 1. [Lopez: "The Journey"](#alvaro-lopez-the-journey)
 1. [Frisk: "pvm"](#henrik-frisk-pvm)
@@ -95,7 +95,7 @@ alt="Panayiotis Kokoras AI Phantasy" width="480" border="10" /></a>
 
 ---
 
-#### Guilherme Coelho: "Music Transformer and DDSP Étude of Composition and Digital Performances"
+#### Guilherme Coelho: "Music Transformer and DDSP Etude of Composition and Digital Performances"
 
 This work1 explores the use of the Music Transformer and DDSP models to introduce compositions, sound objects and performances in the practice of human–computer music. This follows work on machine musicianship from researchers like David Cope and George E. Lewis and explores AI as an instigator of compositional and performance explorations. This practice- based research takes compositional repertoires from the Music Transformer model as a formalised and structural instigator to which the author gives it form. These pieces are transformed, recombined and curated by their author’s fundamentally aesthetic and contextualising manners. These pieces are then used as input structures and translated into tenor saxophone, trumpet, violin and flute performances performed by the DDSP model and explored further to form new pieces. My role in this practice exists in the role of curator and producer, providing behaviours, arrangements and context to these pieces, turning these scores and audio outputs into sonic explorations and performances through computational means.
 
