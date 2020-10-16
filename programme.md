@@ -35,7 +35,8 @@ Johan Sundberg (born in 1936, Ph.D. in musicology Uppsala University 1966, docto
 2. [Anna Huang, Google](https://research.google/people/105787)
 2. [Henry Adam Svec, University of Waterloo](http://www.henryadamsvec.ca) *“Gonna Burn All My Bridges”: LIVINGSTON’s Artificially Intelligent Folk Songs of Canada and an Alternative Way Forward in A.I. Research*
 > Decades of discovery in the field of artificial intelligence have prioritized intelligence as the lodestar of research and development. What if folkloristic authenticity was substituted as the guiding goal of our collective labours? In this playful performance, involving both storytelling and song, Henry Adam Svec will explore this and other questions through the recounting of a most unlikely scenario—the time when, in Dawson City, Yukon, he co-invented the world’s first artificially intelligent database of Canadian folksong.
-2. [Professor Sven Ahlbäck, KMH + DoReMIR](https://scorecloud.com)
+2. [Professor Sven Ahlbäck, KMH + DoReMIR](https://scorecloud.com) *What does AI learn from music?: On the problem of ground truth in music and the power of concepts*
+> Many AI applications on music relates to music theoretical models, in the sense of musical concepts and ideas of how music works, that are not always made explicit, explicitly discussed or questioned. Already the choice of representations of music and sound as well as the selection of data for training models can influence models and creative output greatly. Here we will give some examples of problems arising when modelling basic musical features, from the experience of developing  automatic music notation.
 2. [CJ Carr (dadabots)](https://dadabots.com)
 1. [Holly Herndon](https://www.hollyherndon.com)
 2. [Professor Mary Simoni, Rensselaer Polytechnic Institute](https://faculty.rpi.edu/node/35920)
