@@ -64,17 +64,17 @@ CECIA is an innovative music project that integrates the creative agency of 5 co
 The CECIA team is composed of internationally active composers, sound artists and researchers who remotely worked on the project in 2019. The project was organized by ZKM within the framework of the »Interfaces« project with the support of the Creative Europe program of the European Union.
 
 **Composers**
-- [Panayiotis Kokoras](www.panayiotiskokoras.com)
-- [Mariam Gviniashvili](www.mariamgviniashvili.com)
-- [Juan Carlos Vasquez](www.jcvasquez.com)
-- [Martyna Kosecka](www.martynakosecka.com)
-- [Erik Nyström](www.eriknystrom.com)
+- [Panayiotis Kokoras](http://www.panayiotiskokoras.com)
+- [Mariam Gviniashvili](http://www.mariamgviniashvili.com)
+- [Juan Carlos Vasquez](http://www.jcvasquez.com)
+- [Martyna Kosecka](http://www.martynakosecka.com)
+- [Erik Nyström](http://www.eriknystrom.com)
 
 **Machine learning algorithms**
-- [Artemi – Maria Gioti](www.artemigioti.com)
+- [Artemi – Maria Gioti](http://www.artemigioti.com)
 
 **Project coordinator**
-- [Kosmas Giannoutakis](www.kosmasgiannoutakis.eu)
+- [Kosmas Giannoutakis](http://www.kosmasgiannoutakis.eu)
 
 <a href="exhibit/CECIA.pdf" target="_blank">More information</a>
 
