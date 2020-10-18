@@ -152,7 +152,7 @@ _FRI OCT 23 16-18 CEST (Chair: Philippe Pasquier)_
 
 > Sandeep Dasari and Jason Freeman. Directed Evolution in Live Coding Music Performance [pdf](papers/CSMC__MuMe_2020_paper_14.pdf)
 
-> Fred Bruford, Skot McDonald and Mark Sandler. jaki: User-Controllable Generation of Drum Patterns using LSTM Encoder-Decoder and Deep-Q Reinforcement Learning [pdf](papers/CSMC__MuMe_2020_paper_37.pdf)
+> Fred Bruford, Skot McDonald and Mark Sandler. jaki: User-Controllable Generation of Drum Patterns using LSTM Encoder-Decoder and Deep Reinforcement Learning [pdf](papers/CSMC__MuMe_2020_paper_37.pdf)
 
 > Hayato Sumino, Adrien Bitton, Lisa Kawai, Philippe Esling and Tatsuya Harada. Automatic Music Transcription and Instrument Transposition with Differentiable Rendering [pdf](papers/CSMC__MuMe_2020_paper_31.pdf)
 
