@@ -122,7 +122,7 @@ _WED OCT 21 16-18 CEST (Chair: Jean-Pierre Briot)_
 
 > Mathieu Prang and Philippe Esling. Signal-domain representation of symbolic music for learning embedding spaces [pdf](papers/CSMC__MuMe_2020_paper_44.pdf)
 
-> WIP Foteini Simistira Liwicki, Marcus Liwicki, Pedro Malo Perise, Federico Ghelli Visi and Stefan Ostersjo. Analysing Musical Performance in Videos Using Deep Neural Networks [pdf](papers/CSMC__MuMe_2020_paper_24.pdf)
+> WIP Foteini Simistira Liwicki, Marcus Liwicki, Pedro Malo Perise, Federico Ghelli Visi and Stefan Ostersjo. Analysing Musical Performance in Videos Using Deep Neural Networks [pdf](papers/CSMC__MuMe_2020_paper_24.pdf) [video](https://youtu.be/FreMzfCSAfs)
 
 _THU OCT 22 10-12 CEST (Chair: Ollie Bown)_
 
