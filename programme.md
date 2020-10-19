@@ -60,6 +60,7 @@ Johan Sundberg (born in 1936, Ph.D. in musicology Uppsala University 1966, docto
 > [video](https://youtu.be/zzw4sWpU-uo)
 
 > [AI Song Contest: Human-AI Co-Creation in Songwriting](https://magenta.tensorflow.org/aisongcontest)
+
 4. **AI Music Generation Challenge 2020**: Bob L. T. Sturm (chair), Judge A, Judge B, Judge C, Judge D, James Owers (participant)
 1. **The Future AI Musician**: Oded Ben-Tal (chair), Mark d'Inverno, Mary Simoni, Elaine Chew, and Prateek Verma
 3. **The Future of MuMe + CSMC**: Bob L. T. Sturm (chair), Philippe Pasquier, Oliver Bown, Robin Laney, Róisín Loughran, Steven Jan, Artemi-Maria Gioti
