@@ -76,7 +76,7 @@ _MON OCT 19 16-18 CEST (Chair: Róisín Loughran)_
 
 > Jean-Francois Charles, Gil Dori and Joseph Norman. Sonic Print: Timbre Classification with Live Training for Musical Applications [pdf](papers/CSMC__MuMe_2020_paper_8.pdf) [video](https://youtu.be/c6yPfa16Vr0?t=2548)
 
-> Jeffrey Ens and Philippe Pasquier. Improved Listening Experiment Design for Generative Systems [pdf](papers/CSMC__MuMe_2020_paper_17.pdf) [video](https://youtu.be/c6yPfa16Vr0?t=60) [video](https://youtu.be/c6yPfa16Vr0?t=3770)
+> Jeffrey Ens and Philippe Pasquier. Improved Listening Experiment Design for Generative Systems [pdf](papers/CSMC__MuMe_2020_paper_17.pdf) [video](https://youtu.be/c6yPfa16Vr0?t=3770)
 
 > DEMO Joaquin Jimenez. Creating a Machine Learning Assistant for the Real-Time Performance of Dub Music [pdf](papers/CSMC__MuMe_2020_paper_34.pdf) [video](https://youtu.be/SlCxIkMC34Y)
 
