@@ -70,15 +70,15 @@ Johan Sundberg (born in 1936, Ph.D. in musicology Uppsala University 1966, docto
 
 _MON OCT 19 16-18 CEST (Chair: Róisín Loughran)_
 
-> Tribute to [Professor Robert Keller](https://www.cs.hmc.edu/~keller/)
+> Tribute to [Professor Robert Keller](https://www.cs.hmc.edu/~keller/) [video](https://youtu.be/c6yPfa16Vr0?t=60)
 
-> Matthew Caren. TRoco: A generative algorithm using jazz music theory [pdf](papers/CSMC__MuMe_2020_paper_7.pdf)
+> Matthew Caren. TRoco: A generative algorithm using jazz music theory [pdf](papers/CSMC__MuMe_2020_paper_7.pdf) [video](https://youtu.be/c6yPfa16Vr0?t=1020)
 
-> Jean-Francois Charles, Gil Dori and Joseph Norman. Sonic Print: Timbre Classification with Live Training for Musical Applications [pdf](papers/CSMC__MuMe_2020_paper_8.pdf)
+> Jean-Francois Charles, Gil Dori and Joseph Norman. Sonic Print: Timbre Classification with Live Training for Musical Applications [pdf](papers/CSMC__MuMe_2020_paper_8.pdf) [video](https://youtu.be/c6yPfa16Vr0?t=2548)
 
-> Jeffrey Ens and Philippe Pasquier. Improved Listening Experiment Design for Generative Systems [pdf](papers/CSMC__MuMe_2020_paper_17.pdf)
+> Jeffrey Ens and Philippe Pasquier. Improved Listening Experiment Design for Generative Systems [pdf](papers/CSMC__MuMe_2020_paper_17.pdf) [video](https://youtu.be/c6yPfa16Vr0?t=60) [video](https://youtu.be/c6yPfa16Vr0?t=3770)
 
-> DEMO Joaquin Jimenez. Creating a Machine Learning Assistant for the Real-Time Performance of Dub Music [pdf](papers/CSMC__MuMe_2020_paper_34.pdf)
+> DEMO Joaquin Jimenez. Creating a Machine Learning Assistant for the Real-Time Performance of Dub Music [pdf](papers/CSMC__MuMe_2020_paper_34.pdf) [video](https://youtu.be/SlCxIkMC34Y)
 
 _TUE OCT 20 10-12 CEST (Chair: David Meredith)_
 
