@@ -1,6 +1,6 @@
 # Selected works
 
-1. [Champernown: "Music from EDSAC" (circa 1960)](#d-g-champernown-music-from-edsac-circa-1960)
+1. [Champernowne: "Music from EDSAC" (circa 1960)](#d-g-champernowne-music-from-edsac-circa-1960)
 1. [Ben-Tal: "Notes for a future self"](#oded-ben-tal-notes-for-a-future-self)
 1. [Laidlow: "Alter" for mezzo-sporano and ensemble](#robert-laidlow-alter-for-mezzo-sporano-and-ensemble)
 1. [Collaborative Electroacoustic Composition with Intelligent Agents (CECIA)](#collaborative-electroacoustic-composition-with-intelligent-agents-cecia)
@@ -12,15 +12,17 @@
 
 ---
 
-#### D. G. Champernown "Music from EDSAC" (circa 1960)
+#### D. G. Champernowne "Music from EDSAC" (circa 1960)
 
-This string quartet arose from two computer programmes written by [David G. Champernown](https://en.wikipedia.org/wiki/D._G._Champernowne), Professor of Economics at Cambridge University, around 1960. One programme harmonized melodies in the style of Victorian hymns. Another program generated serial-style music. A performance and recording of the string quartet was supposedly made by Lejaren A. Hiller in the 1960s, but this has been lost. 
+This string quartet arose from two computer programmes written by [David G. Champernowne](https://en.wikipedia.org/wiki/D._G._Champernowne), Professor of Economics at Cambridge University, around 1960. One programme harmonized melodies in the style of Victorian hymns. Another program generated serial-style music. A performance and recording of the string quartet was supposedly made by Lejaren A. Hiller in the 1960s, but this has been lost. 
 
 <a href="https://www.youtube.com/watch?v=gogIM2kKB1U&list=PLT_o2wa6T9d6ZMPnYW13XS6UoqymtxzN4
 " target="_blank"><img src="http://img.youtube.com/vi/gogIM2kKB1U/0.jpg" 
 alt="Champernown Music from EDSAC" width="480" border="10" /></a>
 
 <a href="https://highnoongmt.wordpress.com/2020/10/01/music-from-edsac-circa-1960/" target="_blank">More information</a>
+
+Sincere gratitude to the Champernowne family for permission to record and include this piece for this conference.
 
 [Go to top](#selected-works)
 
