@@ -1,4 +1,4 @@
-**The 2020 Joint Conference on AI Music Creativity will be entirely virtual, and live streamed [here](https://youtu.be/agXY8QjisDQ)** 
+**The 2020 Joint Conference on AI Music Creativity will be entirely virtual, and live streamed [here](https://youtu.be/zzw4sWpU-uo)** 
 
 This conference brings together for the first time two overlapping research forums: [The Computer Simulation of Music Creativity conference (est. 2016)](https://csmc2018.wordpress.com/), and [The International Workshop on Musical Metacreation (est. 2012)](http://musicalmetacreation.org/). The principal goal is to bring together scholars and artists interested in the virtual emulation of musical creativity and its use for music creation, and to provide an interdisciplinary platform to promote, present and discuss their work in scientific and artistic contexts.
 
