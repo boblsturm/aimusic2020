@@ -4,6 +4,8 @@
 
 <img src="Schedule.png">
 
+- [Oct 19 2020 Opening session](https://youtu.be/K_G_98cYEhU)
+
 ---
 
 # Keynotes
