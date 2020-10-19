@@ -1,4 +1,4 @@
-**The 2020 Joint Conference on AI Music Creativity will be entirely virtual, and live streamed [here](https://youtu.be/zzw4sWpU-uo)** 
+**The 2020 Joint Conference on AI Music Creativity will be entirely virtual, and live streamed [here](https://youtu.be/c6yPfa16Vr0)** 
 
 # Schedule
 
