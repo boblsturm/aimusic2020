@@ -98,15 +98,15 @@ _TUE OCT 20 10-12 CEST (Chair: David Meredith)_
 
 _TUE OCT 20 16-18 CEST (Chair: Shlomo Dubnov)_
 
-> Carmine-Emanuele Cella, Luke Dzwonczyk, Alejandro Saldarriaga-Fuertes, Hongfu Liu and Helene-Camille Crayencour. A Study on Neural Models for Target-Based Computer-Assisted Musical Orchestration [pdf](papers/CSMC__MuMe_2020_paper_43.pdf)
+> Carmine-Emanuele Cella, Luke Dzwonczyk, Alejandro Saldarriaga-Fuertes, Hongfu Liu and Helene-Camille Crayencour. A Study on Neural Models for Target-Based Computer-Assisted Musical Orchestration [pdf](papers/CSMC__MuMe_2020_paper_43.pdf) [video](https://youtu.be/alYClvQA4VU?t=63)
 
-> Sofy Yuditskaya, Sophia Sun and Derek Kwan. Karaoke of Dreams: A multi-modal neural-network generated music experience [pdf](papers/CSMC__MuMe_2020_paper_5.pdf)
+> Sofy Yuditskaya, Sophia Sun and Derek Kwan. Karaoke of Dreams: A multi-modal neural-network generated music experience [pdf](papers/CSMC__MuMe_2020_paper_5.pdf) [video](https://youtu.be/alYClvQA4VU?t=1555)
 
-> Guillaume Alain, Maxime Chevalier-Boisvert, Frederic Osterrath and Remi Piche-Taillefer. DeepDrummer : Generating Drum Loops using Deep Learning and a Human in the Loop [pdf](papers/CSMC__MuMe_2020_paper_18.pdf)
+> Guillaume Alain, Maxime Chevalier-Boisvert, Frederic Osterrath and Remi Piche-Taillefer. DeepDrummer : Generating Drum Loops using Deep Learning and a Human in the Loop [pdf](papers/CSMC__MuMe_2020_paper_18.pdf) [video](https://youtu.be/WdDCaXeHBqY)
 
-> Yijun Zhou, Yuki Koyama, Masataka Goto and Takeo Igarashi. Generative Melody Composition with Human-in-the-Loop Bayesian Optimization [pdf](papers/CSMC__MuMe_2020_paper_21.pdf)
+> Yijun Zhou, Yuki Koyama, Masataka Goto and Takeo Igarashi. Generative Melody Composition with Human-in-the-Loop Bayesian Optimization [pdf](papers/CSMC__MuMe_2020_paper_21.pdf) [video](https://youtu.be/HE6suUdlaYg)
 
-> WIP Joann Ching, Antonio Ramires and Yi-Hsuan Yang. Instrument Role Classification: Auto-tagging for Loop Based Music [pdf](papers/CSMC__MuMe_2020_paper_35.pdf)
+> WIP Joann Ching, Antonio Ramires and Yi-Hsuan Yang. Instrument Role Classification: Auto-tagging for Loop Based Music [pdf](papers/CSMC__MuMe_2020_paper_35.pdf) [video](https://youtu.be/alYClvQA4VU?t=5596)
 
 _WED OCT 21 10-12 CEST (Chair: Steven Jan)_
 
