@@ -57,7 +57,7 @@ Johan Sundberg (born in 1936, Ph.D. in musicology Uppsala University 1966, docto
 ---
 # Panels
 
-2. **How Do we Rage with the Machine? Exploring the AI Song Space**: Alexandra L. Uitdenbogerd (chair), Hendrik Vincent Koops, Anna Huang, Portrait XO, Ashley Burgoyne, and Tom Collins [video](https://youtu.be/zzw4sWpU-uo); 
+2. **How Do we Rage with the Machine? Exploring the AI Song Space**: Alexandra L. Uitdenbogerd (chair), Hendrik Vincent Koops, Anna Huang, Portrait XO, Ashley Burgoyne, and Tom Collins [video](https://youtu.be/zzw4sWpU-uo)
 > [More about the AI Song Contest by Anna Huang et al.](https://magenta.tensorflow.org/aisongcontest)
 
 4. **AI Music Generation Challenge 2020**: Bob L. T. Sturm (chair), Judge A, Judge B, Judge C, Judge D, James Owers (participant)
@@ -83,7 +83,7 @@ _MON OCT 19 16-18 CEST (Chair: Róisín Loughran)_
 
 _TUE OCT 20 10-12 CEST (Chair: David Meredith)_
 
-> Rui Guo, Ivor Simpson, Thor Magnusson and Dorien Herremans. Symbolic music generation with tension control [pdf](papers/CSMC__MuMe_2020_paper_47.pdf)
+> Rui Guo, Ivor Simpson, Thor Magnusson and Dorien Herremans. Symbolic music generation with tension control [pdf](papers/CSMC__MuMe_2020_paper_47.pdf) [video](https://youtu.be/-KnOxAkMG6c)
 
 > Zeng Ren. Style Composition With An Evolutionary Algorithm [pdf](papers/CSMC__MuMe_2020_paper_11.pdf) [video](https://youtu.be/-KnOxAkMG6c)
 
