@@ -13,7 +13,7 @@
 ![](./Speakers/Eldridge.jpg)<br /> (Photo credit: Agata Urbaniak)
 
 [Dr. Alice Eldridge](https://profiles.sussex.ac.uk/p127749-alice-eldridge),
-**Computer music stimulation of human creativity: techno-musicking as lab for inner and outer worlding**
+**Computer music stimulation of human creativity: techno-musicking as lab for inner and outer worlding** [video](https://youtu.be/w--WS0Jo1Oc)
 
 Various convincing evolutionary theories across science and humanities posit a central role for musicking in the evolution of social, biological and technical patterns of modern humanity. In our contemporary milieu - one of existential, ecological etc. crises - musical experimentation plays a similarly critical role in providing a free and fertile space for making sense of the world, ourselves and our emerging technologies. In this talk I’ll share a range of projects from singing cybernetic homeostats and ecosystemic evolutionary art, through feedback cellos to acoustic biodiversity assessment to illustrate some of the ways that techno-musicking plays a creative role in ways of knowing and making our selves and our worlds.
 
