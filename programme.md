@@ -46,7 +46,8 @@ Johan Sundberg (born in 1936, Ph.D. in musicology Uppsala University 1966, docto
 >Attention AI Music researcher! Are you trapped in the ivory tower doing 100% research and 0% music? Come down and join the fun. Get a glimpse into what it's like being a Bot Band circa 2020: neural synthesis, soundcloud bots, viral livestreams, music videos, art exhibits, hackathons, tours, and legal hurdles. You will leave feeling inspired to cold-email your favorite musicians about high-tech collaboration.
 2. [Professor Mary Simoni, Rensselaer Polytechnic Institute](https://faculty.rpi.edu/node/35920) *AI Mash-Up: musical analysis, generative music, and big data meets music composition*
 > This talk will highlight AI algorithms as applied to musical analysis, deep learning and generative music, and the application of COVID-19 data sets to musical composition.
-1. [Holly Herndon](https://www.hollyherndon.com)
+1. [Holly Herndon](https://www.hollyherndon.com) *Holly Herndon: PROTO artist talk*
+> Over the last few years Holly Herndon has developed music for her ensemble of human and inhuman vocalists. In this artist talk, she will discuss her unique approach to machine learning and explore it's limitations as well as opportunities it might reveal for a 21st century approach to music.
 
 ---
 # Tutorials
