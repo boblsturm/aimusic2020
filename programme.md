@@ -84,7 +84,7 @@ _MON OCT 19 16-18 CEST (Chair: Róisín Loughran)_
 
 _TUE OCT 20 10-12 CEST (Chair: David Meredith)_
 
-> Rui Guo, Ivor Simpson, Thor Magnusson and Dorien Herremans. Symbolic music generation with tension control [pdf](papers/CSMC__MuMe_2020_paper_47.pdf) [video](https://youtu.be/-KnOxAkMG6c) [video](https://youtu.be/SP2cDXG_6K0?t=132)
+> Rui Guo, Ivor Simpson, Thor Magnusson and Dorien Herremans. Symbolic music generation with tension control [pdf](papers/CSMC__MuMe_2020_paper_47.pdf) [video](https://youtu.be/SP2cDXG_6K0?t=132)
 
 > Zeng Ren. Style Composition With An Evolutionary Algorithm [pdf](papers/CSMC__MuMe_2020_paper_11.pdf) [video](https://youtu.be/-KnOxAkMG6c)
 
