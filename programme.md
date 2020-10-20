@@ -85,11 +85,11 @@ _TUE OCT 20 10-12 CEST (Chair: David Meredith)_
 
 > Rui Guo, Ivor Simpson, Thor Magnusson and Dorien Herremans. Symbolic music generation with tension control [pdf](papers/CSMC__MuMe_2020_paper_47.pdf)
 
-> Zeng Ren. Style Composition With An Evolutionary Algorithm [pdf](papers/CSMC__MuMe_2020_paper_11.pdf)
+> Zeng Ren. Style Composition With An Evolutionary Algorithm [pdf](papers/CSMC__MuMe_2020_paper_11.pdf) [video](https://youtu.be/-KnOxAkMG6c)
 
-> Raymond Whorley and Robin Laney. Generating Subjects for Pieces in the Style of Bach’s Two-Part Inventions [pdf](papers/CSMC__MuMe_2020_paper_1.pdf)
+> Raymond Whorley and Robin Laney. Generating Subjects for Pieces in the Style of Bach’s Two-Part Inventions [pdf](papers/CSMC__MuMe_2020_paper_1.pdf) [video](https://youtu.be/8c6p_a4RPgE)
 
-> Jacopo de Berardinis, Samuel Barrett, Angelo Cangelosi and Eduardo Coutinho. Modelling long- and short-term structure in symbolic music with attention and recurrence [pdf](papers/CSMC__MuMe_2020_paper_46.pdf)
+> Jacopo de Berardinis, Samuel Barrett, Angelo Cangelosi and Eduardo Coutinho. Modelling long- and short-term structure in symbolic music with attention and recurrence [pdf](papers/CSMC__MuMe_2020_paper_46.pdf) [video](https://youtu.be/Bj4RAaFqqLo)
 
 > WIP Aiko Uemura and Tetsuro Kitahara. Morphing-Based Reharmonization using LSTM-VAE [pdf](papers/CSMC__MuMe_2020_paper_25.pdf)
 
