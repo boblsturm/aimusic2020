@@ -44,9 +44,9 @@ Johan Sundberg (born in 1936, Ph.D. in musicology Uppsala University 1966, docto
 > Many AI applications on music relates to music theoretical models, in the sense of musical concepts and ideas of how music works, that are not always made explicit, explicitly discussed or questioned. Already the choice of representations of music and sound as well as the selection of data for training models can influence models and creative output greatly. Here we will give some examples of problems arising when modelling basic musical features, from the experience of developing  automatic music notation.
 2. [CJ Carr (dadabots)](https://dadabots.com) *24/7 AI Death Metal : Eliminating Humans from Music*
 >Attention AI Music researcher! Are you trapped in the ivory tower doing 100% research and 0% music? Come down and join the fun. Get a glimpse into what it's like being a Bot Band circa 2020: neural synthesis, soundcloud bots, viral livestreams, music videos, art exhibits, hackathons, tours, and legal hurdles. You will leave feeling inspired to cold-email your favorite musicians about high-tech collaboration.
-1. [Holly Herndon](https://www.hollyherndon.com)
 2. [Professor Mary Simoni, Rensselaer Polytechnic Institute](https://faculty.rpi.edu/node/35920) *AI Mash-Up: musical analysis, generative music, and big data meets music composition*
 > This talk will highlight AI algorithms as applied to musical analysis, deep learning and generative music, and the application of COVID-19 data sets to musical composition.
+1. [Holly Herndon](https://www.hollyherndon.com)
 
 ---
 # Tutorials
