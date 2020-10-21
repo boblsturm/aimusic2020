@@ -84,7 +84,7 @@ _MON OCT 19 16-18 CEST (Chair: Róisín Loughran)_
 
 _TUE OCT 20 10-12 CEST (Chair: David Meredith)_
 
-> Rui Guo, Ivor Simpson, Thor Magnusson and Dorien Herremans. Symbolic music generation with tension control [pdf](papers/CSMC__MuMe_2020_paper_47.pdf) [video]()
+> Rui Guo, Ivor Simpson, Thor Magnusson and Dorien Herremans. Symbolic music generation with tension control [pdf](papers/CSMC__MuMe_2020_paper_47.pdf) [video](https://youtu.be/uUU_LPUjbWc?t=107)
 
 > Zeng Ren. Style Composition With An Evolutionary Algorithm [pdf](papers/CSMC__MuMe_2020_paper_11.pdf) [video](https://youtu.be/-KnOxAkMG6c)
 
@@ -92,9 +92,9 @@ _TUE OCT 20 10-12 CEST (Chair: David Meredith)_
 
 > Jacopo de Berardinis, Samuel Barrett, Angelo Cangelosi and Eduardo Coutinho. Modelling long- and short-term structure in symbolic music with attention and recurrence [pdf](papers/CSMC__MuMe_2020_paper_46.pdf) [video](https://youtu.be/Bj4RAaFqqLo)
 
-> WIP Aiko Uemura and Tetsuro Kitahara. Morphing-Based Reharmonization using LSTM-VAE [pdf](papers/CSMC__MuMe_2020_paper_25.pdf) [video]()
+> WIP Aiko Uemura and Tetsuro Kitahara. Morphing-Based Reharmonization using LSTM-VAE [pdf](papers/CSMC__MuMe_2020_paper_25.pdf) [video](https://youtu.be/uUU_LPUjbWc?t=5889)
 
-> DEMO Richard Savery, Lisa Zahray and Gil Weinberg. ProsodyCVAE: A Conditional Convolutional Variational Autoencoder for Real-time Emotional Music Prosody Generation [pdf](papers/CSMC__MuMe_2020_paper_16.pdf) [video]()
+> DEMO Richard Savery, Lisa Zahray and Gil Weinberg. ProsodyCVAE: A Conditional Convolutional Variational Autoencoder for Real-time Emotional Music Prosody Generation [pdf](papers/CSMC__MuMe_2020_paper_16.pdf) [video](https://youtu.be/uUU_LPUjbWc?t=6772)
 
 _TUE OCT 20 16-18 CEST (Chair: Shlomo Dubnov)_
 
@@ -110,17 +110,17 @@ _TUE OCT 20 16-18 CEST (Chair: Shlomo Dubnov)_
 
 _WED OCT 21 10-12 CEST (Chair: Steven Jan)_
 
-> DEMO Roger Dean. The multi-tuned piano: keyboard music without a tuning system generated manually or by Deep Improviser [pdf](papers/CSMC__MuMe_2020_paper_22.pdf)
+> DEMO Roger Dean. The multi-tuned piano: keyboard music without a tuning system generated manually or by Deep Improviser [pdf](papers/CSMC__MuMe_2020_paper_22.pdf) [video](https://youtu.be/p4j63hK9J-o?t=131)
 
-> Stefano Kalonaris and Anna Aljanaki. Meet HER: A Language-based Approach to Generative Music Systems Evaluation [pdf](papers/CSMC__MuMe_2020_paper_4.pdf)
+> Stefano Kalonaris and Anna Aljanaki. Meet HER: A Language-based Approach to Generative Music Systems Evaluation [pdf](papers/CSMC__MuMe_2020_paper_4.pdf) [video](https://youtu.be/p4j63hK9J-o?t=780)
 
-> Mio Kusachi, Aiko Uemura and Tetsuro Kitahara. A Piano Ballad Arrangement System [pdf](papers/CSMC__MuMe_2020_paper_41.pdf)
+> Mio Kusachi, Aiko Uemura and Tetsuro Kitahara. A Piano Ballad Arrangement System [pdf](papers/CSMC__MuMe_2020_paper_41.pdf) [video](https://youtu.be/p4j63hK9J-o?t=2085)
 
-> Mathias Rose Bjare and David Meredith. Sequence Generative Adversarial Networks for Music Generation with Maximum Entropy Reinforcement Learning [pdf](papers/CSMC__MuMe_2020_paper_20.pdf)
+> Mathias Rose Bjare and David Meredith. Sequence Generative Adversarial Networks for Music Generation with Maximum Entropy Reinforcement Learning [pdf](papers/CSMC__MuMe_2020_paper_20.pdf) [video](https://youtu.be/p4j63hK9J-o?t=3343)
 
-> Liam Dallas and Fabio Morreale. Effects of Added Vocals and Human Production to AI-composed Music on Listener’s Appreciation [pdf](papers/CSMC__MuMe_2020_paper_23.pdf)
+> Liam Dallas and Fabio Morreale. Effects of Added Vocals and Human Production to AI-composed Music on Listener’s Appreciation [pdf](papers/CSMC__MuMe_2020_paper_23.pdf) [video](https://youtu.be/p4j63hK9J-o?t=4459)
 
-> WIP Sutirtha Chakraborty, Shyam Kishor, Shubham Nikesh Patil and Joseph Timoney. LeaderSTeM-A LSTM model for dynamic leader identification within musical streams [pdf](papers/CSMC__MuMe_2020_paper_52.pdf)
+> WIP Sutirtha Chakraborty, Shyam Kishor, Shubham Nikesh Patil and Joseph Timoney. LeaderSTeM-A LSTM model for dynamic leader identification within musical streams [pdf](papers/CSMC__MuMe_2020_paper_52.pdf) [video](https://youtu.be/TOC4cn7jOGA)
 
 _WED OCT 21 16-18 CEST (Chair: Jean-Pierre Briot)_
 
