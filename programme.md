@@ -84,7 +84,7 @@ _MON OCT 19 16-18 CEST (Chair: Róisín Loughran)_
 
 _TUE OCT 20 10-12 CEST (Chair: David Meredith)_
 
-> Rui Guo, Ivor Simpson, Thor Magnusson and Dorien Herremans. Symbolic music generation with tension control [pdf](papers/CSMC__MuMe_2020_paper_47.pdf) [video](https://youtu.be/SP2cDXG_6K0?t=132)
+> Rui Guo, Ivor Simpson, Thor Magnusson and Dorien Herremans. Symbolic music generation with tension control [pdf](papers/CSMC__MuMe_2020_paper_47.pdf) [video]()
 
 > Zeng Ren. Style Composition With An Evolutionary Algorithm [pdf](papers/CSMC__MuMe_2020_paper_11.pdf) [video](https://youtu.be/-KnOxAkMG6c)
 
@@ -92,9 +92,9 @@ _TUE OCT 20 10-12 CEST (Chair: David Meredith)_
 
 > Jacopo de Berardinis, Samuel Barrett, Angelo Cangelosi and Eduardo Coutinho. Modelling long- and short-term structure in symbolic music with attention and recurrence [pdf](papers/CSMC__MuMe_2020_paper_46.pdf) [video](https://youtu.be/Bj4RAaFqqLo)
 
-> WIP Aiko Uemura and Tetsuro Kitahara. Morphing-Based Reharmonization using LSTM-VAE [pdf](papers/CSMC__MuMe_2020_paper_25.pdf) [video](https://youtu.be/SP2cDXG_6K0?t=5906)
+> WIP Aiko Uemura and Tetsuro Kitahara. Morphing-Based Reharmonization using LSTM-VAE [pdf](papers/CSMC__MuMe_2020_paper_25.pdf) [video]()
 
-> DEMO Richard Savery, Lisa Zahray and Gil Weinberg. ProsodyCVAE: A Conditional Convolutional Variational Autoencoder for Real-time Emotional Music Prosody Generation [pdf](papers/CSMC__MuMe_2020_paper_16.pdf) [video](https://youtu.be/SP2cDXG_6K0?t=6770)
+> DEMO Richard Savery, Lisa Zahray and Gil Weinberg. ProsodyCVAE: A Conditional Convolutional Variational Autoencoder for Real-time Emotional Music Prosody Generation [pdf](papers/CSMC__MuMe_2020_paper_16.pdf) [video]()
 
 _TUE OCT 20 16-18 CEST (Chair: Shlomo Dubnov)_
 
