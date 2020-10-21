@@ -1,14 +1,14 @@
 # Selected works
 
-1. [Champernowne: "Music from EDSAC" (circa 1960)](#d-g-champernowne-music-from-edsac-circa-1960) [video explanation](https://youtu.be/K_G_98cYEhU?t=644) 
-1. [Ben-Tal: "Notes for a future self"](#oded-ben-tal-notes-for-a-future-self) [video explanation](https://youtu.be/K_G_98cYEhU?t=811) 
-1. [Laidlow: "Alter" for mezzo-sporano and ensemble](#robert-laidlow-alter-for-mezzo-sporano-and-ensemble) [video explanation](https://youtu.be/K_G_98cYEhU?t=1299)
-1. [Collaborative Electroacoustic Composition with Intelligent Agents (CECIA)](#collaborative-electroacoustic-composition-with-intelligent-agents-cecia) [video explanation](https://youtu.be/hgW9UxZV8WM?t=856)
-1. [Kokoras: "AI Phantasy"](#panayiotis-kokoras-ai-phantasy) [video explanation](https://youtu.be/hgW9UxZV8WM?t=2185) 
-1. [Coelho: "Music Transformer and DDSP Etude"](#guilherme-coelho-music-transformer-and-ddsp-etude-of-composition-and-digital-performances) [video explanation](https://youtu.be/K_G_98cYEhU?t=982) 
-1. [Hayes: "Moon via spirit" for live electronics](#lauren-hayes-moon-via-spirit-for-live-electronics) [video explanation](https://youtu.be/hgW9UxZV8WM?t=1715)
-1. [Lopez: "The Journey"](#alvaro-lopez-the-journey) [video explanation](https://youtu.be/hgW9UxZV8WM?t=69)
-1. [Frisk: "pvm"](#henrik-frisk-pvm) [video explanation](https://youtu.be/K_G_98cYEhU?t=1626)
+1. [Champernowne: "Music from EDSAC" (circa 1960)](#d-g-champernowne-music-from-edsac-circa-1960) -- [video explanation](https://youtu.be/K_G_98cYEhU?t=644) 
+1. [Ben-Tal: "Notes for a future self"](#oded-ben-tal-notes-for-a-future-self) -- [video explanation](https://youtu.be/K_G_98cYEhU?t=811) 
+1. [Laidlow: "Alter" for mezzo-sporano and ensemble](#robert-laidlow-alter-for-mezzo-sporano-and-ensemble) -- [video explanation](https://youtu.be/K_G_98cYEhU?t=1299)
+1. [Collaborative Electroacoustic Composition with Intelligent Agents (CECIA)](#collaborative-electroacoustic-composition-with-intelligent-agents-cecia) -- [video explanation](https://youtu.be/hgW9UxZV8WM?t=856)
+1. [Kokoras: "AI Phantasy"](#panayiotis-kokoras-ai-phantasy) -- [video explanation](https://youtu.be/hgW9UxZV8WM?t=2185) 
+1. [Coelho: "Music Transformer and DDSP Etude"](#guilherme-coelho-music-transformer-and-ddsp-etude-of-composition-and-digital-performances) -- [video explanation](https://youtu.be/K_G_98cYEhU?t=982) 
+1. [Hayes: "Moon via spirit" for live electronics](#lauren-hayes-moon-via-spirit-for-live-electronics) -- [video explanation](https://youtu.be/hgW9UxZV8WM?t=1715)
+1. [Lopez: "The Journey"](#alvaro-lopez-the-journey) -- [video explanation](https://youtu.be/hgW9UxZV8WM?t=69)
+1. [Frisk: "pvm"](#henrik-frisk-pvm) -- [video explanation](https://youtu.be/K_G_98cYEhU?t=1626)
 
 ---
 
