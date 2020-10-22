@@ -101,7 +101,7 @@ _TUE OCT 20 16-18 CEST (Chair: Shlomo Dubnov)_
 
 > Carmine-Emanuele Cella, Luke Dzwonczyk, Alejandro Saldarriaga-Fuertes, Hongfu Liu and Helene-Camille Crayencour. A Study on Neural Models for Target-Based Computer-Assisted Musical Orchestration [pdf](papers/CSMC__MuMe_2020_paper_43.pdf) [video](https://youtu.be/iM-wiIuCsM8?t=211)
 
-> Sofy Yuditskaya, Sophia Sun and Derek Kwan. Karaoke of Dreams: A multi-modal neural-network generated music experience [pdf](papers/CSMC__MuMe_2020_paper_5.pdf) [video](https://youtu.be/iM-wiIuCsM8?t=1732)
+> Sofy Yuditskaya, Sophia Sun and Derek Kwan. Karaoke of Dreams: A multi-modal neural-network generated music experience [pdf](papers/CSMC__MuMe_2020_paper_5.pdf) [video](https://youtu.be/YVYUmCHzzH8)
 
 > Guillaume Alain, Maxime Chevalier-Boisvert, Frederic Osterrath and Remi Piche-Taillefer. DeepDrummer : Generating Drum Loops using Deep Learning and a Human in the Loop [pdf](papers/CSMC__MuMe_2020_paper_18.pdf) [video](https://youtu.be/WdDCaXeHBqY)
 
@@ -125,15 +125,15 @@ _WED OCT 21 10-12 CEST (Chair: Steven Jan)_
 
 _WED OCT 21 16-18 CEST (Chair: Jean-Pierre Briot)_
 
-> Nick Collins, Vit Ruzicka and Mick Grierson. Remixing AIs: mind swaps, hybrainity, and splicing musical models [pdf](papers/CSMC__MuMe_2020_paper_2.pdf)
+> Nick Collins, Vit Ruzicka and Mick Grierson. Remixing AIs: mind swaps, hybrainity, and splicing musical models [pdf](papers/CSMC__MuMe_2020_paper_2.pdf) [video](https://youtu.be/wzk0JdvbDeM?t=150)
 
-> Lonce Wyse and Muhammad Huzaifah. Deep learning models for generating audio textures [pdf](papers/CSMC__MuMe_2020_paper_36.pdf)
+> Lonce Wyse and Muhammad Huzaifah. Deep learning models for generating audio textures [pdf](papers/CSMC__MuMe_2020_paper_36.pdf) [video](https://youtu.be/wzk0JdvbDeM?t=1360)
 
-> Nicolas Jonason, Bob L. T. Sturm and Carl Thomé. The control-synthesis approach for making expressive and controllable neural music synthesizers [pdf](papers/CSMC__MuMe_2020_paper_29.pdf)
+> Nicolas Jonason, Bob L. T. Sturm and Carl Thomé. The control-synthesis approach for making expressive and controllable neural music synthesizers [pdf](papers/CSMC__MuMe_2020_paper_29.pdf) [video](https://youtu.be/NJVEJBhVvcE)
 
-> Mathieu Prang and Philippe Esling. Signal-domain representation of symbolic music for learning embedding spaces [pdf](papers/CSMC__MuMe_2020_paper_44.pdf)
+> Mathieu Prang and Philippe Esling. Signal-domain representation of symbolic music for learning embedding spaces [pdf](papers/CSMC__MuMe_2020_paper_44.pdf) [video](https://youtu.be/gGoRdH2vyrY)
 
-> WIP Foteini Simistira Liwicki, Marcus Liwicki, Pedro Malo Perise, Federico Ghelli Visi and Stefan Ostersjo. Analysing Musical Performance in Videos Using Deep Neural Networks [pdf](papers/CSMC__MuMe_2020_paper_24.pdf) [video](https://youtu.be/FreMzfCSAfs)
+> WIP Foteini Simistira Liwicki, Marcus Liwicki, Pedro Malo Perise, Federico Ghelli Visi and Stefan Ostersjo. Analysing Musical Performance in Videos Using Deep Neural Networks [pdf](papers/CSMC__MuMe_2020_paper_24.pdf) [video](https://youtu.be/5L_RNbAe4jg)
 
 _THU OCT 22 10-12 CEST (Chair: Ollie Bown)_
 
