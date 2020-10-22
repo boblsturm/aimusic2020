@@ -137,15 +137,15 @@ _WED OCT 21 16-18 CEST (Chair: Jean-Pierre Briot)_
 
 _THU OCT 22 10-12 CEST (Chair: Ollie Bown)_
 
-> Amir Salimi and Abram Hindle. Make Your Own Audience: Virtual Listeners Can Filter Generated Drum Programs [pdf](papers/CSMC__MuMe_2020_paper_50.pdf)
+> Amir Salimi and Abram Hindle. Make Your Own Audience: Virtual Listeners Can Filter Generated Drum Programs [pdf](papers/CSMC__MuMe_2020_paper_50.pdf) [video](https://youtu.be/FsIECqY0l_Y)
 
-> Grigore Burloiu. Interactive Learning of Microtiming in an Expressive Drum Machine [pdf](papers/CSMC__MuMe_2020_paper_30.pdf)
+> Grigore Burloiu. Interactive Learning of Microtiming in an Expressive Drum Machine [pdf](papers/CSMC__MuMe_2020_paper_30.pdf) [video](https://youtu.be/0EsTGTkdmtU)
 
-> Germán Ruiz-Marcos, Alistair Willis and Robin Laney. Automatically calculating tonal tension [pdf](papers/CSMC__MuMe_2020_paper_27.pdf)
+> Germán Ruiz-Marcos, Alistair Willis and Robin Laney. Automatically calculating tonal tension [pdf](papers/CSMC__MuMe_2020_paper_27.pdf) [video](https://youtu.be/votJkepXpko)
 
-> Hadrien Foroughmand and Geoffroy Peeters. Extending Deep Rhythm for Tempo and Genre Estimation Using Complex Convolutions, Multitask Learning and Multi-input Network [pdf](papers/CSMC__MuMe_2020_paper_39.pdf)
+> Hadrien Foroughmand and Geoffroy Peeters. Extending Deep Rhythm for Tempo and Genre Estimation Using Complex Convolutions, Multitask Learning and Multi-input Network [pdf](papers/CSMC__MuMe_2020_paper_39.pdf) [video](https://youtu.be/hyDt0Vww6Hw)
 
-> DEMO James Bradbury. Computer-assisted corpus exploration with UMAP and agglomerative clustering [pdf](papers/CSMC__MuMe_2020_paper_6.pdf)
+> DEMO James Bradbury. Computer-assisted corpus exploration with UMAP and agglomerative clustering [pdf](papers/CSMC__MuMe_2020_paper_6.pdf) [video](https://youtu.be/-FNO0QovfsI)
 
 _THU OCT 22 16-18 CEST (Chair: Robin Laney)_
 
