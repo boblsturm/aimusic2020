@@ -45,9 +45,9 @@ Johan Sundberg (born in 1936, Ph.D. in musicology Uppsala University 1966, docto
 >Attention AI Music researcher! Are you trapped in the ivory tower doing 100% research and 0% music? Come down and join the fun. Get a glimpse into what it's like being a Bot Band circa 2020: neural synthesis, soundcloud bots, viral livestreams, music videos, art exhibits, hackathons, tours, and legal hurdles. You will leave feeling inspired to cold-email your favorite musicians about high-tech collaboration.
 2. [Henry Adam Svec, University of Waterloo](http://www.henryadamsvec.ca) *“Gonna Burn All My Bridges”: LIVINGSTON’s Artificially Intelligent Folk Songs of Canada and an Alternative Way Forward in A.I. Research* [video](https://youtu.be/xn6frr9iGfk)
 > Decades of discovery in the field of artificial intelligence have prioritized intelligence as the lodestar of research and development. What if folkloristic authenticity was substituted as the guiding goal of our collective labours? In this playful performance, involving both storytelling and song, Henry Adam Svec will explore this and other questions through the recounting of a most unlikely scenario—the time when, in Dawson City, Yukon, he co-invented the world’s first artificially intelligent database of Canadian folksong.
-2. [Professor Mary Simoni, Rensselaer Polytechnic Institute](https://faculty.rpi.edu/node/35920) *AI Mash-Up: musical analysis, generative music, and big data meets music composition*
+2. [Professor Mary Simoni, Rensselaer Polytechnic Institute](https://faculty.rpi.edu/node/35920) *AI Mash-Up: musical analysis, generative music, and big data meets music composition* [video](https://youtu.be/HMY3uQd4TzQ)
 > This talk will highlight AI algorithms as applied to musical analysis, deep learning and generative music, and the application of COVID-19 data sets to musical composition.
-1. [Holly Herndon](https://www.hollyherndon.com) *Holly Herndon: PROTO artist talk*
+1. [Holly Herndon](https://www.hollyherndon.com) *Holly Herndon: PROTO artist talk* [video](https://youtu.be/QDMxU5J4yZc)
 > Over the last few years Holly Herndon has developed music for her ensemble of human and inhuman vocalists. In this artist talk, she will discuss her unique approach to machine learning and explore it's limitations as well as opportunities it might reveal for a 21st century approach to music.
 
 ---
@@ -161,14 +161,14 @@ _THU OCT 22 16-18 CEST (Chair: Robin Laney)_
 
 _FRI OCT 23 16-18 CEST (Chair: Philippe Pasquier)_
 
-> Sandeep Dasari and Jason Freeman. Directed Evolution in Live Coding Music Performance [pdf](papers/CSMC__MuMe_2020_paper_14.pdf)
+> Sandeep Dasari and Jason Freeman. Directed Evolution in Live Coding Music Performance [pdf](papers/CSMC__MuMe_2020_paper_14.pdf) [video](https://youtu.be/1qEerGNDmB0?t=137)
 
-> Fred Bruford, Skot McDonald and Mark Sandler. jaki: User-Controllable Generation of Drum Patterns using LSTM Encoder-Decoder and Deep Reinforcement Learning [pdf](papers/CSMC__MuMe_2020_paper_37.pdf)
+> Fred Bruford, Skot McDonald and Mark Sandler. jaki: User-Controllable Generation of Drum Patterns using LSTM Encoder-Decoder and Deep Reinforcement Learning [pdf](papers/CSMC__MuMe_2020_paper_37.pdf) [video](https://youtu.be/1qEerGNDmB0?t=1474)
 
-> Hayato Sumino, Adrien Bitton, Lisa Kawai, Philippe Esling and Tatsuya Harada. Automatic Music Transcription and Instrument Transposition with Differentiable Rendering [pdf](papers/CSMC__MuMe_2020_paper_31.pdf)
+> Hayato Sumino, Adrien Bitton, Lisa Kawai, Philippe Esling and Tatsuya Harada. Automatic Music Transcription and Instrument Transposition with Differentiable Rendering [pdf](papers/CSMC__MuMe_2020_paper_31.pdf) [video](https://youtu.be/1qEerGNDmB0?t=2802)
 
-> WIP Darrell Conklin and Geert Maessen. Aspects of pattern discovery for Mozarabic chant realization [pdf](papers/CSMC__MuMe_2020_paper_42.pdf)
+> WIP Darrell Conklin and Geert Maessen. Aspects of pattern discovery for Mozarabic chant realization [pdf](papers/CSMC__MuMe_2020_paper_42.pdf) [video](https://youtu.be/1qEerGNDmB0?t=4013)
 
-> WIP Samuel Hunt. An Analysis of Repetition in Video Game Music [pdf](papers/CSMC__MuMe_2020_paper_10.pdf)
+> WIP Samuel Hunt. An Analysis of Repetition in Video Game Music [pdf](papers/CSMC__MuMe_2020_paper_10.pdf) [video](https://youtu.be/cmLkX8fQ9Uc)
 
-> WIP Gabriel Vigliensoni, Louis McCallum, Esteban Maestre and Rebecca Fiebrink. Generation and visualization of rhythmic latent spaces [pdf](papers/CSMC__MuMe_2020_paper_13.pdf)
+> WIP Gabriel Vigliensoni, Louis McCallum, Esteban Maestre and Rebecca Fiebrink. Generation and visualization of rhythmic latent spaces [pdf](papers/CSMC__MuMe_2020_paper_13.pdf) [video](https://youtu.be/1qEerGNDmB0?t=5709)
