@@ -149,15 +149,15 @@ _THU OCT 22 10-12 CEST (Chair: Ollie Bown)_
 
 _THU OCT 22 16-18 CEST (Chair: Robin Laney)_
 
-> Shlomo Dubnov. Deep Music Information Dynamics [pdf](papers/CSMC__MuMe_2020_paper_15.pdf)
+> Shlomo Dubnov. Deep Music Information Dynamics [pdf](papers/CSMC__MuMe_2020_paper_15.pdf) [video](https://youtu.be/catTOvuhy5E?t=150)
 
-> Shuqi Dai, Huan Zhang and Roger Dannenberg. Automatic Detection of Hierarchical Structure and Influence of Structure on Melody, Harmony and Rhythm in Popular Music [pdf](papers/CSMC__MuMe_2020_paper_32.pdf)
+> Shuqi Dai, Huan Zhang and Roger Dannenberg. Automatic Detection of Hierarchical Structure and Influence of Structure on Melody, Harmony and Rhythm in Popular Music [pdf](papers/CSMC__MuMe_2020_paper_32.pdf) [video](https://youtu.be/KQk8NoeXTRo)
 
-> Brendan O'Connor, Simon Dixon and George Fazekas. An Exploratory Study on Perceptual Spaces of the Singing Voice [pdf](papers/CSMC__MuMe_2020_paper_38.pdf)
+> Brendan O'Connor, Simon Dixon and George Fazekas. An Exploratory Study on Perceptual Spaces of the Singing Voice [pdf](papers/CSMC__MuMe_2020_paper_38.pdf) [video](https://youtu.be/DAZZ_ChbfSo)
 
-> Théis Bazin, Gaëtan Hadjeres, Philippe Esling and Mikhail Malt. Spectrogram Inpainting for Interactive Generation of Instrument Sounds [pdf](papers/CSMC__MuMe_2020_paper_49.pdf)
+> Théis Bazin, Gaëtan Hadjeres, Philippe Esling and Mikhail Malt. Spectrogram Inpainting for Interactive Generation of Instrument Sounds [pdf](papers/CSMC__MuMe_2020_paper_49.pdf) [video](https://youtu.be/catTOvuhy5E?t=4547)
 
-> WIP Manos Plitsis, Kosmas Kritsis, Maximos Kaliakatsos-Papakostas, Aggelos Pikrakis and Vassilis Katsouros. Towards a Classification and Evaluation of Symbolic Music Encodings for RNN Music Generation [pdf](papers/CSMC__MuMe_2020_paper_53.pdf)
+> WIP Manos Plitsis, Kosmas Kritsis, Maximos Kaliakatsos-Papakostas, Aggelos Pikrakis and Vassilis Katsouros. Towards a Classification and Evaluation of Symbolic Music Encodings for RNN Music Generation [pdf](papers/CSMC__MuMe_2020_paper_53.pdf) [video](https://youtu.be/Em52DuckTiA)
 
 _FRI OCT 23 16-18 CEST (Chair: Philippe Pasquier)_
 
