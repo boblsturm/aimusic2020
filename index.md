@@ -1,10 +1,8 @@
-**The 2020 Joint Conference on AI Music Creativity will be entirely virtual** 
-
 This conference brings together for the first time two overlapping research forums: [The Computer Simulation of Music Creativity conference (est. 2016)](https://csmc2018.wordpress.com/), and [The International Workshop on Musical Metacreation (est. 2012)](http://musicalmetacreation.org/). The principal goal is to bring together scholars and artists interested in the virtual emulation of musical creativity and its use for music creation, and to provide an interdisciplinary platform to promote, present and discuss their work in scientific and artistic contexts.
 
 The computational simulation of musical creativity continues to be an exciting and significant area of academic research, and is now making impacts in commercial realms. Such systems pose several theoretical and technical challenges, and are the result of an interdisciplinary effort that encompasses the domains of music, artificial intelligence, cognitive science and philosophy. This can be seen within the broader realm of Musical Metacreation, which studies the design and use of such generative tools and theories for music making: discovery and exploration of novel musical styles and content, collaboration between human performers and creative software “partners”, and design of systems in gaming and entertainment that dynamically generate or modify music.
 
-The 2020 Joint Conference on AI Music Creativity will be **virtual**. It will consist of synchronous and asynchronous events. The five-day program will feature tutorials, research paper presentations, discussion panels, an online exhibition, nine invited spotlight presentations and two keynotes. 
+The 2020 Joint Conference on AI Music Creativity was **virtual**. The five-day program featured eight paper sessions, four panels, an online music exhibition, two keynotes, nine invited spotlight presentations, and two tutorials. Videos of all sessions can be found [here](https://studio.youtube.com/channel/UCKPmNS4MukbvsmAu9aQobMw). 
 
 The original calls for papers, musical works, panels and tutorials is [here](Calls.html).
 
