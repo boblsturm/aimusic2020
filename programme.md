@@ -137,7 +137,7 @@ _WED OCT 21 16-18 CEST (Chair: Jean-Pierre Briot)_
 
 _THU OCT 22 10-12 CEST (Chair: Ollie Bown)_
 
-> Amir Salimi and Abram Hindle. Make Your Own Audience: Virtual Listeners Can Filter Generated Drum Programs [pdf](papers/CSMC__MuMe_2020_paper_50.pdf) [video](https://youtu.be/FsIECqY0l_Y)
+> Amir Salimi and Abram Hindle. Make Your Own Audience: Virtual Listeners Can Filter Generated Drum Programs [pdf](papers/CSMC__MuMe_2020_paper_50.pdf) [video](https://youtu.be/GcwOAaYEhk4?t=179) 
 
 > Grigore Burloiu. Interactive Learning of Microtiming in an Expressive Drum Machine [pdf](papers/CSMC__MuMe_2020_paper_30.pdf) [video](https://youtu.be/0EsTGTkdmtU)
 
