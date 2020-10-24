@@ -47,7 +47,7 @@ Johan Sundberg (born in 1936, Ph.D. in musicology Uppsala University 1966, docto
 > Decades of discovery in the field of artificial intelligence have prioritized intelligence as the lodestar of research and development. What if folkloristic authenticity was substituted as the guiding goal of our collective labours? In this playful performance, involving both storytelling and song, Henry Adam Svec will explore this and other questions through the recounting of a most unlikely scenario—the time when, in Dawson City, Yukon, he co-invented the world’s first artificially intelligent database of Canadian folksong.
 2. [Professor Mary Simoni, Rensselaer Polytechnic Institute](https://faculty.rpi.edu/node/35920) *AI Mash-Up: musical analysis, generative music, and big data meets music composition* [video](https://youtu.be/HMY3uQd4TzQ)
 > This talk will highlight AI algorithms as applied to musical analysis, deep learning and generative music, and the application of COVID-19 data sets to musical composition.
-1. [Holly Herndon](https://www.hollyherndon.com) *Holly Herndon: PROTO artist talk* [video](https://youtu.be/QDMxU5J4yZc)
+1. [Holly Herndon](https://www.hollyherndon.com) *Holly Herndon: PROTO artist talk* 
 > Over the last few years Holly Herndon has developed music for her ensemble of human and inhuman vocalists. In this artist talk, she will discuss her unique approach to machine learning and explore it's limitations as well as opportunities it might reveal for a 21st century approach to music.
 
 ---
