@@ -1,4 +1,4 @@
-**The 2020 Joint Conference on AI Music Creativity will be entirely virtual, and live streamed [here](https://www.youtube.com/channel/UCKPmNS4MukbvsmAu9aQobMw)** 
+**The 2020 Joint Conference on AI Music Creativity was entirely virtual, and live-streamed [here](https://www.youtube.com/channel/UCKPmNS4MukbvsmAu9aQobMw).** 
 
 # Schedule
 
@@ -64,7 +64,7 @@ Johan Sundberg (born in 1936, Ph.D. in musicology Uppsala University 1966, docto
 
 4. **AI Music Generation Challenge 2020**: Bob L. T. Sturm (chair), Jennikel Andersson (judge, fiddle), Kevin Glackin (judge, fiddle), Henrik Norbeck (judge, flute & whistle), Paudie O'Connor (judge, accordion) [video](https://youtu.be/I-wzLhw6ra4)
 1. **The Future AI Musician**: Oded Ben-Tal (chair), Mark d'Inverno, Mary Simoni, Elaine Chew, and Prateek Verma [video](https://youtu.be/7z6Otnj_aYg)
-3. **The Future of MuMe + CSMC**: Bob L. T. Sturm, Philippe Pasquier, Oliver Bown, Robin Laney, Róisín Loughran, Steven Jan, Valerio Velardo, Artemi-Maria Gioti (chairs)
+3. **The Future of MuMe + CSMC**: Bob L. T. Sturm, Philippe Pasquier, Oliver Bown, Robin Laney, Róisín Loughran, Steven Jan, Valerio Velardo, Artemi-Maria Gioti (chairs) [video](https://youtu.be/SdW4wgC_3NQ)
 
 ---
 # Papers 
