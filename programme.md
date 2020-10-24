@@ -167,7 +167,7 @@ _FRI OCT 23 16-18 CEST (Chair: Philippe Pasquier)_
 
 > Hayato Sumino, Adrien Bitton, Lisa Kawai, Philippe Esling and Tatsuya Harada. Automatic Music Transcription and Instrument Transposition with Differentiable Rendering [pdf](papers/CSMC__MuMe_2020_paper_31.pdf) [video](https://youtu.be/1qEerGNDmB0?t=2802)
 
-> WIP Darrell Conklin and Geert Maessen. Aspects of pattern discovery for Mozarabic chant realization [pdf](papers/CSMC__MuMe_2020_paper_42.pdf) [video](https://youtu.be/1qEerGNDmB0?t=4013)
+> WIP Darrell Conklin and Geert Maessen. Aspects of pattern discovery for Mozarabic chant realization [pdf](papers/CSMC__MuMe_2020_paper_42.pdf)
 
 > WIP Samuel Hunt. An Analysis of Repetition in Video Game Music [pdf](papers/CSMC__MuMe_2020_paper_10.pdf) [video](https://youtu.be/cmLkX8fQ9Uc)
 
