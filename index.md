@@ -2,7 +2,7 @@ This conference brings together for the first time two overlapping research foru
 
 The computational simulation of musical creativity continues to be an exciting and significant area of academic research, and is now making impacts in commercial realms. Such systems pose several theoretical and technical challenges, and are the result of an interdisciplinary effort that encompasses the domains of music, artificial intelligence, cognitive science and philosophy. This can be seen within the broader realm of Musical Metacreation, which studies the design and use of such generative tools and theories for music making: discovery and exploration of novel musical styles and content, collaboration between human performers and creative software “partners”, and design of systems in gaming and entertainment that dynamically generate or modify music.
 
-The 2020 Joint Conference on AI Music Creativity was **virtual**. The five-day program featured eight paper sessions, four panels, an online music exhibition, two keynotes, nine invited spotlight presentations, and two tutorials. Videos of all sessions can be found [here](https://studio.youtube.com/channel/UCKPmNS4MukbvsmAu9aQobMw). 
+The 2020 Joint Conference on AI Music Creativity was **virtual**. The five-day program featured eight paper sessions, four panels, an online music exhibition, two keynotes, nine invited spotlight presentations, and two tutorials. Videos of all sessions can be found [here](https://www.youtube.com/channel/UCKPmNS4MukbvsmAu9aQobMw). 
 
 The original calls for papers, musical works, panels and tutorials is [here](Calls.html).
 
