@@ -5,6 +5,7 @@
 <img src="Schedule.png">
 
 - [Oct 19 2020 Opening session](https://youtu.be/K_G_98cYEhU)
+- [Oct 23 2020 Closing session](https://youtu.be/SdW4wgC_3NQ?t=4072)
 
 ---
 
