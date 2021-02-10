@@ -70,7 +70,7 @@ Johan Sundberg (born in 1936, Ph.D. in musicology Uppsala University 1966, docto
 ---
 # Papers 
 
-**Published with ISBN 978-91-519-5560-5**
+**Published with ISBN 978-91-519-5560-5, [DOI: 10.30746/978-91-519-5560-5](https://doi.org/10.30746/978-91-519-5560-5)**
 
 _MON OCT 19 16-18 CEST (Chair: Róisín Loughran)_
 
